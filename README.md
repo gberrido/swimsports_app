@@ -40,3 +40,4 @@ The app is designed to be responsive and works well on both iPad-sized screens a
 **Note**: This is a basic structure of the app. Depending on requirements, it can be expanded and modified further.
 # swimsports_app
 # swimsports_app
+# swimsports_app
