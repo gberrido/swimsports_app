@@ -1,0 +1,781 @@
+{
+    "app_title": "Tests Swim Sports",
+    "category": "Catégorie",
+    "water_depth": "Profondeur de l'eau",
+    "distance": "Distance",
+    "description": "Description",
+    "focus": "Focus",
+    "compulsory": "Exercice obligatoire",
+    "levels": [
+        {
+            "level": "Ecrevisse",
+            "age_group": "4 à 5 ans",
+            "level_description": "Le niveau 'Ecrevisse' pour les enfants de 4 à 5 ans sert d'introduction ludique à l'eau. Ils apprendront des exercices pour s'accoutumer à l'eau et développer des compétences de base en natation.",
+            "icon": "assets/icons/g1.jpg",
+            "drills": [
+                {
+                    "drill_name": "Petit plongeur",
+                    "category": "Accoutumance à l‘eau",
+                    "water_depth": "Les enfants ont pied",
+                    "description": "Debout, s’immerger complètement en retenant sa respiration pendant 3 secondes au minimum, expirer au-dessus de l’eau.",
+                    "videoAsset": "assets/swim1.1.mp4"
+                },
+                {
+                    "drill_name": "Bain de bulles",
+                    "category": "Accoutumance à l‘eau",
+                    "water_depth": "Les enfants ont pied",
+                    "description": "Debout, s’immerger complètement pendant 3 secondes et expirer visiblement sous l’eau par la bouche et par le nez.",
+                    "videoAsset": "assets/swim1.2.mp4"
+                },
+                {
+                    "drill_name": "Avion",
+                    "category": "Accoutumance à l‘eau",
+                    "water_depth": "Eau à hauteur de poitrine",
+                    "compulsory": "Cet exercice est essentiel et aucun compromis ne doit être fait lors de l'évaluation. Si cet exercice n'est pas maîtrisé de manière sûre et répétable, il est absolument interdit de passer au niveau suivant.",
+                    "description": "En position ventrale, flotter pendant 3 secondes au minimum, position correcte de la tête, les bras tendus sur les côtés.",
+                    "videoAsset": "assets/swim1.3.mp4"
+                },
+                {
+                    "drill_name": "Flèche ventrale",
+                    "category": "Compétence de base",
+                    "water_depth": "Eau à hauteur de poitrine",
+                    "description": "Se pousser et glisser en position ventrale pendant 3 secondes les bras tendus en avant, sans battement de jambes. Le visage est immergé.",
+                    "videoAsset": "assets/swim1.4.mp4"
+                },
+                {
+                    "drill_name": "Saut",
+                    "category": "Accoutumance à l‘eau",
+                    "water_depth": "Les enfants ont pied",
+                    "compulsory": "Cet exercice est essentiel et aucun compromis ne doit être fait lors de l'évaluation. Si cet exercice n'est pas maîtrisé de manière sûre et répétable, il est absolument interdit de passer au niveau suivant.",
+                    "description": "Sauter librement les pieds en premier depuis le bord du bassin avec immersion complète.",
+                    "videoAsset": "assets/swim1.5.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Hippocampe",
+            "age_group": "4 à 5 ans",
+            "level_description": "Le niveau 'Hippocampe' guide les enfants à travers des exercices d'accoutumance à l'eau et de compétences de base en natation.",
+            "icon": "assets/icons/g2.jpg",
+            "drills": [
+                {
+                    "drill_name": "Oeil de poisson",
+                    "category": "Accoutumance à l‘eau",
+                    "water_depth": "Les enfants ont pied",
+                    "description": "S’immerger et ouvrir les yeux. Reconnaître un objet, un chiffre ou une couleur sous l’eau.",
+                    "videoAsset": "assets/swim2.1.mp4"
+                },
+                {
+                    "drill_name": "Pompe à air",
+                    "category": "Accoutumance à l‘eau",
+                    "water_depth": "Les enfants ont pied",
+                    "compulsory": "Les exercices clés avec * doivent impérativement être acquis et réussis de manière aisée pour passer au test suivant.",
+                    "description": "Debout, inspirer, s’immerger et expirer totalement sous l’eau. L’exercice est à effectuer 4 fois sans interruption et sans s’essuyer les yeux. But : rythme de respiration régulier.",
+                    "videoAsset": "assets/swim2.2.mp4"
+                },
+                {
+                    "drill_name": "Nénuphar",
+                    "category": "Accoutumance à l‘eau",
+                    "water_depth": "Les enfants ont pied",
+                    "compulsory": "Les exercices clés avec * doivent impérativement être acquis et réussis de manière aisée pour passer au test suivant.",
+                    "description": "Flotter pendant 5 secondes au minimum en position dorsale, bras écartés sur les côtés ou derrière la tête.",
+                    "videoAsset": "assets/swim2.3.mp4"
+                },
+                {
+                    "drill_name": "Flèche ventrale avec moteur des jambes",
+                    "category": "Compétence de base",
+                    "water_depth": "Les enfants ont pied",
+                    "description": "Glisser sur 2 m minimum en position ventrale en se poussant depuis le bord du bassin ou depuis le sol les bras tendus en avant, puis se propulser encore 2 m avec des battements de jambes.",
+                    "videoAsset": "assets/swim2.4.mp4"
+                },
+                {
+                    "drill_name": "Saut de grenouille",
+                    "category": "Accoutumance à l‘eau",
+                    "water_depth": "La personne qui assiste a pied; eau profonde pour les enfants",
+                    "description": "Sauter dans l’eau profonde les pieds en premier avec immersion complète (la personne qui assiste est debout dans l’eau).",
+                    "videoAsset": "assets/swim2.5.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Grenouille",
+            "age_group": "5-6 ans",
+            "level_description": "Le niveau 'Grenouille' pour les enfants de 5 à 6 ans vise à renforcer les compétences de base dans l'eau et à introduire des mouvements de nage plus avancés.",
+            "icon": "assets/icons/g3.jpg",
+            "drills": [
+                {
+                    "drill_name": "Bateau à moteur",
+                    "category": "Compétence de base",
+                    "water_depth": "Eau à hauteur de poitrine",
+                    "description": "En se poussant du bord, glisser pendant 5 secondes minimum en position ventrale à la surface de l’eau, avec une position correcte de la tête et expirer visiblement.",
+                    "videoAsset": "assets/swim3.1.mp4"
+                },
+                {
+                    "drill_name": "Flèche dorsale",
+                    "category": "Compétence de base",
+                    "water_depth": "Eau à hauteur de poitrine",
+                    "description": "Glisser pendant 5 secondes au minimum en position dorsale après s’être poussé du bord du bassin ou du sol, bras tendus derrière la tête.",
+                    "videoAsset": "assets/swim3.2.mp4"
+                },
+                {
+                    "drill_name": "Nage du phoque sur le dos",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau profonde",
+                    "compulsory": "Cet exercice est essentiel et aucun compromis ne doit être fait lors de l'évaluation. Si cet exercice n'est pas maîtrisé de manière sûre et répétable, il est absolument interdit de passer au niveau suivant.",
+                    "description": "Se propulser avec des battements de jambes alternés en position dorsale sur 8 m. Les mains peuvent effectuer des mouvements à côté du corps ou les bras sont tendus derrière la tête.",
+                    "videoAsset": "assets/swim3.3.mp4"
+                },
+                {
+                    "drill_name": "Nage du phoque sur le ventre",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau profonde",
+                    "compulsory": "Cet exercice est essentiel et aucun compromis ne doit être fait lors de l'évaluation. Si cet exercice n'est pas maîtrisé de manière sûre et répétable, il est absolument interdit de passer au niveau suivant.",
+                    "description": "Se propulser avec des battements de jambes alternés en position ventrale sur 8 m. Les mains peuvent effectuer des mouvements à côté du corps ou les bras sont tendus en avant. Un mouvement des bras (par exemple, pédalage) est recommandé pour faciliter la respiration.",
+                    "videoAsset": "assets/swim3.4.mp4"
+                },
+                {
+                    "drill_name": "Culbute",
+                    "category": "Accoutumance à l'eau",
+                    "water_depth": "Eau profonde",
+                    "description": "Effectuer une roulade avant depuis le bord du bassin dans l’eau profonde.",
+                    "videoAsset": "assets/swim3.5.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Pingouin",
+            "age_group": "5-6 ans",
+            "level_description": "Le niveau 'Pingouin' pour les enfants de 5 à 6 ans vise à renforcer les compétences aquatiques avancées et introduit des mouvements de nage spécifiques.",
+            "icon": "assets/icons/g4.jpg",
+            "drills": [
+                {
+                    "drill_name": "Appui renversé",
+                    "category": "Accoutumance à l‘eau",
+                    "water_depth": "Eau à hauteur de hanches / poitrine",
+                    "description": "Debout, effectuer un appui renversé avec roulade avant et expirer visiblement par le nez.",
+                    "videoAsset": "assets/swim4.1.mp4"
+                },
+                {
+                    "drill_name": "Plonger et passer dans un tunnel",
+                    "category": "Compétence de base",
+                    "water_depth": "Eau à hauteur de poitrine",
+                    "description": "S’immerger, se pousser du mur, glisser et passer à travers un cerceau complètement immergé et tenu verticalement, sans mouvement de propulsion.",
+                    "videoAsset": "assets/swim4.2.mp4"
+                },
+                {
+                    "drill_name": "Superman",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau à hauteur de poitrine",
+                    "compulsory": "Cet exercice est essentiel et aucun compromis ne doit être fait lors de l'évaluation. Si cet exercice n'est pas maîtrisé de manière sûre et répétable, il est absolument interdit de passer au niveau suivant.",
+                    "description": "Se pousser du mur, se propulser sur 10-15 m avec des battements de jambes alternés en position ventrale, un bras tendu en avant. Se tourner sur le côté pour inspirer. Revenir en position ventrale pour expirer. Accomplir l’exercice 3 fois minimum sans interruption.",
+                    "videoAsset": "assets/swim4.3.mp4"
+                },
+                {
+                    "drill_name": "Pédalo",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau profonde",
+                    "compulsory": "Cet exercice est essentiel et aucun compromis ne doit être fait lors de l'évaluation. Si cet exercice n'est pas maîtrisé de manière sûre et répétable, il est absolument interdit de passer au niveau suivant.",
+                    "description": "En position ventrale, se propulser sur 10-15 m avec des mouvements de propulsion et des battements de jambes alternés tout en expirant dans l’eau. Les bras glissent sous l’eau en avant puis tirent en arrière jusque sous les épaules.",
+                    "videoAsset": "assets/swim4.4.mp4"
+                },
+                {
+                    "drill_name": "Dos",
+                    "category": "Compétence du mouvement",
+                    "water_depth": "Eau profonde",
+                    "description": "Nager 15-25 m en dos.",
+                    "videoAsset": "assets/swim4.5.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Pieuvre",
+            "age_group": "6-7 ans",
+            "level_description": "Le niveau 'Pieuvre' pour les enfants de 6 à 7 ans vise à renforcer les compétences de nage et introduit des mouvements avancés ainsi que des techniques de plongeon.",
+            "icon": "assets/icons/g5.jpg",
+            "drills": [
+                {
+                    "drill_name": "Requin",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau profonde",
+                    "description": "Se propulser sur 15-20 m avec battements de jambes alternés en position ventrale, 1 bras tendu devant la tête, l’autre le long du corps. Expirer dans l’eau, inspirer en roulant le corps et en même temps soulever le coude du bras plaqué, ensuite le rabaisser, tourner la tête et expirer dans l’eau.",
+                    "videoAsset": "assets/swim5.1.mp4"
+                },
+                {
+                    "drill_name": "Slalom avec bras en brasse",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau à hauteur de poitrine",
+                    "description": "En se poussant du mur, se propulser sous l’eau sur 5 m en passant à travers 2 cerceaux latéralement décalés, avec des mouvements de bras en brasse et des battements de jambes alternés.",
+                    "videoAsset": "assets/swim5.2.mp4"
+                },
+                {
+                    "drill_name": "Roulement de tronc",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau profonde",
+                    "compulsory": "Cet exercice est essentiel et aucun compromis ne doit être fait lors de l'évaluation. Si cet exercice n'est pas maîtrisé de manière sûre et répétable, il est absolument interdit de passer au niveau suivant.",
+                    "description": "En se poussant du mur avec des battements de jambes alternés, se propulser sur 15 m en roulant deux fois de la position dorsale à la position ventrale et vice-versa, bras tendus derrière la tête pendant tout l’exercice.",
+                    "videoAsset": "assets/swim5.3.mp4"
+                },
+                {
+                    "drill_name": "Crawl en vrille",
+                    "category": "Compétence du mouvement",
+                    "water_depth": "Eau profonde",
+                    "compulsory": "Cet exercice est essentiel et aucun compromis ne doit être fait lors de l'évaluation. Si cet exercice n'est pas maîtrisé de manière sûre et répétable, il est absolument interdit de passer au niveau suivant.",
+                    "description": "Nager 25 m : moitié en position ventrale avec battements de jambes alternés et tractions bras alternées (phase sous l’eau et retour aérien) en respirant sur le côté, moitié en position dorsale avec retour aérien bras tendus, tractions bras régulières.",
+                    "videoAsset": "assets/swim5.4.mp4"
+                },
+                {
+                    "drill_name": "Plongeon",
+                    "category": "Compétence du mouvement spécifique",
+                    "water_depth": "Profondeur de l‘eau adaptée à la taille de l’enfant (1,5 m minimum)",
+                    "description": "Plonger et glisser (depuis la position accroupie ou debout).",
+                    "videoAsset": "assets/swim5.5.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Crocodile",
+            "age_group": "6-7 ans",
+            "level_description": "Le niveau 'Crocodile' pour les enfants de 6-7 ans représente la sixième étape de l'enseignement de la natation. Dans ce niveau, les enfants approfondissent leurs techniques telles que le 'Crawl', l' 'Essuie-glace', le 'Crawl-Brasse-Mix', le 'Pédalage' et les 'Pieds de canard'.",
+            "icon": "assets/icons/g6.jpg",
+            "drills": [
+                {
+                    "drill_name": "Crawl",
+                    "category": "Compétence du mouvement",
+                    "water_depth": "Eau profonde",
+                    "description": "Nager 15 m en crawl.",
+                    "videoAsset": "assets/swim6.1.mp4"
+                },
+                {
+                    "drill_name": "Essuie-glace",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau à hauteur de poitrine",
+                    "description": "En se poussant du mur, se propulser sur 5-8 m uniquement par traction des bras : les bras créent un appui par des mvts de bras et des mains vers l’intérieur et vers l’extérieur avec une orientation des coudes vers l’avant. Le visage est immergé avec une position correcte de la tête, sans mvt brasse ni propulsion jambes.",
+                    "videoAsset": "assets/swim6.2.mp4"
+                },
+                {
+                    "drill_name": "Crawl-Brasse-Mix",
+                    "category": "Compétence du mouvement",
+                    "water_depth": "Eau profonde",
+                    "compulsory": "Les exercices clés avec * doivent impérativement être acquis et réussis de manière aisée pour passer au test suivant.",
+                    "description": "Se propulser sur 20-30 m en position ventrale avec des battements de jambes alternés et des mouvements de bras en brasse. La respiration se fait devant et à chaque traction de bras.",
+                    "videoAsset": "assets/swim6.3.mp4"
+                },
+                {
+                    "drill_name": "Pédalage",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau profonde",
+                    "description": "En eau profonde, corps immergé à la verticale, se maintenir à la surface de l’eau pendant 30 secondes : exécuter des mvts jambes pieds tournés vers l’extérieur et flex (orteils tirés vers le haut). Les bras peuvent faire des petits mvts de soutien, par ex. pagayage.",
+                    "videoAsset": "assets/swim6.4.mp4"
+                },
+                {
+                    "drill_name": "Pieds de canard",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau profonde",
+                    "compulsory": "Les exercices clés avec * doivent impérativement être acquis et réussis de manière aisée pour passer au test suivant.",
+                    "description": "Se propulser sur 10-15 m avec des mouvements de jambes simultanés (propulsion / poussée des jambes, pieds tournés vers l’extérieur), sur le ventre ou sur le dos, la position des bras étant libre.",
+                    "videoAsset": "assets/swim6.5.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Ours polaire",
+            "age_group": "6-8 ans",
+            "level_description": "Le niveau 'Ours polaire' pour les enfants de 6 à 8 ans se concentre sur le perfectionnement des techniques de nage et la maîtrise de mouvements complexes, tout en mettant l'accent sur la sécurité aquatique.",
+            "icon": "assets/icons/g7.jpg",
+            "drills": [
+                {
+                    "drill_name": "Virage sous l’eau",
+                    "category": "Compétence du mouvement",
+                    "water_depth": "Eau à hauteur de poitrine",
+                    "description": "Debout, s’immerger et nager en direction du mur situé à une distance de 5 m, virer sous l’eau et ramener un objet lesté posé à 2 m du mur.",
+                    "videoAsset": "assets/swim7.1.mp4"
+                },
+                {
+                    "drill_name": "Ondulation du corps",
+                    "category": "Compétence de propulsion",
+                    "water_depth": "Eau profonde",
+                    "description": "En se poussant du mur, se propulser sur minimum 4-6 m avec des ondulations du corps simultanées et une impulsion visible depuis la tête / épaules, jambes souples.",
+                    "videoAsset": "assets/swim7.2.mp4"
+                },
+                {
+                    "drill_name": "Brasse",
+                    "category": "Compétence du mouvement",
+                    "water_depth": "Eau profonde",
+                    "description": "Nager 16-25 m en brasse. Mouvement de propulsion / poussée des jambes, pieds tournés vers l’extérieur, et mouvement des bras en brasse, avec les coudes pliés lors de la phase de traction. Coordination correcte entre les bras et la respiration. Expiration visible dans l’eau.",
+                    "videoAsset": "assets/swim7.3.mp4"
+                },
+                {
+                    "drill_name": "Contrôle de sécurité aquatique CSA",
+                    "category": "Eau profonde",
+                    "compulsory": "Cet exercice est essentiel et aucun compromis ne doit être fait lors de l'évaluation. Si cet exercice n'est pas maîtrisé de manière sûre et répétable, il est absolument interdit de passer au niveau suivant.",
+                    "description": "Les 3 exercices sont à effectuer à la suite, sans pause: 1) exécuter une roulade/culbute dans une eau profonde (la tête doit être entièrement immergée). 2) se maintenir sur place à la surface de l’eau pendant 1 minute (soit en flottant sur le dos, soit avec des mouvements de jambes alternés ou de pédalage) et tourner une fois autour de son axe pour s’orienter. 3) nager 50 m.",
+                    "videoAsset": "assets/swim7.4.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Baleine",
+            "icon": "assets/icons/s1.jpg",
+            "level_description": "Au niveau 'Baleine', les nageurs perfectionnent leurs techniques avec des exercices spécialisés. Cela inclut 'Crawl avec mouvements des hanches' pour la coordination bras-hanche, 'Superman – dos' et 'Superman – crawl' pour la coordination bras-jambes, 'Jambes en brasse, position dorsale' pour des mouvements efficaces, 'Nages alternées' sur 50m, 'Départ crawl' mettant l'accent sur la phase de glisse, et 'Virage ouvert crawl' pour améliorer le virage.",
+            "drills": [
+                {
+                    "drill_name": "Crawl avec mouvements des hanches",
+                    "category": "Dauphin",
+                    "distance": "16–25 m",
+                    "focus": "Coordination bras et mouvements des hanches",
+                    "description": "Mouvements des bras en crawl. Lors de la prise d’eau avec la main, remonter activement les hanches. Coordination précise bras et mouvements du corps. Mouvements continus. Jambes passives.",
+                    "videoAsset": "assets/swim_tech1.1.mp4"
+                },
+                {
+                    "drill_name": "Superman – dos",
+                    "category": "Dos",
+                    "distance": "16–25 m",
+                    "focus": "Lors des 6–8 battements réguliers, un bras est allongé derrière l’oreille, l’autre le long du corps",
+                    "description": "En position dorsale, battements de jambes réguliers, à partir des hanches, pieds souples, tournés vers l’intérieur. Lors des 6–8 battements de jambes, un bras allongé derrière l’oreille, l’autre le long du corps. Changement simultané des bras après les 6–8 battements.",
+                    "videoAsset": "assets/swim_tech1.2.mp4"
+                },
+                {
+                    "drill_name": "Jambes en brasse, position dorsale",
+                    "category": "Brasse",
+                    "distance": "Max. 10 mouvements de jambes sur 15 m",
+                    "focus": "Mouvement efficace des jambes",
+                    "description": "En position dorsale, mouvements de jambes en brasse avec phase de glisse visible. Talons aux fesses (lentement) pour atteindre la position W avec les jambes. Mouvements de poussée dynamique des jambes jusqu’à ce qu’elles soient tendues en phase de glisse. Bras passifs le long du corps.",
+                    "videoAsset": "assets/swim_tech1.3.mp4"
+                },
+                {
+                    "drill_name": "Superman – crawl",
+                    "category": "Crawl",
+                    "distance": "16–25 m",
+                    "focus": "Battements réguliers",
+                    "description": "En position ventrale, tête dans l’axe du corps, battements de jambes alternés et réguliers, à partir des hanches, pieds souples, tournés vers l’intérieur. Un bras allongé derrière l’oreille, l’autre le long du corps. Tous les 6–8 battements de jambes, inspirer avant le retour du bras avec une rotation d’environ 45° sur l’axe du corps. Expiration continue durant les 6–8 battements de jambes.",
+                    "videoAsset": "assets/swim_tech1.4.mp4"
+                },
+                {
+                    "drill_name": "Nages alternées",
+                    "category": "Distance",
+                    "distance": "50 m",
+                    "focus": "Mouvements continus des bras sans pause",
+                    "description": "25 m dos suivi directement de 25 m crawl (respiration 3 temps). Mouvements continus des bras, sans pause le long du corps (pas de rattrapage).",
+                    "videoAsset": "assets/swim_tech1.5.mp4"
+                },
+                {
+                    "drill_name": "Départ crawl",
+                    "category": "Départ",
+                    "focus": "Phase de glisse avec position du corps bien tendu",
+                    "description": "Plongeon dynamique du plot de départ ou depuis le bord du bassin. Mains l’une sur l’autre et tête entrent dans l’eau en premier. Phase de glisse, bras et corps tendus. Après la phase de glisse, exécuter 2–3 tractions de bras avant la 1ère inspiration.",
+                    "videoAsset": "assets/swim_tech1.6.mp4"
+                },
+                {
+                    "drill_name": "Virage ouvert crawl",
+                    "category": "Virage",
+                    "focus": "Basculer le corps et plier les jambes sous le tronc de manière dynamique",
+                    "description": "Approche de 5 m du mur en crawl. Une main touche le mur. Basculer le corps de côté, plier les jambes sous le tronc, poser les pieds au mur. L’autre main et le regard sont placés en direction de la nage. La main qui a touché le mur est amenée en arc de cercle par-dessus l’eau en avant. Pousser du mur sous l’eau en position ventrale. Phase de glisse visible, puis exécuter 2–3 tractions de bras avant la 1ère inspiration.",
+                    "videoAsset": "assets/swim_tech1.7.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Brochet",
+            "icon": "assets/icons/s2.jpg",
+            "level_description": "Au niveau 'Brochet', les nageurs perfectionnent leurs techniques avec des exercices spécialisés. Cela inclut 'Ondulations dauphin, petite amplitude', 'Dos à un bras avec roulis actif', 'Mouvements efficaces de bras en brasse', 'Crawl à un bras', '3-nages', 'Départ brasse' et 'Virage brasse'.",
+            "drills": [
+                {
+                    "drill_name": "Ondulations dauphin, petite amplitude",
+                    "category": "Dauphin",
+                    "distance": "16–25 m",
+                    "focus": "Rythme à 2 temps",
+                    "description": "Ondulations dauphin de petite amplitude, avec immersion de la tête et simultanément remonter les hanches hors de l’eau. Déclenchement du mouvement depuis la cage thoracique. Simultanément, suivre le mouvement de battement des jambes symétrique à partir des hanches, pieds souples, tournés vers l’intérieur. Ensuite, soulèvement de la tête en tirant le menton en avant. Abaisser simultanément les hanches pour tendre le corps. Suivre le 2ème mouvement de battement des jambes symétrique. Bras passifs le long du corps.",
+                    "videoAsset": "assets/swim_tech2.1.mp4"
+                },
+                {
+                    "drill_name": "Dos à un bras avec roulis actif",
+                    "category": "Dos",
+                    "distance": "16–25 m",
+                    "focus": "Roulis actif",
+                    "description": "Dos à un bras avec roulis visible. Position dorsale, battements de jambes réguliers à partir des hanches, pieds souples, tournés vers l’intérieur. Lors de l’entrée de la main dans l’eau par l’auriculaire, bras allongé, l’épaule opposée sort de l’eau. Mouvements continus du bras actif (sans pause le long du corps). Bras passif le long du corps. Changement de bras à la moitié de la distance.",
+                    "videoAsset": "assets/swim_tech2.2.mp4"
+                },
+                {
+                    "drill_name": "Mouvements efficaces de bras en brasse",
+                    "category": "Brasse",
+                    "distance": "16–25 m",
+                    "focus": "Dos de la main en direction de la nage lors du mouvement propulsif",
+                    "description": "Mouvements de bras avec respiration et légers battements de jambes alternés. Phase de traction: mouvement des avant-bras vers l’extérieur jusqu’à la double largeur des épaules. Phase de poussée des bras: mouvement rapide des avant-bras vers l’intérieur, position des coudes en avant. L’inspiration doit être terminée quand les bras sont projetés en avant avec la tête qui se baisse. Retour des bras rapprochés. Phase de glisse visible des bras. Dos de la main en direction de la nage.",
+                    "videoAsset": "assets/swim_tech2.3.mp4"
+                },
+                {
+                    "drill_name": "Crawl à un bras",
+                    "category": "Crawl",
+                    "distance": "32–50 m",
+                    "focus": "Phases de prise d’eau, traction et poussée bien visibles",
+                    "description": "Crawl à un bras avec prise d’eau, traction et poussée clairement visibles. Bras passif tendu en avant. Changement de bras après 3 mouvements. Inspiration latérale lors du 3ème mouvement. Phase de retour aérienne du bras, main souple et près du corps. Prise d’eau à la largeur des épaules, bras allongé.",
+                    "videoAsset": "assets/swim_tech2.4.mp4"
+                },
+                {
+                    "drill_name": "3-nages",
+                    "category": "Distance",
+                    "distance": "75 m",
+                    "focus": "Mouvements continus sans pause avec respiration appropriée",
+                    "description": "25 m dos 25 m brasse 25 m crawl. Mouvements continus sans pause avec respiration appropriée. Pas de temps limite.",
+                    "videoAsset": "assets/swim_tech2.5.mp4"
+                },
+                {
+                    "drill_name": "Départ brasse",
+                    "category": "Départ",
+                    "focus": "Plongeon dynamique",
+                    "description": "Départ dynamique du plot de départ ou depuis le bord du bassin. Mains et tête entrent en premier dans l’eau. Phase de glisse, position du corps bien tendu après le départ suivi de la traction. Les bras sont tirés symétriquement en arrière jusqu’en haut des cuisses. La tête doit émerger lors du 2ème cycle des bras avant le retour des bras. Un battement de dauphin est autorisé pendant et à la fin de la traction des bras sous l’eau. Après la phase sous l’eau exécuter 2–3 cycles complets.",
+                    "videoAsset": "assets/swim_tech2.6.mp4"
+                },
+                {
+                    "drill_name": "Virage brasse",
+                    "category": "Virage",
+                    "focus": "Ramener les genoux au buste, basculer le corps de manière dynamique et se repousser du mur avec phase de glisse visible",
+                    "description": "Virage brasse. Les 2 mains doivent toucher le mur simultanément sans superposition. Ramener les genoux au buste, basculer le corps de manière dynamique et se repousser du mur avec phase de glisse visible. Après la poussée du mur suit la phase de glisse, puis une traction. La tête doit émerger lors du 2ème cycle des bras avant le retour des bras. Après la phase subaquatique, exécuter 2–3 cycles complets.",
+                    "videoAsset": "assets/swim_tech2.7.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Requin",
+            "icon": "assets/icons/s3.jpg",
+            "level_description": "Au niveau 'Requin', les nageurs perfectionnent leurs techniques avec des exercices spécialisés. Cela inclut 'Ondulations dauphin avec bras', 'Coordination dos', 'Coordination brasse', 'Vrille crawl – dos', '4-nages', 'Départ dos' et 'Culbute crawl'.",
+            "drills": [
+                {
+                    "drill_name": "Ondulations dauphin avec bras",
+                    "category": "Dauphin",
+                    "distance": "16–25 m",
+                    "focus": "Bras allongés au-dessus de l'eau",
+                    "description": "Ondulations dauphin de petite amplitude avec un mouvement de bras pour 4 ondulations dauphin. Les bras sont en avant. Dès la 4ème ondulation dauphin, le mouvement des bras symétriques suit jusqu'aux cuisses. Retour des bras souples et allongés au-dessus de l'eau. Coordination du mouvement rythmée.",
+                    "videoAsset": "assets/swim_tech3.1.mp4"
+                },
+                {
+                    "drill_name": "Dos à un bras",
+                    "category": "Dos",
+                    "distance": "32–50 m",
+                    "focus": "Traction et poussée, coudes en avant",
+                    "description": "Dos à un bras avec phase de traction et poussée visibles, coudes en avant. Roulis visible autour de l’axe longitudinal. Mouvements continus. 3x chaque bras, puis changement de bras sans pause. Bras passif le long du corps.",
+                    "videoAsset": "assets/swim_tech3.2.mp4"
+                },
+                {
+                    "drill_name": "Coordination brasse",
+                    "category": "Brasse",
+                    "distance": "16–25 m",
+                    "focus": "Phase de glisse des bras",
+                    "description": "Brasse avec un mouvement de bras suivi de deux mouvements de jambes. Mouvements de bras avec phase de traction et de poussée accentuées. Les bras restent allongés (phase de glisse) lors du 2ème mouvement de jambes. Mouvements de jambes efficaces et dynamiques. Le mouvement de jambes est terminé lorsque les deux pieds se touchent.",
+                    "videoAsset": "assets/swim_tech3.3.mp4"
+                },
+                {
+                    "drill_name": "Essuie-glace – crawl",
+                    "category": "Crawl",
+                    "distance": "16–25 m",
+                    "focus": "Mouvements réguliers avec appui sur les bras",
+                    "description": "Position ventrale, corps bien à plat, visage dans l'eau. Pour l’essuie-glace, effectuer un mouvement intérieur-extérieur des avant-bras et des mains sous le haut du corps. Position coudes en avant visible. Après 2–3 mouvements d’essuie-glace, un bras s’allonge en avant tandis que l’autre s’étire le long du corps. Respiration sur le côté. Bras à nouveau en essuie-glace, etc. Respiration 1x à gauche, 1x à droite. Mouvements continus. Jambes passives.",
+                    "videoAsset": "assets/swim_tech3.4.mp4"
+                },
+                {
+                    "drill_name": "4-nages, exercices techniques",
+                    "category": "Distance",
+                    "distance": "100 m",
+                    "focus": "Changement des styles de nage sans pause et sans perte de qualité technique",
+                    "description": "25 m ondulations dauphin avec respiration en avant tous les 2 battements. Bras passifs le long du corps. 25 m dos à un bras avec roulis visible. 25 m brasse coordination: 1 mouvement de bras suivi de 2 mouvements de jambes. 25 m superman-crawl. Continuité de mouvements rythmés. Changement des styles de nage sans pause et sans perte de qualité technique. Pas de temps limite.",
+                    "videoAsset": "assets/swim_tech3.5.mp4"
+                },
+                {
+                    "drill_name": "Jambes dauphin, position dorsale",
+                    "category": "Départ",
+                    "distance": "8 m",
+                    "focus": "Glisse en flèche dorsale",
+                    "description": "Poussée du mur en flèche dorsale. Glisser dans l'eau pour atteindre une profondeur de 80 cm environ avec de petits mouvements de jambes en dauphin rapides sous l'eau. Expiration nasale visible sous l'eau.",
+                    "videoAsset": "assets/swim_tech3.6.mp4"
+                },
+                {
+                    "drill_name": "Culbute dos",
+                    "category": "Virage",
+                    "focus": "Culbute rapide",
+                    "description": "Nager en dos. Avant le mur, se retourner en position ventrale et déclencher une culbute rapide (rotation autour de l’axe transversal). La rotation est déclenchée par la tête et les épaules. Expiration nasale visible. Aucune inspiration en position ventrale avant la culbute. Se repousser en flèche dorsale du mur avec expiration nasale. 3–4 petits mouvements de jambes en dauphin rapides sous l’eau avant la reprise de la nage.",
+                    "videoAsset": "assets/swim_tech3.7.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Dauphin",
+            "icon": "assets/icons/s4.jpg",
+            "level_description": "Au niveau 'Dauphin', les nageurs perfectionnent leurs techniques avec des exercices spécialisés. Cela inclut 'Progression en dauphin', 'Coordination dos', 'Coordination brasse', 'Vrille crawl – dos', '4-nages', 'Départ dos' et 'Culbute crawl'.",
+            "drills": [
+                {
+                    "drill_name": "Progression en dauphin",
+                    "category": "Dauphin",
+                    "distance": "16–25 m",
+                    "focus": "Bras allongés lors de la phase aérienne",
+                    "description": "3 cycles complets en dauphin avec phase aérienne du retour des bras. Mouvements symétriques des bras, poussée jusqu’aux cuisses sans pause. Retour des bras vers l’avant. Puis 6–8 ondulations dauphin de petites amplitudes avec bras en flèche.",
+                    "videoAsset": "assets/swim_tech4.1.mp4"
+                },
+                {
+                    "drill_name": "Coordination dos",
+                    "category": "Dos",
+                    "distance": "50 m",
+                    "focus": "Coordination précise des deux bras",
+                    "description": "Dos à un bras. Traction et poussée du bras et roulis du corps bien visibles. Le bras passif, le long du corps, est amené hors de l’eau jusqu’à la verticale quand le bras de traction est en phase de prise d’eau puis ramener à nouveau le long du corps. Coordination précise des deux bras. Changement de bras après 25 m.",
+                    "videoAsset": "assets/swim_tech4.2.mp4"
+                },
+                {
+                    "drill_name": "Coordination brasse",
+                    "category": "Brasse",
+                    "distance": "50 m",
+                    "focus": "Phase de glisse des jambes",
+                    "description": "Brasse: 2 mouvements de bras pour 1 mouvement de jambes. Dos de la main en direction de la nage pendant toute la phase de propulsion. Position des coudes visible en avant. Inspiration à chaque cycle de bras. Jambes passives lors du 1er mouvement de bras (phase de glisse des jambes).",
+                    "videoAsset": "assets/swim_tech4.3.mp4"
+                },
+                {
+                    "drill_name": "Vrille crawl – dos",
+                    "category": "Crawl",
+                    "distance": "50 m",
+                    "focus": "Position du coude en avant lors des phases de traction et poussée en position ventrale et dorsale",
+                    "description": "3 mouvements de bras en crawl, se tourner sur le dos autour du bras allongé. 3 mouvements dos, etc. Position du coude en avant lors de la phase de traction et poussée, en position ventrale et dorsale. Changements réguliers et précis de la position ventrale à la position dorsale et retour. Rotation autour de l’axe longitudinal, corps tendu.",
+                    "videoAsset": "assets/swim_tech4.4.mp4"
+                },
+                {
+                    "drill_name": "4-nages",
+                    "category": "Distance",
+                    "distance": "100 m",
+                    "focus": "Ordre et styles de nage, y compris départs et virages, selon règlement de la FINA en vigueur",
+                    "description": "25 m dauphin 25 m dos 25 m brasse 25 m crawl. Ordre et styles de nage, y compris départs et virages, selon règlement de la FINA en vigueur. Pas de temps limite.",
+                    "videoAsset": "assets/swim_tech4.5.mp4"
+                },
+                {
+                    "drill_name": "Départ dos",
+                    "category": "Départ",
+                    "distance": "8 m",
+                    "focus": "Pendant la phase d’envol, le haut du corps en-dessus de l’eau",
+                    "description": "Départ dos. Pendant la phase d’envol, les bras sont projetés en arrière, la tête tirée en arrière, le corps en extension. Le buste est en-dessus de l’eau. Immersion dans un «trou». Suivi sous l’eau d’ondulations dauphin rapides dans une position de flèche hydrodynamique optimale.",
+                    "videoAsset": "assets/swim_tech4.6.mp4"
+                },
+                {
+                    "drill_name": "Culbute crawl",
+                    "category": "Culbute",
+                    "focus": "Aucune inspiration juste avant et après le virage",
+                    "description": "Approche de 5 m du mur en crawl. Pas d’inspiration juste avant le virage-culbute. Après la culbute se repousser en position latérale du mur et se remettre tout de suite en position ventrale pour finir la phase de glisse. Suivent 3–4 mouvements de jambes en dauphin rapides et de petite amplitude sous l’eau. Du passage sous l’eau à la nage, effectuer 2–3 mouvements de bras avant la 1ère inspiration.",
+                    "videoAsset": "assets/swim_tech4.7.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Tech 5 Dos craulé",
+            "icon": "assets/icons/s5.jpg",
+            "level_description": "Au niveau 'Tech 5 Dos craulé', l'accent est mis sur la technique de dos. Les nageurs commencent par le pagayage en position dorsale, suivis d'une nage en apnée pour renforcer les sensations sous l'eau. Ils poursuivent avec une session complète de dos, des battements de jambes en dos, et concluent avec des exercices combinant plusieurs nages et des départs rapides.",
+            "drills": [
+                {
+                    "drill_name": "Pagayage en position dorsale",
+                    "category": "Sensations aquatiques",
+                    "distance": "25 m",
+                    "focus": "Dos de la main toujours en direction de la nage",
+                    "description": "25 m pagayage en position dorsale: 12 m par la tête et 12 m par les pieds. Mouvements précis des mains et des avant-bras intérieur-extérieur. Coudes restent passifs, dos de la main toujours en direction de la nage. Changement de direction en milieu du parcours en faisant une cuvette et une demi-rotation.",
+                    "videoAsset": "assets/swim_tech5.1.mp4"
+                },
+                {
+                    "drill_name": "Nage en apnée",
+                    "category": "Phase subaquatique",
+                    "focus": "Mouvements lents pour s’économiser d’une manière optimale",
+                    "description": "Nage en apnée pendant 15 secondes. Mouvements lents et contrôlés sur une longue distance. Profondeur de la plongée en apnée 80–100 cm. Mouvements libres sous l’eau.",
+                    "videoAsset": "assets/swim_tech5.2.mp4"
+                },
+                {
+                    "drill_name": "Dos",
+                    "category": "Endurance – respiration",
+                    "distance": "200 m",
+                    "focus": "Mouvements continus avec respiration régulière",
+                    "description": "Dos complet avec respiration régulière. Mouvements continus et virages culbutes corrects. Sans temps limite.",
+                    "videoAsset": "assets/swim_tech5.3.mp4"
+                },
+                {
+                    "drill_name": "Battements dos",
+                    "category": "Endurance – jambes",
+                    "distance": "50 m",
+                    "focus": "Battements de jambes réguliers en flèche dorsale",
+                    "description": "Battements de jambes réguliers en flèche dorsale. Temps limite: 2 minutes.",
+                    "videoAsset": "assets/swim_tech5.4.mp4"
+                },
+                {
+                    "drill_name": "4-nages, coordination",
+                    "category": "4-nages",
+                    "distance": "100 m",
+                    "focus": "Exécution précise des mouvements (capacité de coordination)",
+                    "description": "100 m 4 nages coordination: 25 m dauphin: 2x bras droit – 2x bras gauche – 2x les deux bras 25 m dos: battements jambes alternés, mouvements de bras simultanés. Phase de glisse avec les 2 bras allongés derrière les oreilles 25 m mouvements de jambes en brasse: bras le long du corps. A chaque fois toucher les chevilles avec les mains. Phase de glisse visible 25 m crawl: 2 mouvements de bras avec retour du bras sous l’eau. Lors du 3ème mouvement, retour du bras aérien. Inspiration correcte latérale après chaque 3ème mouvement de bras.",
+                    "videoAsset": "assets/swim_tech5.5.mp4"
+                },
+                {
+                    "drill_name": "Départ nage libre",
+                    "category": "Vitesse",
+                    "distance": "12 m",
+                    "focus": "Départ et sprint dynamiques",
+                    "description": "Au signal de départ, plonger du plot suivi d’un sprint sur 12 m. Phase de glisse avec 4–5 mouvements de jambes en dauphin rapides sous l’eau. Entre le passage subaquatique et la nage, effectuer 2–3 mouvements de bras avant la 1ère inspiration.",
+                    "videoAsset": "assets/swim_tech5.6.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Tech 6 Crawl",
+            "icon": "assets/icons/s6.jpg",
+            "level_description": "Au niveau 'Tech 6 Crawl', les participants travaillent principalement sur la technique de crawl. Ils commencent par le pagayage tronc, suivis de tractions en brasse sous l'eau. La respiration pendant le crawl est essentielle, avec des sessions dédiées aux battements de crawl et à la nage complète de 4-nages. Une attention particulière est accordée aux départs et virages rapides.",
+            "drills": [
+                {
+                    "drill_name": "Pagayage tronc",
+                    "category": "Sensations aquatiques",
+                    "distance": "25 m",
+                    "focus": "Position des coudes en avant",
+                    "description": "25 m pagayage tronc. En position ventrale, avec jambes passives, les poignets et les mains dessinent un huit couché sous le corps près de la taille. Position des coudes en avant, mains dans le prolongement des avant-bras. Les bras sont pliés et légèrement écartés du corps. Seuls les avant-bras bougent. Respiration latérale ou devant.",
+                    "videoAsset": "assets/swim_tech6.1.mp4"
+                },
+                {
+                    "drill_name": "Tractions brasse",
+                    "category": "Phase subaquatique",
+                    "distance": "16 m",
+                    "focus": "Coordination correcte entre traction des bras et battement en dauphin",
+                    "description": "Plongeon du plot de départ suivi de plusieurs tractions de brasse sous l’eau. Après la 1ère traction des bras avec l’ondulation dauphin, amener les bras sous le corps en avant suivi par un mouvement de jambes brasse.",
+                    "videoAsset": "assets/swim_tech6.2.mp4"
+                },
+                {
+                    "drill_name": "Crawl, respiration 3 temps",
+                    "category": "Endurance – respiration",
+                    "distance": "100 m",
+                    "focus": "Mouvements continus avec respiration à 3 temps",
+                    "description": "Crawl complet avec respiration à 3 temps. Mouvements continus et culbutes correctes.",
+                    "videoAsset": "assets/swim_tech6.3.mp4"
+                },
+                {
+                    "drill_name": "Battements crawl",
+                    "category": "Endurance – jambes",
+                    "distance": "50 m",
+                    "focus": "Battements de jambes efficaces et réguliers",
+                    "description": "Battements de jambes crawl en position ventrale. Bras allongés en avant avec une planche. Visage immergé.",
+                    "videoAsset": "assets/swim_tech6.4.mp4"
+                },
+                {
+                    "drill_name": "4-nages",
+                    "category": "4-nages",
+                    "distance": "100 m",
+                    "focus": "Ordre et styles de nage, y compris départs et virages, selon règlement de la FINA en vigueur",
+                    "description": "100 m 4 nages complet. Ordre et styles de nage, y compris départs et virages, selon règlement de la FINA en vigueur.",
+                    "videoAsset": "assets/swim_tech6.5.mp4"
+                },
+                {
+                    "drill_name": "Culbute, crawl – dos",
+                    "category": "Vitesse",
+                    "focus": "Culbute rapide",
+                    "description": "En flèche ventrale, les mains touchent le mur avec battements crawl. Au signal de départ, faire une culbute rapide avec poussée explosive du mur, reprise de nage en position dorsale avec battements de jambes en dauphin puis sprint dos sur 10 m.",
+                    "videoAsset": "assets/swim_tech6.6.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Tech 7 Brasse",
+            "icon": "assets/icons/s7.jpg",
+            "level_description": "Au niveau 'Tech 7 Brasse', les nageurs perfectionnent la technique de brasse en commençant par le pagayage russe pour affiner la sensation de l'eau. L'accent est mis sur les battements en dauphin sous l'eau, la respiration en brasse, et l'efficacité des mouvements de jambes en brasse. Ils pratiquent également la nage complète de 4-nages et terminent par une nage rapide en brasse.",
+            "drills": [
+                {
+                    "drill_name": "Pagayage russe",
+                    "category": "Sensations aquatiques",
+                    "distance": "15 m",
+                    "focus": "Mouvements précis des mains et des avant-bras intérieur-extérieur",
+                    "description": "Pagayage devant la tête, en position ventrale. Avec les bras presque tendus en avant, les mains dessinent un huit couché. Dos de la main en direction de la nage, doigts en direction du fond du bassin. L’angle entre la surface de l’eau et l’avant-bras est d’environ 30°. Un léger abaissement des jambes peut être toléré. Respiration en avant.",
+                    "videoAsset": "assets/swim_tech7.1.mp4"
+                },
+                {
+                    "drill_name": "Battements dauphin",
+                    "category": "Phase subaquatique",
+                    "distance": "15 m",
+                    "focus": "Propulsion efficace avec battements rapides et de petite amplitude sous l’eau",
+                    "description": "Battements de jambes en dauphin sous l’eau en position ventrale. Après la poussée du mur, battements rapides et de petite amplitude sous l’eau. Exercice à exécuter entre 80–100 cm en-dessous de la surface de l’eau.",
+                    "videoAsset": "assets/swim_tech7.2.mp4"
+                },
+                {
+                    "drill_name": "Brasse, respiration",
+                    "category": "Endurance – respiration",
+                    "distance": "100 m",
+                    "focus": "Contrôle de la respiration",
+                    "description": "Brasse: 2 cycles complets (bras et jambes) sans respirer, 2 cycles avec respiration normale. Pas de temps limite.",
+                    "videoAsset": "assets/swim_tech7.3.mp4"
+                },
+                {
+                    "drill_name": "Jambes en brasse",
+                    "category": "Endurance – jambes",
+                    "distance": "50 m",
+                    "focus": "Mouvements efficaces et dynamiques",
+                    "description": "50 m mouvements de jambes en brasse efficaces et dynamiques, bras tendus en avant. Terminer le mouvement jusqu’à ce que les jambes soient tendues et que les pieds se touchent. Respiration en avant juste avant le mouvement de jambes. Sans planche.",
+                    "videoAsset": "assets/swim_tech7.4.mp4"
+                },
+                {
+                    "drill_name": "4-nages, coordination",
+                    "category": "4-nages",
+                    "distance": "200 m",
+                    "focus": "Coordination précise",
+                    "description": "200 m 4 nages coordination: 50 m dauphin: le retour des bras a lieu sous l’eau. La respiration est placée à la fin de la poussée. Pas de pause des bras en avant 50 m dos à 1 bras avec roulis prononcé. Changement de bras après 25 m. Bras passif le long du corps 50 m brasse: 1x bras droit et jambe gauche – 1x bras gauche et jambe droite – 1x cycle complet 50 m crawl avec rattrapage le long du corps. L’inspiration a lieu lorsque la main sort de l’eau. Respiration 3 temps.",
+                    "videoAsset": "assets/swim_tech7.5.mp4"
+                },
+                {
+                    "drill_name": "Brasse",
+                    "category": "Vitesse",
+                    "distance": "50 m",
+                    "focus": "Synchronisation précise",
+                    "description": "50 m brasse complète, y compris départ, virages et tractions conformes au règlement.",
+                    "videoAsset": "assets/swim_tech7.6.mp4"
+                }
+            ]
+        },
+        {
+            "level": "Tech 8 Dauphin",
+            "icon": "assets/icons/s8.jpg",
+            "level_description": "Au niveau 'Tech 8 Dauphin', les nageurs se concentrent sur l'approfondissement de la technique de dauphin. Ils commencent par un pagayage hélice sur le dos pour améliorer la sensation de l'eau. Ensuite, ils pratiquent des battements en dauphin sous l'eau en position dorsale, suivis d'une séance de crawl avec une pyramide de respiration pour renforcer l'endurance. L'entraînement se poursuit avec des mouvements de jambes pour les quatre nages, une session complète de 4-nages et se termine par une nage rapide en dauphin.",
+            "drills": [
+                {
+                    "drill_name": "Pagayage hélice, par les pieds sur le dos",
+                    "category": "Sensations aquatiques",
+                    "distance": "15 m",
+                    "focus": "Mouvements précis des mains et des avant-bras intérieur-extérieur",
+                    "description": "En position dorsale, le corps est tendu, les oreilles dans l’eau. Pagayage par les pieds, bras tendus derrière la tête (bras plus profonds que la tête); poignets cassés vers le haut, dos des mains en direction de la tête.",
+                    "videoAsset": "assets/swim_tech8.1.mp4"
+                },
+                {
+                    "drill_name": "Jambes en dauphin sous l’eau, position dorsale",
+                    "category": "Phase subaquatique",
+                    "distance": "12 m",
+                    "focus": "Expiration nasale",
+                    "description": "Battements de jambes en dauphin sous l’eau en position dorsale après poussée du mur. Exercice à exécuter entre 80–100 cm en-dessous de la surface de l’eau.",
+                    "videoAsset": "assets/swim_tech8.2.mp4"
+                },
+                {
+                    "drill_name": "Crawl, pyramide respiration",
+                    "category": "Endurance – respiration",
+                    "distance": "200 m",
+                    "focus": "Nage souplesse",
+                    "description": "200 m crawl. Pyramide respiration, chaque étape sur 25 m. Travail de l’hypoxie. Respiration tous les 1/3/5/7/7/5/3/1 temps. Pas de temps limite.",
+                    "videoAsset": "assets/swim_tech8.3.mp4"
+                },
+                {
+                    "drill_name": "Jambes 4-nages",
+                    "category": "Endurance – jambes",
+                    "distance": "100 m",
+                    "focus": "Propulsion efficace des jambes",
+                    "description": "100 m 4-nages mouvements de jambes, bras allongés en avant: 25 m dauphin 25 m dos 25 m brasse 25 m crawl. Sans planche.",
+                    "videoAsset": "assets/swim_tech8.4.mp4"
+                },
+                {
+                    "drill_name": "4-nages",
+                    "category": "4-nages",
+                    "distance": "200 m",
+                    "focus": "Ordre et styles de nage, y compris départs et virages, selon règlement de la FINA en vigueur",
+                    "description": "200 m 4-nages. Ordre et styles de nage, y compris départs et virages, selon règlement de la FINA en vigueur.",
+                    "videoAsset": "assets/swim_tech8.5.mp4"
+                },
+                {
+                    "drill_name": "Dauphin",
+                    "category": "Vitesse",
+                    "distance": "25 m",
+                    "focus": "Mouvements efficaces en position hydrodynamique",
+                    "description": "25 m dauphin complet, y compris départ.",
+                    "videoAsset": "assets/swim_tech8.6.mp4"
+                }
+            ]
+        }
+    ]
+}

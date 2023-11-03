@@ -1,0 +1,795 @@
+{
+  "app_title": "Swim Sports Testen",
+  "category": "Kategorie",
+  "water_depth": "Wassertiefe",
+  "distance": "Distanz",
+  "description": "Beschreibung",
+  "focus": "Fokus",
+  "compulsory": "Pflicht",
+  "levels": [
+    {
+      "level": "Krebs",
+      "age_group": "4- bis 5-jährig",
+      "level_description": "Das 'Krebs' Level für 4- bis 5-jährige Kinder dient als spielerische Einführung ins Wasser. Hier erlernen sie Übungen wie 'Taucherli' (Untertauchen), 'Sprudelbad' (Ausatmen unter Wasser), 'Flugzeug' (Schweben in Bauchlage), 'Bauchpfeil' (Gleiten) und 'Sprung' (Springen vom Bassinrand).",
+      "icon": "assets/icons/g1.jpg",
+      "drills": [
+        {
+          "drill_name": "Taucherli",
+          "category": "Wassergewöhnung",
+          "water_depth": "Standtiefes Wasser",
+          "description": "Stehend minimal 3 Sek. mit angehaltenem Atem vollständig untertauchen, über Wasser ausatmen.",
+          "videoAsset": "assets/swim1.1.mp4"
+        },
+        {
+          "drill_name": "Sprudelbad",
+          "category": "Wassergewöhnung",
+          "water_depth": "Standtiefes Wasser",
+          "description": "Stehend minimal 3 Sek. vollständig untertauchen mit sichtbarem Ausatmen durch Mund und/oder Nase unter Wasser.",
+          "videoAsset": "assets/swim1.2.mp4"
+        },
+        {
+          "drill_name": "Flugzeug",
+          "category": "Wassergewöhnung",
+          "water_depth": "Brusttiefes Wasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "Minimal 3 Sek. schweben in Bauchlage mit korrekter Kopfhaltung, Arme in Seithalte.",
+          "videoAsset": "assets/swim1.3.mp4"
+        },
+        {
+          "drill_name": "Bauchpfeil",
+          "category": "Basiskompetenz",
+          "water_depth": "Brusttiefes Wasser",
+          "description": "Von der Wand oder der Treppe abstossen und während minimal 3 Sek. in Bauchlage selbständig gleiten (ohne Beinschlag). Das Gesicht liegt im Wasser, Arme in Hochhalte.",
+          "videoAsset": "assets/swim1.4.mp4"
+        },
+        {
+          "drill_name": "Sprung",
+          "category": "Wassergewöhnung",
+          "water_depth": "Brusttiefes Wasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "Freier Sprung vom Bassinrand auf die Füsse zum sofortigen, vollständigen Untertauchen.",
+          "videoAsset": "assets/swim1.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Seepferd",
+      "age_group": "4- bis 5-jährig",
+      "level_description": "Das 'Seepferd' Level für 4- bis 5-jährige Kinder vertieft die Wassergewöhnung und die Basiskompetenzen. Die Kinder erlernen Übungen wie 'Fischauge' (Erkennen unter Wasser), 'Luftpumpe' (Atmung unter Wasser), 'Seerose' (Schweben in Rückenlage), 'Bauchpfeil mit Beinmotor' (Gleiten mit Beinantrieb) und 'Froschsprung' (Springen in tiefes Wasser).",
+      "icon": "assets/icons/g2.jpg",
+      "drills": [
+        {
+          "drill_name": "Fischauge",
+          "category": "Wassergewöhnung",
+          "water_depth": "Standtiefes Wasser",
+          "description": "Untertauchen, Augen öffnen und erkennen eines Gegenstandes, einer Zahl oder einer Farbe unter Wasser.",
+          "videoAsset": "assets/swim2.1.mp4"
+        },
+        {
+          "drill_name": "Luftpumpe",
+          "category": "Wassergewöhnung",
+          "water_depth": "Standtiefes Wasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "Stehend: Einatmen, untertauchen und vollständig unter Wasser ausatmen. Die Übung ist ohne Unterbruch und ohne Augen zu reiben viermal auszuführen. Ziel: gleichmässiger Atemrhythmus.",
+          "videoAsset": "assets/swim2.2.mp4"
+        },
+        {
+          "drill_name": "Seerose",
+          "category": "Wassergewöhnung",
+          "water_depth": "Standtiefes Wasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "Minimal 5 Sek. schweben in Rückenlage, Arme in Seit- bis Hochhalte.",
+          "videoAsset": "assets/swim2.3.mp4"
+        },
+        {
+          "drill_name": "Bauchpfeil mit Beinmotor",
+          "category": "Basiskompetenz",
+          "water_depth": "Standtiefes Wasser",
+          "description": "Gleiten über minimal 2 m in Bauchlage aus Abstossen vom Rand oder vom Boden ohne Antrieb, Arme in Hochhalte. Anschliessend nochmals 2 m mit Beinantrieb.",
+          "videoAsset": "assets/swim2.4.mp4"
+        },
+        {
+          "drill_name": "Froschsprung",
+          "category": "Wassergewöhnung",
+          "water_depth": "Standtiefes Wasser für die helfende Person; Tiefwasser für die Ausführenden",
+          "description": "Fusssprung in tiefes Wasser zum Untertauchen. (Hilfsperson steht im Wasser.)",
+          "videoAsset": "assets/swim2.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Frosch",
+      "age_group": "5- bis 6-jährig",
+      "level_description": "Das 'Frosch' Level für 5- bis 6-jährige Kinder vertieft ihre Wasserkompetenzen. Hier erlernen sie Übungen wie 'Motorboot' (Gleiten in Bauchlage), 'Rückenpfeil' (Gleiten in Rückenlage), 'Seehund-Schwimmen in Rückenlage' und 'Bauchlage' (Wechselbeinschlag in beiden Lagen), sowie 'Purzelbaum' (Rolle vorwärts ins tiefe Wasser).",
+      "icon": "assets/icons/g3.jpg",
+      "drills": [
+        {
+          "drill_name": "Motorboot",
+          "category": "Basiskompetenz",
+          "water_depth": "Mindestens brusttiefes Wasser",
+          "description": "Aus Abstossen vom Rand minimal 5 Sek. gleiten in Bauchlage an der Wasseroberfläche mit korrekter Kopfhaltung und sichtbarer Ausatmung.",
+          "videoAsset": "assets/swim3.1.mp4"
+        },
+        {
+          "drill_name": "Rückenpfeil",
+          "category": "Basiskompetenz",
+          "water_depth": "Mindestens brusttiefes Wasser",
+          "description": "Gleiten während mindestens 5 Sek. in Rückenlage aus Abstossen vom Rand oder vom Boden, Arme in Hochhalte.",
+          "videoAsset": "assets/swim3.2.mp4"
+        },
+        {
+          "drill_name": "Seehund-Schwimmen in Rückenlage",
+          "category": "Antriebskompetenz",
+          "water_depth": "Tiefwasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "8 m Wechselbeinschlag in Rückenlage, Hände können seitlich neben dem Körper im Wasser paddeln oder Arme in Hochhalte.",
+          "videoAsset": "assets/swim3.3.mp4"
+        },
+        {
+          "drill_name": "Seehund-Schwimmen in Bauchlage",
+          "category": "Antriebskompetenz",
+          "water_depth": "Tiefwasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "8 m Wechselbeinschlag in Bauchlage, Hände können seitlich neben dem Körper im Wasser paddeln oder Arme in Hochhalte. Eine Antriebsbewegung der Arme z. B. «Raddampfer» unterstützt das Einatmen.",
+          "videoAsset": "assets/swim3.4.mp4"
+        },
+        {
+          "drill_name": "Purzelbaum",
+          "category": "Wassergewöhnung",
+          "water_depth": "Tiefwasser",
+          "description": "Rolle/Purzelbaum vorwärts vom Bassinrand in tiefes Wasser",
+          "videoAsset": "assets/swim3.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Pinguin",
+      "age_group": "5- bis 6-jährig",
+      "level_description": "Das 'Pinguin' Level für 5- bis 6-jährige Kinder ist die vierte Stufe des Schwimmunterrichts. Hier erlernen sie Übungen wie 'Handstand' (Stehen auf den Händen im Wasser), 'Tunneltauchen' (Gleiten unter Hindernissen), 'Superman' (Wechselbeinschlag in Bauchlage mit Armrotation), 'Eisbärschwimmen' (Fortbewegung in Bauchlage) und 'Rückenkraul' (Kraulen in Rückenlage).",
+      "icon": "assets/icons/g4.jpg",
+      "drills": [
+        {
+          "drill_name": "Handstand",
+          "category": "Wassergewöhnung",
+          "water_depth": "Hüft- bis brusttiefes Wasser",
+          "description": "Aus dem Stand: Handstand zum anschliessenden Abrollen vorwärts und sichtbarem Ausatmen durch die Nase.",
+          "videoAsset": "assets/swim4.1.mp4"
+        },
+        {
+          "drill_name": "Tunneltauchen",
+          "category": "Basiskompetenz",
+          "water_depth": "Brusttiefes Wasser",
+          "description": "Abtauchen, abstossen von der Wand, unter den Beinen einer Person oder durch einen vollständig im Wasser stehenden Reifen gleiten (ohne Antriebsbewegungen).",
+          "videoAsset": "assets/swim4.2.mp4"
+        },
+        {
+          "drill_name": "Superman",
+          "category": "Antriebskompetenz",
+          "water_depth": "Mindestens brusttiefes Wasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "10–15 m aus Abstossen: Wechselbeinschlag in Bauchlage mit einem Arm in Hochhalte. Drehung von der Bauch- in die Seitenlage zum Einatmen. Anschliessend wieder in Bauchlage drehen zum Ausatmen. Mindestens 3 x hintereinander ausführen.",
+          "videoAsset": "assets/swim4.3.mp4"
+        },
+        {
+          "drill_name": "Eisbärschwimmen",
+          "category": "Antriebskompetenz",
+          "water_depth": "Tiefwasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "10–15 m Fortbewegung in Bauchlage, Armantrieb und Wechselbeinschlag mit «Paddelbewegungen» vor dem Kopf, mit ausatmen ins Wasser. Die Arme gleiten unter Wasser nach vorne und ziehen wieder nach hinten bis unter die Schultern.",
+          "videoAsset": "assets/swim4.4.mp4"
+        },
+        {
+          "drill_name": "Rückenkraul",
+          "category": "Bewegungskompetenz",
+          "water_depth": "Tiefwasser",
+          "description": "15–25 m Wechselbeinschlag und Armantrieb mit Rückholphase der Arme ausserhalb des Wassers in Rückenlage.",
+          "videoAsset": "assets/swim4.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Tintenfisch",
+      "age_group": "6- bis 7-jährig",
+      "level_description": "Das 'Tintenfisch' Level für 6- bis 7-jährige Kinder ist die fünfte Stufe des Schwimmunterrichts. Hier erlernen sie Übungen wie 'Haifisch' (Wechselbeinschlag in Bauchlage mit Armrotation), 'Slalom mit Brustarmzug' (Tauchen durch versetzte Reifen), 'Baumstammrollen' (Rotation im Wasser mit gestreckten Armen), 'Schraubenkraul' (Fortbewegung in Bauch- und Rückenlage) und 'Köpfler' (Eintauchen kopfwärts).",
+      "icon": "assets/icons/g5.jpg",
+      "drills": [
+        {
+          "drill_name": "Haifisch",
+          "category": "Antriebskompetenz",
+          "water_depth": "Tiefwasser",
+          "description": "15–20 m Wechselbeinschlag in Bauchlage, ein Arm in Hochhalte, der andere Arm am Körper seitl. angelegt: Ausatmen ins Wasser, Einatmen mit Rollen über den gestreckten Arm und gleichzeitigem Hochziehen des Ellbogens des angelegten Armes, danach Arm senken, Kopf drehen und ausatmen.",
+          "videoAsset": "assets/swim5.1.mp4"
+        },
+        {
+          "drill_name": "Slalom mit Brustarmzug",
+          "category": "Antriebskompetenz",
+          "water_depth": "Brusttiefes Wasser",
+          "description": "Unter Wasser von der Wand abstossen und 5 m tauchen mit Wechselbeinschlag und Brustarmzug durch zwei seitlich versetzt stehende Reifen hindurch.",
+          "videoAsset": "assets/swim5.2.mp4"
+        },
+        {
+          "drill_name": "Baumstammrollen",
+          "category": "Antriebskompetenz",
+          "water_depth": "Tiefwasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "15 m aus Abstossen: «Baumstammrolle» mit Wechselbeinschlag und je zwei Drehungen von der Rücken- in die Bauchlage bzw. von der Bauch- in die Rückenlage. Die Arme bleiben während der gesamten Übung in Hochhalte gestreckt.",
+          "videoAsset": "assets/swim5.3.mp4"
+        },
+        {
+          "drill_name": "Schraubenkraul",
+          "category": "Bewegungskompetenz",
+          "water_depth": "Tiefwasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "25 m Fortbewegung: 5–8 m Wechselbeinschlag und Wechselzug der Arme mit Unter- und Überwasserphase in Bauchlage mit Seitenatmung; unmittelbar anschliessend 5–8 m in Rückenlage, gestreckte Arme in der Überwasserphase, regelmässiger Armzug usw.",
+          "videoAsset": "assets/swim5.4.mp4"
+        },
+        {
+          "drill_name": "Köpfler",
+          "category": "Sportartenspezifische Kompetenz",
+          "water_depth": "Angemessene water_depth je nach Körpergrösse (Empfohlen: mindestens 1,50 m)",
+          "description": "Eintauchen kopfwärts aus Knie-, Hockstand oder Stand mit anschliessendem Gleiten gegen den Boden.",
+          "videoAsset": "assets/swim5.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Krokodil",
+      "age_group": "6- bis 7-jährig",
+      "level_description": "Das 'Krokodil' Level für 6- bis 7-jährige Kinder stellt die sechste Stufe des Schwimmunterrichts dar. Hier vertiefen die Kinder Techniken wie 'Kraul' (Wechselbeinschlag in Bauchlage mit korrekter Atmung), 'Scheibenwischer' (Fortbewegung durch Armantrieb), 'Kraul-Brust-Mix' (Kombination von Wechselbeinschlag und Brustarmzug), 'Wasserstampfen' (aufrechtes Stampfen im Tiefwasser) und 'Entenfüsse' (Gleichschlag der Beine in verschiedenen Lagen).",
+      "icon": "assets/icons/g6.jpg",
+      "drills": [
+        {
+          "drill_name": "Kraul",
+          "category": "Bewegungskompetenz",
+          "water_depth": "Tiefwasser",
+          "description": "15 m Wechselbeinschlag und Wechselzug der Arme mit Unter- und Überwasserphase, in Bauchlage, mit korrekter Seitenatmung.",
+          "videoAsset": "assets/swim6.1.mp4"
+        },
+        {
+          "drill_name": "Scheibenwischer",
+          "category": "Antriebskompetenz",
+          "water_depth": "Brusttiefes Wasser oder Tiefwasser",
+          "description": "5–8 m Fortbewegung: Aus Abstossen ausschliesslich mit Armantrieb; die Ellbogen zeigen nach aussen, Antrieb mit Ein- und Auswärtsbewegungen der Unterarme/ Hände unter dem Oberkörper. Das Gesicht liegt mit korrekter Kopfhaltung im Wasser (kein «Brustarmzug», kein Beinantrieb).",
+          "videoAsset": "assets/swim6.2.mp4"
+        },
+        {
+          "drill_name": "Kraul-Brust-Mix",
+          "category": "Bewegungskompetenz",
+          "water_depth": "Tiefwasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "20–30 m Fortbewegung in Bauchlage, Wechselbeinschlag kombiniert mit Brustarmzug und regelmässiger Atmung nach vorne bei jedem Zug.",
+          "videoAsset": "assets/swim6.3.mp4"
+        },
+        {
+          "drill_name": "Wasserstampfen",
+          "category": "Antriebskompetenz",
+          "water_depth": "Tiefwasser",
+          "description": "Während 30 Sek. aufrecht im Tiefwasser mit auswärts gedrehten Flex-Füssen (zum Fussrist hin gebeugte Füsse) seitwärts nach unten stossen. Arme können helfend eingesetzt werden (z. B. paddeln).",
+          "videoAsset": "assets/swim6.4.mp4"
+        },
+        {
+          "drill_name": "Entenfüsse",
+          "category": "Antriebskompetenz",
+          "water_depth": "Tiefwasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "10–15 m Gleichschlag der Beine (Schwung-/Stossbewegung der Unterschenkel mit auswärtsgedrehten Füssen) in Rücken- oder in Bauchlage, die Armhaltung ist frei wählbar.",
+          "videoAsset": "assets/swim6.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Eisbär",
+      "age_group": "6- bis 8-jährig",
+      "level_description": "Das 'Eisbär' Level für 6- bis 8-jährige Kinder stellt die siebte Stufe des Schwimmunterrichts dar. Hier verbessern die Kinder ihre Fähigkeiten mit Übungen wie 'Tauchwende' (Unterwassertauchen und Wenden aus dem Stand), 'Delfinwelle' (Delfinbewegung mit Impuls aus Kopf und Schultern), 'Brust' (Brustschwimmen mit korrekter Koordination und Atmung) und abschließendem 'Wasser-SicherheitsCheck WSC', einem Test ihrer Wasserfähigkeiten und Sicherheit.",
+      "icon": "assets/icons/g7.jpg",
+      "drills": [
+        {
+          "drill_name": "Tauchwende",
+          "category": "Bewegungskompetenz",
+          "water_depth": "Brusttiefes Wasser",
+          "description": "Aus Stand: Aus 5 m Entfernung zur Wand tauchen, unter Wasser wenden und nach 2 m einen Tauchgegenstand vom Boden heraufholen.",
+          "videoAsset": "assets/swim7.1.mp4"
+        },
+        {
+          "drill_name": "Delfinwelle",
+          "category": "Antriebskompetenz",
+          "water_depth": "Tiefwasser",
+          "description": "4–6 m aus Abstossen: Delfinwelle mit deutlich sichtbarem Impuls aus Kopf/Schultern ausführen (keine Delfinsprünge, Beine bleiben locker). Arme in Hochhalte oder am Körper angelegt.",
+          "videoAsset": "assets/swim7.2.mp4"
+        },
+        {
+          "drill_name": "Brust",
+          "category": "Bewegungskompetenz",
+          "water_depth": "Tiefwasser",
+          "description": "16–25 m Brust ganze Lage. Antriebswirksame Schwung-/Stossbewegung der Beine, Armzug mit angewinkelten Armen während der Zugphase. Korrekte Koordination Armzug – Atmung. Sichtbares Ausatmen ins Wasser.",
+          "videoAsset": "assets/swim7.3.mp4"
+        },
+        {
+          "drill_name": "Wasser-SicherheitsCheck WSC",
+          "category": "Sicherheit",
+          "water_depth": "Tiefwasser",
+          "compulsory": "Bei diesem Übung darf auf keinen Fall ein Kompromiss bei der Testabnahme gemacht werden. Wenn diese Übung nicht sicher und wiederholbar beherrscht wird, ist das Weitergehen in die nächste Stufe auf keinen Fall möglich.",
+          "description": "Folgende 3 Übungen sind direkt nacheinander und ohne Pause zu absolvieren: • Rolle/purzeln in tiefes Wasser (der Kopf muss vollständig untertauchen) • 1 Minute an Ort über Wasser halten (in Rückenlage schwebend oder mit Wasserstampfen oder Wechselbeinschlag). Dabei einmal um die eigene Achse drehen, um sich zu orientieren • 50 m schwimmen. Der WSC-Ausweis kann zusätzlich abgegeben werden.",
+          "videoAsset": "assets/swim7.4.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Wal",
+      "icon": "assets/icons/s1.jpg",
+      "level_description": "Im 'Wal' Level perfektionieren Schwimmer ihre Techniken mit spezialisierten Übungen. Dazu gehören 'Kraul mit Hüfte anheben' zur Kopplung von Armen und Hüfte, 'Superman Rücken' und 'Superman-Kraul' zur Arm- und Beinkoordination, 'Brustbeinschlag in Rückenlage' für effiziente Bewegungen, 'Wechselschlagschwimmen' über 50m, 'Start Kraul' mit Fokus auf der Gleitphase und 'Kippwende Kraul' zur Verbesserung der Wende.",
+      "drills": [
+        {
+          "drill_name": "Kraul mit Hüfte anheben",
+          "category": "Delfin",
+          "description": "Kraularmzug. Dabei bei jedem Eintauchen der Hand aktives, übertriebenes Anheben der Hüfte. Exakte Koppelung Arme – Körperbewegung. Kontinuierliche Bewegungsabläufe. Beine passiv.",
+          "distance": "16–25 m",
+          "focus": "Kopplung Arme – Hüfte anheben",
+          "videoAsset": "assets/swim_tech1.1.mp4"
+        },
+        {
+          "drill_name": "Superman Rücken",
+          "category": "Rücken",
+          "description": "In gestreckter Rückenlage, regelmässiger Beinschlag aus der Hüfte mit lockeren, einwärts gedrehten Füssen. Während den 6–8 Beinschlägen ist ein Arm in Hochhalte, der andere am Körper angelegt. Gleichzeitiger Armwechsel auf 6 – 8 Beinschläge.",
+          "distance": "16–25 m",
+          "focus": "Während den 6–8 Beinschlägen, ein Arm in Hochhalte, der andere am Körper angelegt",
+          "videoAsset": "assets/swim_tech1.2.mp4"
+        },
+        {
+          "drill_name": "Brustbeinschlag in Rückenlage",
+          "category": "Brust",
+          "description": "In gestreckter Rückenlage, Brustbeinschlag mit sichtbarer Gleitphase. Langsames Anziehen der Unterschenkel zur deutlichen W-Position der Beine. Dynamische Schwung-Stoss-Bewegung bis zum vollständigen Strecken und Schliessen der Beine. Arme liegen passiv am Körper.",
+          "distance": "Maximum 10 Beinschläge auf 15 m",
+          "focus": "Bewegungseffizienz",
+          "videoAsset": "assets/swim_tech1.3.mp4"
+        },
+        {
+          "drill_name": "Superman-Kraul",
+          "category": "Kraul",
+          "description": "In gestreckter Bauchlage mit korrekter Kopfhaltung, regelmässiger Beinschlag aus der Hüfte mit lockeren, einwärts gedrehten Füssen. Ein Arm in Vorhalte, der andere am Körper angelegt. Dabei pro 6 – 8 Beinschläge und vor dem Armzug mit einer Rotation von ca. 45 ° um die Längsachse zur Seite einatmen. Stetiges Ausatmen während den 6 – 8 Beinschlägen.",
+          "distance": "16–25 m",
+          "focus": "Regelmässiger Beinschlag",
+          "videoAsset": "assets/swim_tech1.4.mp4"
+        },
+        {
+          "drill_name": "Wechselschlagschwimmen",
+          "category": "Distanz",
+          "description": "25 m Rückenkraul und direkt anschliessend 25 m Kraul mit 3er-Atmung. Kontinuierliche Bewegungen ohne Pause.",
+          "distance": "50 m",
+          "focus": "Kontinuierliche Bewegungen ohne Pause",
+          "videoAsset": "assets/swim_tech1.5.mp4"
+        },
+        {
+          "drill_name": "Start Kraul",
+          "category": "Start",
+          "description": "Dynamischer Sprung vom Startblock oder vom Bassinrand. Eine Hand liegt auf der andern. Hände und Kopf tauchen zuerst ein. Gleitphase in gestreckter Körperposition. Nach dem Übergang vom Gleiten zum Schwimmen 2–3 Züge Kraul anhängen.",
+          "focus": "Gleitphase in gestreckter Körperposition",
+          "videoAsset": "assets/swim_tech1.6.mp4"
+        },
+        {
+          "drill_name": "Kippwende Kraul",
+          "category": "Wende",
+          "description": "5 m anschwimmen. Eine Hand berührt die Wand. Körper auf die Seite kippen, Beine anhocken, Füsse an die Wand stellen. Die andere Hand and the Blick werden in Schwimmrichtung gebracht, the Anschlaghand wird über Wasser nach vorne geführt. Unter Wasser abstossen zum Gleiten. Nach dem Übergang vom Gleiten zum Schwimmen 2–3 Züge Kraul anhängen vor der ersten Einatmung.",
+          "videoAsset": "assets/swim_tech1.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Hecht",
+      "level_description": "Im 'Hecht' Level wird das Schwimmen durch technisch anspruchsvolle Übungen weiter verfeinert. Übungen beinhalten 'Flache Delfinbewegung' für einen rhythmischen 2er-Rhythmus, 'Rücken-Rotation einarmig' mit aktiver Rotation, 'Brustarmzug effizient' für präzise Handbewegungen, 'Kraul einarmig' mit einem 3-dimensionalen Zug- und Druckmuster, '3-Lagen' für 75m Distanzschwimmen in verschiedenen Schwimmstilen, 'Start Brust' mit einer fokussierten Gleitphase, und 'Wende Brust' für eine effiziente und dynamische Kippwende.",
+      "icon": "assets/icons/s2.jpg",
+      "drills": [
+        {
+          "drill_name": "Flache Delfinbewegung",
+          "category": "Delfin",
+          "description": "Flache Delfinbewegung mit Eintauchen des Kopfes und gleichzeitigem aktiven, flachem Heben der Hüfte aus dem Wasser. Auslösen der Bewegung aus dem Brustkorb. Gleichzeitig erfolgt der symmetrische Beinschlag aus der Hüfte mit lockeren, einwärts gedrehten Füssen. Dann Kopf anheben (Kinn nach vorne schieben) und gleichzeitige Körperstreckung (Hüfte kommen nach unten). Nachfolgend zweiter Beinschlag. Dies ergibt einen 2er-Rhythmus. Arme sind passiv, seitlich am Körper angelegt.",
+          "distance": "16–25 m",
+          "focus": "2er-Rhythmus",
+          "videoAsset": "assets/swim_tech2.1.mp4"
+        },
+        {
+          "drill_name": "Rücken-Rotation einarmig",
+          "category": "Rücken",
+          "description": "Rücken einarmig mit deutlich sichtbarer Rotation um die Längsachse. In gestreckter Rückenlage, regelmässiger Beinschlag aus der Hüfte mit lockeren, einwärts gedrehten Füssen. Schulterbreites Eintauchen der Hand mit der Kleinfingerseite. Dabei wird die gegenüber liegende Schulter aus dem Wasser gehoben. Kontinuierliche Bewegungen des jeweiligen Arms ohne Pause des Zugarms. Passiver Arm am Körper angelegt. In der Hälfte der Distanz: Armwechsel.",
+          "distance": "16–25 m",
+          "focus": "Aktive Rotation",
+          "videoAsset": "assets/swim_tech2.2.mp4"
+        },
+        {
+          "drill_name": "Brustarmzug effizient",
+          "category": "Brust",
+          "description": "Brustarmzug mit Atmung und leichtem unterstützendem Kraulbeinschlag. 1. Zugphase: Auswärtsbewegung der Unterarme bis ca. doppelte Schulterbreite 2. Druckphase: beschleunigte Einwärtsbewegung der Unterarme (Ellbogen-vorn-Haltung). Die Ellbogen dürfen nicht hinter die Schultern geführt werden. 3. Einatmung muss abgeschlossen sein, wenn die Arme nach vorne geführt und der Kopf ins Wasser gebracht werden 4. Arme möglichst schmal nach vorne führen 5. Deutliche Gleitphase der Arme. Der Handrücken zeigt während der Antriebsbewegung stets in Schwimmrichtung.",
+          "distance": "16–25 m",
+          "focus": "Handrücken zeigt während der Antriebsbewegung stets in Schwimmrichtung",
+          "videoAsset": "assets/swim_tech2.3.mp4"
+        },
+        {
+          "drill_name": "Kraul einarmig",
+          "category": "Kraul",
+          "description": "Kraul einarmig mit deutlichem 3-dimensionalem Zug- und Druckmuster. Passiver Arm in Vorhalte. Wechsel nach jeweils drei Armzügen. Einatmung zur Seite jeweils beim 3. Armzug. Rückholphase des Arms mit lockerer Hand nahe am Körper. Schulterbreites Eintauchen der Hand mit vollständiger Streckung des Arms.",
+          "distance": "32–50 m",
+          "focus": "3-dimensionales Zug- und Druckmuster deutlich erkennbar",
+          "videoAsset": "assets/swim_tech2.4.mp4"
+        },
+        {
+          "drill_name": "3-Lagen",
+          "category": "Distanz",
+          "description": "25 m Rücken 25 m Brust 25 m Kraul. Kontinuierliche Bewegungen ohne Pause und mit angepasster Atmung. Keine Zeitbeschränkung.",
+          "distance": "75 m",
+          "focus": "Kontinuierliche Bewegungen ohne Pause und mit angepasster Atmung",
+          "videoAsset": "assets/swim_tech2.5.mp4"
+        },
+        {
+          "drill_name": "Start Brust",
+          "category": "Start",
+          "description": "Dynamischer Sprung vom Startblock oder vom Bassinrand. Hände und Kopf tauchen zuerst ein. Gleitphase in gestreckter Körperposition. Nach der Gleitphase erfolgt ein Tauchzug. Dabei werden die Arme symmetrisch bis zu den Oberschenkeln nach hinten gezogen. Der Kopf muss beim zweiten Bewegungszyklus die Wasseroberfläche durchbrechen, bevor die Arme nach vorne geführt werden. Falls ein Delfinbeinschlag gemacht wird, muss dieser während oder am Schluss des Tauchzugs erfolgen. Nach dem Übergang von der Unterwasserphase zum Schwimmen 2–3 Züge Brust anhängen.",
+          "focus": "Gleitphase in gestreckter Körperposition",
+          "videoAsset": "assets/swim_tech2.6.mp4"
+        },
+        {
+          "drill_name": "Wende Brust",
+          "category": "Wende",
+          "description": "Kippwende Brust aus dem Anschwimmen. Beide Hände müssen die Wand gleichzeitig berühren ohne Überlappung der Hände. Dynamisches Anhocken der Beine sowie Kippen des Körpers. Nach dem Abstossen erfolgt ein Tauchzug. Der Kopf muss beim zweiten Bewegungszyklus die Wasseroberfläche durchbrechen, bevor die Arme nach vorne geführt werden. Nach dem Übergang von der Unterwasserphase zum Schwimmen 2–3 Züge Brust anhängen.",
+          "focus": "Dynamisches Anhocken der Beine sowie Kippen des Körpers",
+          "videoAsset": "assets/swim_tech2.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Hai",
+      "icon": "assets/icons/s3.jpg",
+      "level_description": "Im 'Hai' Level werden Schwimmer weiterhin mit komplexen Bewegungen und Techniken herausgefordert. Die Übungen umfassen 'Delfinbewegung mit Armzug' für rhythmische Bewegungen und gestreckte Arme über Wasser, 'Rücken einarmig' zur Förderung der Ellbogen-vorn-Haltung, 'BrustKoordination Arme – Beine – Beine' für eine betonte Gleitphase der Arme, 'ScheibenwischerKraul' zur Verbesserung des gleichmäßigen Bewegungsablaufs, 'Lagen, Technik' für 100m rhythmischen Schwimmens, 'Delfinbeinschläge in Rückenlage' mit Fokus auf einer strömungsgünstigen, gestreckten Armhaltung, und 'Rollwende Rücken' für eine schnelle Drehung um die Querachse.",
+      "drills": [
+        {
+          "drill_name": "Delfinbewegung mit Armzug",
+          "category": "Delfin",
+          "description": "Flache Delfinbewegung mit 1 Armzug pro 4 Delfinbewegungen. Arme in Vorhalte. Bei der vierten Delfinbewegung erfolgt ein kompletter symmetrischer Armzug bis zu den Oberschenkeln. Rückholphase erfolgt mit gestreckten Armen über Wasser. Rhythmischer Bewegungsablauf.",
+          "distance": "16–25 m",
+          "focus": "Gestreckte Arme über Wasser",
+          "videoAsset": "assets/swim_tech3.1.mp4"
+        },
+        {
+          "drill_name": "Rücken einarmig",
+          "category": "Rücken",
+          "description": "Rücken einarmig in flacher Wasserlage mit deutlich erkennbarem Zug- und Druckmuster mit Ellbogen-vorn-Haltung. Deutlich sichtbare Rotation um die Längsachse. Kontinuierliche Armbewegungen mit Wechsel der Arme ohne Pause nach jeweils drei Armzügen. Passiver Arm am Körper angelegt.",
+          "distance": "32–50 m",
+          "focus": "Zug- und Druckmuster mit Ellbogen-vorn-Haltung",
+          "videoAsset": "assets/swim_tech3.2.mp4"
+        },
+        {
+          "drill_name": "BrustKoordination Arme – Beine – Beine",
+          "category": "Brust",
+          "description": "Brust mit einem Armzug und zwei Beinschlägen. Armzug mit betonter Zug und Druckphase. Dabei bleiben die Arme während dem zweiten Beinschlag in gestreckter Vorhalte (Gleitphase der Arme). Effizienter Beinschlag mit korrekter Dynamik. Die Schwung-, Stossbewegung muss abgeschlossen werden, bis die Fersen sich berühren.",
+          "distance": "16–25 m",
+          "focus": "Gleitphase der Arme",
+          "videoAsset": "assets/swim_tech3.3.mp4"
+        },
+        {
+          "drill_name": "ScheibenwischerKraul",
+          "category": "Kraul",
+          "description": "Gestreckte Bauchlage, Gesicht im Wasser: mit beiden Armen Scheibenwischer mit Ein- und Auswärtsbewegung der Unterarme und Hände unter dem Oberkörper. Deutliche Ellbogen-vorn-Haltung. Bei der 3. Einwärtsbewegung den einen Arm nach vorne führen, den andern nach hinten. Dabei zur Seite atmen. Arme unter Wasser wieder zurück in die Scheibenwischerposition usw. Dabei einmal rechts, einmal links einatmen. Gleichmässiger Bewegungsablauf. Beine passiv.",
+          "distance": "16–25 m",
+          "focus": "Gleichmässiger Bewegungsablauf",
+          "videoAsset": "assets/swim_tech3.4.mp4"
+        },
+        {
+          "drill_name": "Lagen, Technik",
+          "category": "Distanz",
+          "description": "25 m Delfinwelle im 2er-Rhythmus 25 m Rücken-Rotation 25 m Brust-Koordination, 1 Armzug – 2 Beinschläge 25 m Superman-Kraul. Rhythmische Bewegungsabläufe. Wechsel der Schwimmarten ohne Pause und Qualitätsverlust. Keine Zeitbeschränkung.",
+          "distance": "100 m",
+          "focus": "Wechsel der Schwimmarten ohne Pause und Qualitätsverlust",
+          "videoAsset": "assets/swim_tech3.5.mp4"
+        },
+        {
+          "drill_name": "Delfinbeinschläge in Rückenlage",
+          "category": "Start",
+          "description": "Abstossen in Rückenlage mit strömungsgünstig gestreckten Armen (Arme hinter den Ohren). Gleiten ca. 80 cm unter der Wasseroberfläche mit kleinen, schnellen Delfinbeinschlägen unter Wasser. Sichtbares Ausatmen durch die Nase unter Wasser.",
+          "distance": "8 m",
+          "focus": "Strömungsgünstige, gestreckte Armhaltung",
+          "videoAsset": "assets/swim_tech3.6.mp4"
+        },
+        {
+          "drill_name": "Rollwende Rücken",
+          "category": "Wende",
+          "description": "Anschwimmen Rückenkraul. Kurz vor der Mauer in Bauchlage drehen und mit Kopf und Schulter eine schnelle Drehung um die Querachse auslösen. Kein Einatmen in Bauchlage. In Rückenlage abstossen und dabei durch die Nase ausatmen. 3–4 flache, schnelle Delfinbeinschläge und nach dem Übergang zum Schwimmen 2–3 Züge anhängen.",
+          "focus": "Schnelle Drehung um die Querachse",
+          "videoAsset": "assets/swim_tech3.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Delfin",
+      "level_description": "Im 'Delfin' Level werden die Schwimmer in verschiedenen Techniken weitergebildet. Die Übungen beinhalten 'Delfin-Variation' mit gestreckten Armen in der Überwasserphase, 'RückenKoordination' für präzise Koordination der beiden Arme, 'BrustKoordination' mit einer betonten Gleitphase der Beine, 'Spiral-Kraul' für flüssige Wechsel und Ellbogen-vorn-Haltung in Bauch- und Rückenlage, 'Lagen' mit 100m regelkonformen Schwimmtechniken, 'Start Rücken' mit Fokus auf der Flugphase und dem Oberkörper über der Wasserlinie, und schließlich 'Rollwende Kraul', bei dem das Einatmen direkt vor und nach der Wende vermieden wird.",
+      "icon": "assets/icons/s4.jpg",
+      "drills": [
+        {
+          "drill_name": "Delfin-Variation",
+          "category": "Delfin",
+          "description": "3 Z\u00fcge Delfin komplett mit R\u00fcckholphase \u00fcber Wasser. Bei der R\u00fcckholphase der Arme \u00fcber Wasser, die gestreckten Arme gleichzeitig nahe an der Wasseroberfl\u00e4che nach vorne schwingen. Symmetrische Armz\u00fcge bis zu den Oberschenkeln. Anschliessend 6\u20138 Delfinbeinschl\u00e4ge mit Arme in Vorhalte, bevor wieder 3 komplette Zyklen folgen.",
+          "distance": "16\u201325 m",
+          "focus": "Gestreckte Arme in der \u00dcberwasserphase",
+          "videoAsset": "assets/swim_tech4.1.mp4"
+        },
+        {
+          "drill_name": "R\u00fcckenKoordination",
+          "category": "R\u00fccken",
+          "description": "R\u00fccken einarmig. Zug- und Druckmuster des Arms deutlich erkennbar. Sichtbare Rotation um die L\u00e4ngsachse. Der passive Arm liegt am K\u00f6rper und wird jeweils bis zur Senkrechten aus dem Wasser gehoben, wenn der andere Arm oben eintaucht. Dann den Arm wieder zur\u00fcck an den K\u00f6rper bringen. Pr\u00e4zise Koordination der beiden Arme. Wechseln des Arms nach 25 m.",
+          "distance": "50 m",
+          "focus": "Pr\u00e4zise Koordination der beiden Arme",
+          "videoAsset": "assets/swim_tech4.2.mp4"
+        },
+        {
+          "drill_name": "BrustKoordination",
+          "category": "Brust",
+          "description": "Brust mit 2 Armz\u00fcgen auf einen Beinschlag. Handr\u00fccken zeigt w\u00e4hrend der Antriebsbewegung der Arme stets in Schwimmrichtung. Sichtbare Ellbogen-vorn-Haltung. Einatmen auf jeden Armzug. Beine passiv gestreckt w\u00e4hrend dem 1. Armzug (Gleitphase der Beine)",
+          "distance": "50 m",
+          "focus": "Gleitphase der Beine",
+          "videoAsset": "assets/swim_tech4.3.mp4"
+        },
+        {
+          "drill_name": "Spiral-Kraul",
+          "category": "Kraul",
+          "description": "3 Z\u00fcge Kraul in Bauchlage \u2013 Drehung \u00fcber den Zugarm in die R\u00fcckenlage \u2013 3 Z\u00fcge R\u00fccken \u2013 usw. Ellbogen-vorn-Haltung bei Zug- und Druckphase in Bauch- und R\u00fcckenlage. Fl\u00fcssige und pr\u00e4zise Wechsel von der Bauch- in die R\u00fcckenlage und zur\u00fcck. Rotation um die L\u00e4ngsachse in gespannter, flacher K\u00f6rperhaltung.",
+          "distance": "50 m",
+          "focus": "Ellbogen-vorn-Haltung bei Zug- und Druckphase in Bauch- und R\u00fcckenlage",
+          "videoAsset": "assets/swim_tech4.4.mp4"
+        },
+        {
+          "drill_name": "Lagen",
+          "category": "Distanz",
+          "description": "25 m Delfin 25 m R\u00fccken 25 m Brust 25 m Kraul Regelkonforme Schwimmtechniken, inklusive Startsprung und Unterwasserphase. Die Schwimmtechniken m\u00fcssen regelkonform abgeschlossen werden.",
+          "distance": "100 m",
+          "focus": "Regelkonforme Schwimmtechniken",
+          "videoAsset": "assets/swim_tech4.5.mp4"
+        },
+        {
+          "drill_name": "Start R\u00fccken",
+          "category": "Start",
+          "description": "Start R\u00fcckenkraul. Dabei Arme \u00fcber Wasser nach hinten schwingen. Kopf w\u00e4hrend der Flugphase im Nacken und \u00dcberstrecken des K\u00f6rpers. Oberk\u00f6rper w\u00e4hrend der Flugphase \u00fcber der Wasserlinie. Eintauchen \u00abin ein Loch\u00bb. Anschliessend Delfinbeinschlag unter Wasser in einer str\u00f6mungsg\u00fcnstigen Gleitposition.",
+          "distance": "8 m",
+          "focus": "W\u00e4hrend Flugphase Oberk\u00f6rper \u00fcber der Wasserlinie",
+          "videoAsset": "assets/swim_tech4.6.mp4"
+        },
+        {
+          "drill_name": "Rollwende Kraul",
+          "category": "Wende",
+          "description": "Rollwende Kraul aus dem Anschwimmen (5 m). Kein Einatmen direkt vor der Wende. Nach der Rollwende in Seitenlage abstossen und w\u00e4hrend des Gleitens in Bauchlage drehen. Gleitphase mit 3\u20134 flachen schnellen Delfinbeinschl\u00e4gen unter Wasser. Nach dem \u00dcbergang vom Gleiten zum Schwimmen 2\u20133 Z\u00fcge anh\u00e4ngen, erst dann einatmen.",
+          "focus": "Kein Einatmen direkt vor und nach der Wende",
+          "videoAsset": "assets/swim_tech4.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Schwerpunkt Rücken",
+      "level_description": "Im 'Schwerpunkt Rücken' Level vertiefen die Schwimmer ihre Techniken speziell im Rückenschwimmen. Die Übungen umfassen 'Paddeln in Rückenlage', wo der Fokus auf ruhigem Oberarm und stetiger Handrückenposition liegt. 'Streckentauchen' betont langsame, ökonomische Bewegungen unter Wasser. Im 'Rücken' Drill wird auf kontinuierliche Bewegungen mit regelmäßiger Atmung Wert gelegt. Der 'Beinschlag in Rückenlage' legt den Schwerpunkt auf regelmäßigen Beinschlag aus der Hüfte. 'LagenKoordination' zielt auf die korrekte Ausführung von koordinierten Bewegungen in verschiedenen Schwimmarten ab. Schließlich wird im 'Start Freistil' die dynamische und flüssige Abfolge des Startvorgangs und Sprint betont.",
+      "icon": "assets/icons/s5.jpg",
+      "drills": [
+        {
+          "drill_name": "Paddeln in Rückenlage",
+          "category": "Wassergefühl",
+          "description": "25 m in gestreckter Rückenlage paddeln, davon 12 m kopf- und 12 m fusswärts. Deutliche Ein- und Auswärtsbewegung der Unterarme. Oberarm bleibt ruhig. Handrücken zeigt immer in Schwimmrichtung. Ellbogen leicht nach aussen gestellt. Fusswärts: Fingerspitzen führen die liegende Acht. Kopfwärts: Handballen führen die liegende Acht. Richtungswechsel mittels Anhocken der Beine und einer halben Drehung (Zuber).",
+          "distance": "25 m",
+          "focus": "Oberarm bleibt ruhig. Handrücken zeigt immer in Schwimmrichtung.",
+          "videoAsset": "assets/swim_tech5.1.mp4"
+        },
+        {
+          "drill_name": "Streckentauchen",
+          "category": "Unterwasserphase",
+          "description": "Streckentauchen während 15 Sekunden mit Start im Wasser. Dabei mit langsamen und kontrollierten Bewegungen eine möglichst lange Strecke zurücklegen. Tauchtiefe 80–100 cm. Antriebsbewegung frei.",
+          "focus": "Langsame, möglichst ökonomische Bewegungen",
+          "videoAsset": "assets/swim_tech5.2.mp4"
+        },
+        {
+          "drill_name": "Rücken",
+          "category": "Ausdauer Atmung",
+          "description": "Rücken, ganze Lage mit regelmässiger Atmung. Regelkonformer Start und Rollwenden. Kontinuierliche Bewegungen.",
+          "distance": "200 m",
+          "focus": "Kontinuierliche Bewegungen mit regelmässiger Atmung",
+          "videoAsset": "assets/swim_tech5.3.mp4"
+        },
+        {
+          "drill_name": "Beinschlag in Rückenlage",
+          "category": "Ausdauer Beine",
+          "description": "50 m. Regelmässiger Beinschlag in gestreckter Rückenlage. Arme hinter den Ohren in Hochhalte.",
+          "distance": "50 m",
+          "focus": "Regelmässiger Beinschlag aus der Hüfte mit lockeren Füssen",
+          "time": "2.00 Minuten",
+          "videoAsset": "assets/swim_tech5.4.mp4"
+        },
+        {
+          "drill_name": "LagenKoordination",
+          "category": "Lagen",
+          "description": "100 m 4-Lagen koordinativ. 25 m Delfin: 2x rechter Arm – 2x linker Arm – 2x beide Arme. 25 m Rücken: Beine Kraul, Arme Gleichschlag. Gleitphase mit Armen in Hochhalte. 25 m Brust-Beinschlag: Arme längs am Körper angelegt. Jeweils mit den Händen den Aussenrist berühren. Gut erkennbare Gleitphase. 25 m Kraul: jeweils zwei Züge mit Rückholbewegung unter Wasser. Beim dritten Armzug Arm normal über Wasser nach vorne führen zur Seitenatmung.",
+          "distance": "100 m",
+          "focus": "Korrekte Bewegungsausführung der Koordinationsaufgaben (präzise Kopplungsfähigkeit)",
+          "videoAsset": "assets/swim_tech5.5.mp4"
+        },
+        {
+          "drill_name": "Start Freistil",
+          "category": "Schnelligkeit",
+          "description": "Start Kraul auf Kommando vom Startblock mit Sprint über 12 m. Gleitphase mit 4–5 flachen schnellen Delfinbeinschlägen unter Wasser. Nach dem Übergang vom Gleiten zum Schwimmen 2–3 Züge anhängen, erst dann einatmen.",
+          "distance": "12 m",
+          "focus": "Dynamische, flüssige Abfolge des Startvorganges und Sprint",
+          "time": "10 Sek.",
+          "videoAsset": "assets/swim_tech5.6.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Schwerpunkt Kraul",
+      "level_description": "Im 'Schwerpunkt Kraul' Level vertiefen die Schwimmer ihre Techniken speziell im Kraulschwimmen. Die Übungen beginnen mit 'BaumstammPaddeln', bei dem die Schwimmer ihren Fokus darauf legen, die Oberarme ruhig zu halten. 'Tauchzüge' betont die korrekte Kopplung des Delfinbeinschlags mit dem Tauchzug der Arme. 'Kraul 3er-Atmung' zielt darauf ab, kontinuierliche Bewegungen mit regelmäßiger 3er-Atmung zu erlernen. Beim 'Kraulbeinschlag' liegt der Schwerpunkt auf einem effizienten und regelmäßigen Beinschlag. 'Lagen' verlangt von den Schwimmern, regelkonforme Schwimmtechniken zu beherrschen. Schließlich fördert 'Wende Kraul – Rücken' eine schnelle Rollwende von Kraul zu Rücken mit einem anschließenden Sprint.",
+      "icon": "assets/icons/s6.jpg",
+      "drills": [
+        {
+          "drill_name": "BaumstammPaddeln",
+          "category": "Wassergefühl",
+          "description": "Baumstamm-Paddeln. Beine passiv. In Bauchlage wird auf Hüfte/Taille-Höhe, unterhalb des Körpers – von den Handballen ausgehend – eine liegende Acht ausgeführt. Arme sind gebeugt, leicht aufgestellte Handhaltung. Ellbogen leicht nach aussen gestellt. Oberarme bleiben möglichst ruhig. Atmung nach vorne oder zur Seite.",
+          "distance": "25 m",
+          "focus": "Oberarme bleiben möglichst ruhig",
+          "videoAsset": "assets/swim_tech6.1.mp4"
+        },
+        {
+          "drill_name": "Tauchzüge",
+          "category": "Unterwasserphase",
+          "description": "Startsprung vom Startblock mit anschliessenden korrekten Tauchzügen. Während oder am Schluss des Armzugs muss ein Delfinbeinschlag erfolgen. Nach Armzug und Delfinbeinschlag werden die Arme eng am Körper nach vorne geführt, dabei erfolgt der Brustbeinschlag.",
+          "distance": "16 m",
+          "focus": "Korrekte Kopplung des Delfinbeinschlags mit dem Tauchzug der Arme",
+          "videoAsset": "assets/swim_tech6.2.mp4"
+        },
+        {
+          "drill_name": "Kraul 3er-Atmung",
+          "category": "Ausdauer Atmung",
+          "description": "Kraul, ganze Lage mit regelmässiger 3er-Atmung. Regelkonformer Start und Wenden. Kontinuierliche Bewegungen sowie korrekte Rollwende.",
+          "distance": "100 m",
+          "focus": "Kontinuierliche Bewegungen mit regelmässiger 3er-Atmung",
+          "time": "2.15 Minuten",
+          "videoAsset": "assets/swim_tech6.3.mp4"
+        },
+        {
+          "drill_name": "Kraulbeinschlag",
+          "category": "Ausdauer Beine",
+          "description": "Kraulbeinschlag in Bauchlage. Arme in gestreckter Vorhalte mit Schwimmbrett. Gesicht im Wasser.",
+          "distance": "50 m",
+          "focus": "Effizienter, regelmässiger Beinschlag",
+          "time": "1.45 Minuten",
+          "videoAsset": "assets/swim_tech6.4.mp4"
+        },
+        {
+          "drill_name": "Lagen",
+          "category": "Lagen",
+          "description": "100 m Lagen komplett. Regelkonforme Schwimmtechniken.",
+          "distance": "100 m",
+          "focus": "Regelkonforme Schwimmtechniken",
+          "time": "2.00 Minuten",
+          "videoAsset": "assets/swim_tech6.5.mp4"
+        },
+        {
+          "drill_name": "Wende Kraul – Rücken",
+          "category": "Schnelligkeit",
+          "description": "Wende von Kraul auf Rücken mit 10 m Sprint Rücken. Start in gestreckter Bauchlage, die Hände berühren die Wand. Auf Pfiff macht der Schwimmer Beinschlag und eine explosive Rollwende mit Abstoss von der Wand in Rückenlage und folgendem Sprint.",
+          "distance": "10 m",
+          "focus": "Schnelle Rollwende",
+          "time": "15 Sek.",
+          "videoAsset": "assets/swim_tech6.6.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Schwerpunkt Brust",
+      "level_description": "Im 'Schwerpunkt Brust' Level wird der Fokus auf die Brustschwimmtechnik gelegt. Die Schwimmer beginnen mit 'RussischPaddeln', einer Technikübung, die die präzise Bewegungsausführung mit Ein- und Auswärtsbewegungen der Hände betont. Mit 'Delfinkicks unter Wasser' üben die Schwimmer flache, schnelle Bewegungen unter Wasser. 'Brust-Atmung' lehrt die Schwimmer eine kontrollierte Atmung, während sie in einem bestimmten Rhythmus schwimmen. Bei 'Brustbeinschlag' konzentrieren sich die Schwimmer auf einen effizienten Beinschlag mit korrekter Dynamik. 'LagenKoordination' bietet eine kombinierte Übung für verschiedene Schwimmarten mit besonderem Schwerpunkt auf präziser Koppelung. Abschließend wird im Drill 'Brust' die Geschwindigkeit und Technik im Brustschwimmen, einschließlich Start und Wende, trainiert.",
+      "icon": "assets/icons/s7.jpg",
+      "drills": [
+        {
+          "drill_name": "RussischPaddeln",
+          "category": "Wassergefühl",
+          "description": "Paddeln vor dem Kopf in Bauchlage (kopfwärts). Mit annähernd gestreckten Armen wird vor dem Kopf mit den Händen eine liegende Acht ausgeführt. Die Fingerspitzen führen dabei die Bewegung. Die Hände sind zum Unterarm hin abgewinkelt. Der Winkel zwischen Wasseroberfläche und Unterarm beträgt ca. 30°. Ein leichtes Absinken der Beine kann toleriert werden.",
+          "distance": "15 m",
+          "focus": "Präzise Bewegungsausführung mit Ein- und Auswärtsbewegungen der Hände",
+          "videoAsset": "assets/swim_tech7.1.mp4"
+        },
+        {
+          "drill_name": "Delfinkicks unter Wasser",
+          "category": "Unterwasserphase",
+          "description": "Delfinkicks in Bauchlage unter Wasser. Nach dem Abstossen vom Rand, flache, schnelle Delfinkicks unter Wasser ausführen. Tauchtiefe 80–100 cm.",
+          "distance": "15 m",
+          "focus": "Antriebseffiziente, flache, schnelle Bewegungen unter Wasser",
+          "videoAsset": "assets/swim_tech7.2.mp4"
+        },
+        {
+          "drill_name": "Brust-Atmung",
+          "category": "Ausdauer Atmung",
+          "description": "Brust: 2 Tauchzüge ohne Atmung, 2 normale Brustzyklen mit normalem Atmungsrhythmus.",
+          "distance": "100 m",
+          "focus": "Kontrollierte Atmung",
+          "videoAsset": "assets/swim_tech7.3.mp4"
+        },
+        {
+          "drill_name": "Brustbeinschlag",
+          "category": "Ausdauer Beine",
+          "description": "50 m Brustbeinschlag Arme in Vorhalte. Effizienter Beinschlag mit korrekter Dynamik. Die Schwung-, Stossbewegung muss abgeschlossen werden bis sich die Fusssohlen berühren. Atmung nach vorne kurz vor dem Beinschlag. Ohne Schwimmbrett.",
+          "distance": "50 m",
+          "time": "1.45 Minuten",
+          "focus": "Effizienter Beinschlag mit korrekter Dynamik.",
+          "videoAsset": "assets/swim_tech7.4.mp4"
+        },
+        {
+          "drill_name": "LagenKoordination",
+          "category": "Lagen",
+          "description": "200 m Lagen koordinativ. 50 m Delfin: Die Rückholphase der Arme erfolgt unter Wasser, Atmung am Schluss der Druckphase. Keine Pause der Arme in Vorhalte. 50 m Rücken: einarmig Rücken mit deutlicher Rotation um die Längsachse. Armwechsel nach 25 m. Passiver Arm am Körper angelegt. 50 m Brust: 1x rechter Arm und linkes Bein – 1x linker Arm und rechtes Bein – 1x Zyklus komplett. 50 m Kraul: Wechselzug hinten. Die Hände holen sich hinten ein. Es darf erst eingeatmet werden, wenn die Hand das Wasser verlässt. 3er-Atmung.",
+          "distance": "200 m",
+          "focus": "Präzise Koppelung",
+          "videoAsset": "assets/swim_tech7.5.mp4"
+        },
+        {
+          "drill_name": "Brust",
+          "category": "Schnelligkeit",
+          "description": "50 m Brust mit korrektem Start und Wende, inkl. Tauchzug",
+          "distance": "50 m",
+          "time": "55 Sek.",
+          "focus": "Präzise Koppelung",
+          "videoAsset": "assets/swim_tech7.6.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Schwerpunkt Delfin",
+      "level_description": "Im 'Schwerpunkt Delfin' Level dreht sich alles um die Delfintechnik und -bewegung. Die Schwimmer starten mit 'Torpedo-Paddeln', bei dem sie in Rückenlage fusswärts paddeln, wobei die Hände dorsal flektiert sind. Im 'Delfinkicks unter Wasser in Rückenlage' üben die Schwimmer Delfinbeinschläge unter Wasser nach einem Abstoss vom Beckenrand. 'Kraul, Atempyramide' ist eine Übung, bei der die Schwimmer in 200 m Distanz ihre Atmung variieren, von einer 1er- bis zu einer 7er-Atmung. Beim 'Beinschlag Lagen' schwimmen sie 100 m nur mit Beinschlag in verschiedenen Lagen ohne ein Schwimmbrett. Bei 'Lagen' schwimmen sie 200 m in allen Lagen komplett. Abschließend wird im 'Delfin' Drill die Geschwindigkeit und Technik im Delfinschwimmen, inklusive Start, trainiert.",
+      "icon": "assets/icons/s8.jpg",
+      "drills": [
+        {
+          "drill_name": "Torpedo-Paddeln",
+          "category": "Wassergefühl",
+          "description": "Fusswärts paddeln in Rückenlage mit den Armen in Hochhalte gestreckt. Dabei sind die Hände dorsal flektiert. Bewegung von den Handballen ausgehend.",
+          "distance": "15 m",
+          "time": "45 Sekunden",
+          "focus": "Präzise Bewegungsausführungen mit Ein- und Auswärtsbewegungen der Hände",
+          "videoAsset": "assets/swim_tech8.1.mp4"
+        },
+        {
+          "drill_name": "Delfinkicks unter Wasser in Rückenlage",
+          "category": "Unterwasserphase",
+          "description": "Delfinkicks in Rückenlage unter Wasser nach Abstossen vom Rand. Tauchtiefe 80–100 cm.",
+          "distance": "12 m",
+          "time": "12 Sekunden",
+          "focus": "Ausatmen durch die Nase",
+          "videoAsset": "assets/swim_tech8.2.mp4"
+        },
+        {
+          "drill_name": "Kraul, Atempyramide",
+          "category": "Ausdauer Atmung",
+          "description": "200 m Kraul. Je 25 m ganze Lage mit Atempyramide 1/3/5/7/7/5/3/1er-Atmung.",
+          "distance": "200 m",
+          "focus": "Ruhiges Schwimmen trotz Sauerstoffmangel",
+          "videoAsset": "assets/swim_tech8.3.mp4"
+        },
+        {
+          "drill_name": "Beinschlag Lagen",
+          "category": "Ausdauer Beine",
+          "description": "100 m Beinschlag Lagen, Arme in Hochhalte. 25 m Delfin 25 m Rücken 25 m Brust 25 m Kraul. Ohne Schwimmbrett.",
+          "distance": "100 m",
+          "time": "4.00 Minuten",
+          "focus": "Effizienz des Beinantriebs",
+          "videoAsset": "assets/swim_tech8.4.mp4"
+        },
+        {
+          "drill_name": "Lagen",
+          "category": "Lagen",
+          "description": "200 m Lagen komplett.",
+          "distance": "200 m",
+          "time": "4.30 Minuten",
+          "focus": "Alle Schwimmtechniken werden regelkonform abgeschlossen",
+          "videoAsset": "assets/swim_tech8.5.mp4"
+        },
+        {
+          "drill_name": "Delfin",
+          "category": "Schnelligkeit",
+          "description": "25 m Delfin ganze Lage inkl. Start.",
+          "distance": "25 m",
+          "time": "18 Sek.",
+          "focus": "Effiziente, widerstandsarme Bewegungen",
+          "videoAsset": "assets/swim_tech8.6.mp4"
+        }
+      ]
+    }
+  ]
+}

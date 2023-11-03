@@ -1,0 +1,795 @@
+{
+  "app_title": "Swim Sports Tests",
+  "category": "Category",
+  "water_depth": "Water Depth",
+  "distance": "Distance",
+  "description": "Description",
+  "focus": "Focus",
+  "compulsory": "Compulsory",
+  "levels": [
+    {
+      "level": "Crab",
+      "age_group": "4 to 5 years old",
+      "level_description": "The 'Crab' level for 4- to 5-year-old children serves as a playful introduction to water. Here they learn exercises such as 'Duckling' (Submerging), 'Bubble Bath' (Exhaling underwater), 'Airplane' (Floating in prone position), 'Belly Arrow' (Gliding) and 'Jump' (Jumping from the pool edge).",
+      "icon": "assets/icons/g1.jpg",
+      "drills": [
+        {
+          "drill_name": "Duckling",
+          "category": "Water Familiarization",
+          "water_depth": "Shallow water",
+          "description": "Standing, submerge fully for at least 3 seconds while holding breath, exhale above water.",
+          "videoAsset": "assets/swim1.1.mp4"
+        },
+        {
+          "drill_name": "Bubble Bath",
+          "category": "Water Familiarization",
+          "water_depth": "Shallow water",
+          "description": "Standing, submerge fully for at least 3 seconds with visible exhalation through mouth and/or nose underwater.",
+          "videoAsset": "assets/swim1.2.mp4"
+        },
+        {
+          "drill_name": "Airplane",
+          "category": "Water Familiarization",
+          "water_depth": "Chest-deep water",
+          "compulsory": "There should be no compromise in this exercise during the test. If this exercise is not mastered safely and repeatably, moving on to the next level is not possible under any circumstances.",
+          "description": "Float in a prone position for at least 3 seconds with correct head position, arms extended to the side.",
+          "videoAsset": "assets/swim1.3.mp4"
+        },
+        {
+          "drill_name": "Belly Arrow",
+          "category": "Basic Competence",
+          "water_depth": "Chest-deep water",
+          "description": "Push off from the wall or steps and glide independently in a prone position for at least 3 seconds (without leg kick). The face is submerged in water, arms extended forward.",
+          "videoAsset": "assets/swim1.4.mp4"
+        },
+        {
+          "drill_name": "Jump",
+          "category": "Water Familiarization",
+          "water_depth": "Chest-deep water",
+          "compulsory": "There should be no compromise in this exercise during the test. If this exercise is not mastered safely and repeatably, moving on to the next level is not possible under any circumstances.",
+          "description": "Free jump from the pool edge onto the feet followed by immediate and complete submersion.",
+          "videoAsset": "assets/swim1.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Seahorse",
+      "age_group": "4 to 5 years old",
+      "level_description": "The 'Seahorse' level for 4- to 5-year-old children deepens water familiarization and basic competencies. Children learn exercises such as 'Fish Eye' (Recognition underwater), 'Air Pump' (Breathing underwater), 'Water Lily' (Floating in supine position), 'Belly Arrow with Leg Drive' (Gliding with leg propulsion) and 'Frog Jump' (Jumping into deep water).",
+      "icon": "assets/icons/g2.jpg",
+      "drills": [
+        {
+          "drill_name": "Fish Eye",
+          "category": "Water Familiarization",
+          "water_depth": "Shallow water",
+          "description": "Submerge, open eyes, and recognize an object, number, or color underwater.",
+          "videoAsset": "assets/swim2.1.mp4"
+        },
+        {
+          "drill_name": "Air Pump",
+          "category": "Water Familiarization",
+          "water_depth": "Shallow water",
+          "compulsory": "There should be no compromise in this exercise during the test. If this exercise is not mastered safely and repeatably, moving on to the next level is not possible under any circumstances.",
+          "description": "Standing: Inhale, submerge, and exhale completely underwater. The exercise is to be performed four times consecutively without interruption and without rubbing the eyes. Goal: steady breathing rhythm.",
+          "videoAsset": "assets/swim2.2.mp4"
+        },
+        {
+          "drill_name": "Water Lily",
+          "category": "Water Familiarization",
+          "water_depth": "Shallow water",
+          "compulsory": "There should be no compromise in this exercise during the test. If this exercise is not mastered safely and repeatably, moving on to the next level is not possible under any circumstances.",
+          "description": "Float in a supine position for at least 5 seconds, arms extended to the side or forward.",
+          "videoAsset": "assets/swim2.3.mp4"
+        },
+        {
+          "drill_name": "Belly Arrow with Leg Drive",
+          "category": "Basic Competence",
+          "water_depth": "Shallow water",
+          "description": "Glide over at least 2 meters in a prone position by pushing off from the edge or the floor without propulsion, arms extended forward. Subsequently, glide another 2 meters with leg propulsion.",
+          "videoAsset": "assets/swim2.4.mp4"
+        },
+        {
+          "drill_name": "Frog Jump",
+          "category": "Water Familiarization",
+          "water_depth": "Shallow water for the assisting person; Deep water for the performers",
+          "description": "Jump feet-first into deep water to submerge. (An assistant stands in the water).",
+          "videoAsset": "assets/swim2.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Frog",
+      "age_group": "5 to 6 years old",
+      "level_description": "The 'Frog' level for 5- to 6-year-old children deepens their water competencies. Here, they learn exercises like 'Motorboat' (Gliding in a prone position), 'Back Arrow' (Gliding in a supine position), 'Seal Swimming in supine position' and 'prone position' (Alternating leg kick in both positions), as well as 'Somersault' (Forward roll into deep water).",
+      "icon": "assets/icons/g3.jpg",
+      "drills": [
+        {
+          "drill_name": "Motorboat",
+          "category": "Basic Competence",
+          "water_depth": "At least chest-deep water",
+          "description": "Push off from the edge and glide in a prone position on the water surface for at least 5 seconds with correct head positioning and visible exhalation.",
+          "videoAsset": "assets/swim3.1.mp4"
+        },
+        {
+          "drill_name": "Back Arrow",
+          "category": "Basic Competence",
+          "water_depth": "At least chest-deep water",
+          "description": "Glide in a supine position for at least 5 seconds after pushing off from the edge or the floor, arms extended forward.",
+          "videoAsset": "assets/swim3.2.mp4"
+        },
+        {
+          "drill_name": "Seal Swimming on the back",
+          "category": "Propulsion Competence",
+          "water_depth": "Deep water",
+          "compulsory": "There should be no compromise in this exercise during the test. If this exercise is not mastered safely and repeatably, moving on to the next level is not possible under any circumstances.",
+          "description": "8 meters of alternating leg kick in supine position. Hands can paddle beside the body in the water or arms can be extended forward.",
+          "videoAsset": "assets/swim3.3.mp4"
+        },
+        {
+          "drill_name": "Seal Swimming on the belly",
+          "category": "Propulsion Competence",
+          "water_depth": "Deep water",
+          "compulsory": "There should be no compromise in this exercise during the test. If this exercise is not mastered safely and repeatably, moving on to the next level is not possible under any circumstances.",
+          "description": "8 meters of alternating leg kick in prone position. Hands can paddle beside the body in the water or arms can be extended forward. An arm propulsion movement, e.g., 'Paddle Steamer', supports inhalation.",
+          "videoAsset": "assets/swim3.4.mp4"
+        },
+        {
+          "drill_name": "Somersault",
+          "category": "Water Familiarization",
+          "water_depth": "Deep water",
+          "description": "Forward roll/somersault from the pool edge into deep water.",
+          "videoAsset": "assets/swim3.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Penguin",
+      "age_group": "5 to 6 years old",
+      "level_description": "The 'Penguin' level for 5- to 6-year-old children is the fourth stage of swimming instruction. Here, they learn exercises like 'Handstand' (Standing on hands in water), 'Tunnel Diving' (Gliding under obstacles), 'Superman' (Alternating leg kick in prone position with arm rotation), 'Polar Bear Swimming' (Movement in prone position), and 'Backstroke' (Crawling in supine position).",
+      "icon": "assets/icons/g4.jpg",
+      "drills": [
+        {
+          "drill_name": "Handstand",
+          "category": "Water Familiarization",
+          "water_depth": "Hip- to chest-deep water",
+          "description": "From standing: Handstand followed by forward rolling and visible exhalation through the nose.",
+          "videoAsset": "assets/swim4.1.mp4"
+        },
+        {
+          "drill_name": "Tunnel Diving",
+          "category": "Basic Competence",
+          "water_depth": "Chest-deep water",
+          "description": "Dive down, push off from the wall, glide under the legs of a person or through a hoop completely submerged in water (without propulsion movements).",
+          "videoAsset": "assets/swim4.2.mp4"
+        },
+        {
+          "drill_name": "Superman",
+          "category": "Propulsion Competence",
+          "water_depth": "At least chest-deep water",
+          "compulsory": "There should be no compromise in this exercise during the test. If this exercise is not mastered safely and repeatably, moving on to the next level is not possible under any circumstances.",
+          "description": "10–15 m after pushing off: Alternating leg kick in prone position with one arm extended forward. Rotate from prone to side position to inhale. Then rotate back to prone position to exhale. Execute at least 3 times consecutively.",
+          "videoAsset": "assets/swim4.3.mp4"
+        },
+        {
+          "drill_name": "Polar Bear Swimming",
+          "category": "Propulsion Competence",
+          "water_depth": "Deep water",
+          "compulsory": "There should be no compromise in this exercise during the test. If this exercise is not mastered safely and repeatably, moving on to the next level is not possible under any circumstances.",
+          "description": "10–15 m movement in prone position, arm propulsion and alternating leg kick with 'paddle movements' in front of the head, exhaling into the water. The arms glide forward underwater and pull back again until under the shoulders.",
+          "videoAsset": "assets/swim4.4.mp4"
+        },
+        {
+          "drill_name": "Backstroke",
+          "category": "Movement Competence",
+          "water_depth": "Deep water",
+          "description": "15–25 m alternating leg kick and arm propulsion with arms returning outside of the water in a supine position.",
+          "videoAsset": "assets/swim4.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Octopus",
+      "age_group": "6 to 7 years old",
+      "level_description": "The 'Octopus' level for 6- to 7-year-old children is the fifth stage of swimming instruction. Here, they learn exercises like 'Shark' (Alternating leg kick in prone position with arm rotation), 'Slalom with Breaststroke Pull' (Diving through staggered hoops), 'Log Rolling' (Rotation in water with extended arms), 'Screw Crawl' (Movement in prone and supine positions), and 'Headfirst Dive' (Diving headfirst).",
+      "icon": "assets/icons/g5.jpg",
+      "drills": [
+        {
+          "drill_name": "Shark",
+          "category": "Propulsion Competence",
+          "water_depth": "Deep water",
+          "description": "15–20 m alternating leg kick in prone position, one arm extended forward, the other arm positioned laterally along the body: Exhale into the water, inhale by rolling over the extended arm and simultaneously lifting the elbow of the tucked arm, then lower the arm, turn the head and exhale.",
+          "videoAsset": "assets/swim5.1.mp4"
+        },
+        {
+          "drill_name": "Slalom with Breaststroke Pull",
+          "category": "Propulsion Competence",
+          "water_depth": "Chest-deep water",
+          "description": "Push off the wall underwater and dive for 5 m with alternating leg kick and breaststroke pull through two laterally staggered hoops.",
+          "videoAsset": "assets/swim5.2.mp4"
+        },
+        {
+          "drill_name": "Log Rolling",
+          "category": "Propulsion Competence",
+          "water_depth": "Deep water",
+          "compulsory": "No compromise should be made in this exercise during the test. If this exercise is not safely and repeatably mastered, progression to the next level is not possible under any circumstances.",
+          "description": "15 m after pushing off: 'Log roll' with alternating leg kick and two rotations from supine to prone position and from prone to supine position. The arms remain extended forward in a high-hold position throughout the entire exercise.",
+          "videoAsset": "assets/swim5.3.mp4"
+        },
+        {
+          "drill_name": "Screw Crawl",
+          "category": "Movement Competence",
+          "water_depth": "Deep water",
+          "compulsory": "No compromise should be made in this exercise during the test. If this exercise is not safely and repeatably mastered, progression to the next level is not possible under any circumstances.",
+          "description": "25 m movement: 5–8 m alternating leg kick and alternating arm pull with underwater and above-water phases in prone position with side breathing; immediately followed by 5–8 m in supine position, arms extended in the above-water phase, regular arm pull, etc.",
+          "videoAsset": "assets/swim5.4.mp4"
+        },
+        {
+          "drill_name": "Headfirst Dive",
+          "category": "Sport-specific Competence",
+          "water_depth": "Appropriate water depth depending on body size (Recommended: at least 1.50 m)",
+          "description": "Dive headfirst from kneeling, crouching, or standing position, followed by gliding towards the bottom.",
+          "videoAsset": "assets/swim5.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Crocodile",
+      "age_group": "6 to 7 years old",
+      "level_description": "The 'Crocodile' level for 6- to 7-year-old children represents the sixth stage of swimming instruction. Here, children deepen techniques like 'Front Crawl' (Alternating leg kick in prone position with proper breathing), 'Windshield Wipers' (Movement through arm propulsion), 'Front Crawl-Breast Mix' (Combination of alternating leg kick and breaststroke arm pull), 'Water Stamping' (upright stamping in deep water), and 'Duck Feet' (Synchronized leg kick in various positions).",
+      "icon": "assets/icons/g6.jpg",
+      "drills": [
+        {
+          "drill_name": "Front Crawl",
+          "category": "Movement Competence",
+          "water_depth": "Deep water",
+          "description": "15 m alternating leg kick and alternating arm pull with under- and above-water phases, in prone position, with proper side breathing.",
+          "videoAsset": "assets/swim6.1.mp4"
+        },
+        {
+          "drill_name": "Windshield Wipers",
+          "category": "Propulsion Competence",
+          "water_depth": "Chest-deep water or deep water",
+          "description": "5–8 m movement: Push off primarily with arm propulsion; the elbows point outwards, propulsion with inwards and outwards movements of the forearms/hands under the upper body. The face is properly positioned in the water (no 'breaststroke arm pull', no leg propulsion).",
+          "videoAsset": "assets/swim6.2.mp4"
+        },
+        {
+          "drill_name": "Front Crawl-Breast Mix",
+          "category": "Movement Competence",
+          "water_depth": "Deep water",
+          "compulsory": "No compromise should be made in this exercise during the test. If this exercise is not safely and repeatably mastered, progression to the next level is not possible under any circumstances.",
+          "description": "20–30 m movement in prone position, alternating leg kick combined with breaststroke arm pull and regular breathing forward with every pull.",
+          "videoAsset": "assets/swim6.3.mp4"
+        },
+        {
+          "drill_name": "Water Stamping",
+          "category": "Propulsion Competence",
+          "water_depth": "Deep water",
+          "description": "For 30 seconds, stand upright in deep water and push sideways downwards with outwardly turned flex-feet (feet flexed towards the instep). Arms can be used to assist (e.g., paddling).",
+          "videoAsset": "assets/swim6.4.mp4"
+        },
+        {
+          "drill_name": "Duck Feet",
+          "category": "Propulsion Competence",
+          "water_depth": "Deep water",
+          "compulsory": "No compromise should be made in this exercise during the test. If this exercise is not safely and repeatably mastered, progression to the next level is not possible under any circumstances.",
+          "description": "10–15 m synchronized leg kick (swinging/pushing movement of the lower legs with outwardly turned feet) in supine or prone position, arm position is freely selectable.",
+          "videoAsset": "assets/swim6.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Polar Bear",
+      "age_group": "6 to 8 years old",
+      "level_description": "The 'Polar Bear' level for 6- to 8-year-old children represents the seventh stage of swimming instruction. Here, children enhance their skills with exercises like 'Dive Turn' (Underwater diving and turning from a standing position), 'Dolphin Wave' (Dolphin movement with momentum from the head and shoulders), 'Breaststroke' (Breast swimming with proper coordination and breathing), and the concluding 'Water Safety Check (WSC)', a test of their water skills and safety.",
+      "icon": "assets/icons/g7.jpg",
+      "drills": [
+        {
+          "drill_name": "Dive Turn",
+          "category": "Movement Competence",
+          "water_depth": "Chest-deep water",
+          "description": "From standing: Dive from a distance of 5 m to the wall, turn underwater, and after 2 m, pick up a diving object from the bottom.",
+          "videoAsset": "assets/swim7.1.mp4"
+        },
+        {
+          "drill_name": "Dolphin Wave",
+          "category": "Propulsion Competence",
+          "water_depth": "Deep water",
+          "description": "4–6 m after pushing off: Execute the dolphin wave with a clearly visible impulse from the head/shoulders (no dolphin jumps, legs remain relaxed). Arms in the high hold position or along the body.",
+          "videoAsset": "assets/swim7.2.mp4"
+        },
+        {
+          "drill_name": "Breaststroke",
+          "category": "Movement Competence",
+          "water_depth": "Deep water",
+          "description": "16–25 m in full breaststroke. Effective swing/push movement of the legs, arm pull with bent arms during the pull phase. Correct coordination of arm pull – breathing. Visible exhalation into the water.",
+          "videoAsset": "assets/swim7.3.mp4"
+        },
+        {
+          "drill_name": "Water Safety Check (WSC)",
+          "category": "Safety",
+          "water_depth": "Deep water",
+          "compulsory": "No compromise should be made in this exercise during the test. If this exercise is not safely and repeatably mastered, progression to the next level is not possible under any circumstances.",
+          "description": "The following 3 exercises are to be performed consecutively and without a break: • Roll/tumble into deep water (the head must be fully submerged) • Float or tread water in place for 1 minute (floating in supine position or with water stamping or alternating leg kick). Rotate once around your own axis during this to orient yourself • Swim 50 m. The WSC certificate can also be issued additionally.",
+          "videoAsset": "assets/swim7.4.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Whale",
+      "icon": "assets/icons/s1.jpg",
+      "level_description": "In the 'Whale' level, swimmers perfect their techniques with specialized drills. These include 'Crawl with Hip Lift' for arm and hip coupling, 'Superman Back' and 'Superman Crawl' for arm and leg coordination, 'Breaststroke in Back Position' for efficient movement, 'Alternating Stroke Swimming' over 50m, 'Start Crawl' focusing on the gliding phase, and 'Flip Turn Crawl' to enhance turning.",
+      "drills": [
+        {
+          "drill_name": "Crawl with Hip Lift",
+          "category": "Dolphin",
+          "description": "Freestyle arm stroke. With each hand entry, there's an exaggerated, active hip lift. Precise coupling of arms and body movement. Continuous movement sequences. Legs are passive.",
+          "distance": "16–25 m",
+          "focus": "Coupling arms – hip lift",
+          "videoAsset": "assets/swim_tech1.1.mp4"
+        },
+        {
+          "drill_name": "Superman Back",
+          "category": "Backstroke",
+          "description": "In an extended back position, regular leg kick from the hip with relaxed, inward-turned feet. During the 6–8 kicks, one arm is in a forward position, the other is placed next to the body. Simultaneous arm change every 6–8 kicks.",
+          "distance": "16–25 m",
+          "focus": "During the 6–8 kicks, one arm is in a forward position, the other is placed next to the body",
+          "videoAsset": "assets/swim_tech1.2.mp4"
+        },
+        {
+          "drill_name": "Breaststroke in Back Position",
+          "category": "Breaststroke",
+          "description": "In an extended back position, breaststroke with a visible gliding phase. Slow drawing of the lower legs to a clear W-position of the legs. Dynamic swing-push movement until the legs are fully extended and closed. Arms are passively lying on the body.",
+          "distance": "Maximum 10 strokes over 15 m",
+          "focus": "Movement efficiency",
+          "videoAsset": "assets/swim_tech1.3.mp4"
+        },
+        {
+          "drill_name": "Superman Crawl",
+          "category": "Freestyle",
+          "description": "In an extended front position with the correct head position, regular leg kick from the hip with relaxed, inward-turned feet. One arm is in a forward position, the other is placed next to the body. Breathe to the side during a rotation of approx. 45° around the longitudinal axis every 6–8 kicks. Continuous exhalation during the 6–8 kicks.",
+          "distance": "16–25 m",
+          "focus": "Regular leg kick",
+          "videoAsset": "assets/swim_tech1.4.mp4"
+        },
+        {
+          "drill_name": "Alternating Stroke Swimming",
+          "category": "Distance",
+          "description": "25 m backstroke and immediately after 25 m freestyle with 3-stroke breathing. Continuous movements without pause.",
+          "distance": "50 m",
+          "focus": "Continuous movements without pause",
+          "videoAsset": "assets/swim_tech1.5.mp4"
+        },
+        {
+          "drill_name": "Start Crawl",
+          "category": "Start",
+          "description": "Dynamic jump from the starting block or pool edge. One hand lies on the other. Hands and head enter the water first. Glide phase in an extended body position. After transitioning from gliding to swimming, add 2–3 freestyle strokes.",
+          "focus": "Glide phase in an extended body position",
+          "videoAsset": "assets/swim_tech1.6.mp4"
+        },
+        {
+          "drill_name": "Flip Turn Crawl",
+          "category": "Turn",
+          "description": "Swim 5 m to approach. One hand touches the wall. Tilt the body to the side, tuck the legs, place the feet on the wall. The other hand and gaze are directed in the swimming direction, the touch hand is led over the water forward. Push off underwater to glide. After transitioning from gliding to swimming, add 2–3 freestyle strokes before the first inhalation.",
+          "videoAsset": "assets/swim_tech1.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Pike",
+      "icon": "assets/icons/s2.jpg",
+      "level_description": "In the 'Pike' level, swimming is further refined through technically demanding drills. Exercises include 'Shallow Dolphin Movement' for a rhythmic 2-beat rhythm, 'Back Rotation One-Armed' with active rotation, 'Efficient Breaststroke Pull' for precise hand movements, 'One-Armed Crawl' with a 3-dimensional pull and push pattern, '3-Stroke' for 75m distance swimming in various styles, 'Breaststroke Start' with a focused glide phase, and 'Breaststroke Turn' for an efficient and dynamic flip turn.",
+      "drills": [
+        {
+          "drill_name": "Shallow Dolphin Movement",
+          "category": "Dolphin",
+          "description": "Shallow dolphin movement with head submersion and simultaneous active, flat hip lift out of the water. Movement initiated from the chest. At the same time, there's a symmetrical leg kick from the hip with relaxed, inward-turned feet. Then lift the head (push chin forward) and simultaneous body extension (hips drop down). Followed by a second leg kick. This results in a 2-beat rhythm. Arms are passive, placed beside the body.",
+          "distance": "16–25 m",
+          "focus": "2-beat rhythm",
+          "videoAsset": "assets/swim_tech2.1.mp4"
+        },
+        {
+          "drill_name": "Back Rotation One-Armed",
+          "category": "Backstroke",
+          "description": "One-armed backstroke with clearly visible rotation around the longitudinal axis. In an extended back position, regular leg kick from the hip with relaxed, inward-turned feet. Hand entry is shoulder-width with the little finger side. The opposite shoulder is lifted out of the water. Continuous arm movements without pausing. Passive arm is placed beside the body. Halfway through the distance: arm switch.",
+          "distance": "16–25 m",
+          "focus": "Active Rotation",
+          "videoAsset": "assets/swim_tech2.2.mp4"
+        },
+        {
+          "drill_name": "Efficient Breaststroke Pull",
+          "category": "Breaststroke",
+          "description": "Breaststroke arm pull with breathing and a light supportive freestyle leg kick. 1. Pull phase: Outward movement of the forearms to about double shoulder width. 2. Push phase: Accelerated inward movement of the forearms (elbows leading). Elbows should not be pulled behind the shoulders. 3. Breathing must be completed when the arms are moved forward and the head is submerged. 4. Bring arms as narrowly as possible to the front. 5. Clear glide phase of the arms. The back of the hand always points in the direction of swimming during the propulsion movement.",
+          "distance": "16–25 m",
+          "focus": "Back of the hand always points in the direction of swimming during the propulsion movement",
+          "videoAsset": "assets/swim_tech2.3.mp4"
+        },
+        {
+          "drill_name": "One-Armed Crawl",
+          "category": "Freestyle",
+          "description": "One-armed crawl with a clear 3-dimensional pull and push pattern. The passive arm is in a forward position. Switch arms every three strokes. Breathe to the side on the 3rd arm stroke. The recovery phase of the arm with a relaxed hand is close to the body. Hand entry is shoulder-width with a complete arm extension.",
+          "distance": "32–50 m",
+          "focus": "Clearly recognizable 3-dimensional pull and push pattern",
+          "videoAsset": "assets/swim_tech2.4.mp4"
+        },
+        {
+          "drill_name": "3-Stroke",
+          "category": "Distance",
+          "description": "25 m backstroke, 25 m breaststroke, 25 m freestyle. Continuous movements without pausing and with adjusted breathing. No time limit.",
+          "distance": "75 m",
+          "focus": "Continuous movements without pausing and with adjusted breathing",
+          "videoAsset": "assets/swim_tech2.5.mp4"
+        },
+        {
+          "drill_name": "Breaststroke Start",
+          "category": "Start",
+          "description": "Dynamic jump from the starting block or pool edge. Hands and head enter the water first. Glide phase in an extended body position. After the glide phase, a submerged stroke is performed. The arms are symmetrically pulled back to the thighs. The head must break the water surface during the second movement cycle before the arms are brought forward. If a dolphin kick is performed, it must occur during or at the end of the submerged stroke. After transitioning from the underwater phase to swimming, add 2–3 breaststroke pulls.",
+          "focus": "Glide phase in an extended body position",
+          "videoAsset": "assets/swim_tech2.6.mp4"
+        },
+        {
+          "drill_name": "Breaststroke Turn",
+          "category": "Turn",
+          "description": "Breaststroke flip turn from the approach. Both hands must touch the wall simultaneously without overlapping. Dynamic leg tuck and body flip. After pushing off, a submerged stroke is performed. The head must break the water surface during the second movement cycle before the arms are brought forward. After transitioning from the underwater phase to swimming, add 2–3 breaststroke pulls.",
+          "focus": "Dynamic leg tuck and body flip",
+          "videoAsset": "assets/swim_tech2.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Shark",
+      "icon": "assets/icons/s3.jpg",
+      "level_description": "In the 'Shark' level, swimmers continue to be challenged with complex movements and techniques. The drills include 'Dolphin Movement with Arm Pull' for rhythmic movements and extended arms above the water, 'One-Armed Backstroke' to promote the 'elbow-forward' position, 'Breaststroke Coordination Arms – Legs – Legs' for an emphasized arm glide phase, 'Wiper Crawl' to improve uniform motion sequence, 'Technique Strokes' for 100m rhythmic swimming, 'Dolphin Kicks in Back Position' focusing on a streamlined extended arm position, and 'Backstroke Flip Turn' for a quick rotation around the transverse axis.",
+      "drills": [
+        {
+          "drill_name": "Dolphin Movement with Arm Pull",
+          "category": "Dolphin",
+          "description": "Shallow dolphin movement with 1 arm pull per 4 dolphin movements. Arms in a forward position. On the fourth dolphin movement, a complete symmetrical arm pull is performed up to the thighs. The recovery phase is performed with extended arms above water. Rhythmic motion sequence.",
+          "distance": "16–25 m",
+          "focus": "Extended arms above water",
+          "videoAsset": "assets/swim_tech3.1.mp4"
+        },
+        {
+          "drill_name": "One-Armed Backstroke",
+          "category": "Backstroke",
+          "description": "One-armed backstroke in a flat water position with a clearly recognizable pull and push pattern with the 'elbow-forward' position. Clearly visible rotation around the longitudinal axis. Continuous arm movements with an arm switch without pausing after every three strokes. The passive arm is placed beside the body.",
+          "distance": "32–50 m",
+          "focus": "Pull and push pattern with 'elbow-forward' position",
+          "videoAsset": "assets/swim_tech3.2.mp4"
+        },
+        {
+          "drill_name": "Breaststroke Coordination Arms – Legs – Legs",
+          "category": "Breaststroke",
+          "description": "Breaststroke with one arm pull and two leg kicks. Arm pull with emphasized pull and push phase. During the second leg kick, the arms remain in an extended forward position (glide phase of the arms). Efficient leg kick with correct dynamics. The swinging, pushing movement must be completed until the heels touch each other.",
+          "distance": "16–25 m",
+          "focus": "Glide phase of the arms",
+          "videoAsset": "assets/swim_tech3.3.mp4"
+        },
+        {
+          "drill_name": "Wiper Crawl",
+          "category": "Freestyle",
+          "description": "Extended prone position, face in the water: both arms perform a wiper movement with inward and outward movement of the forearms and hands below the upper body. Clear 'elbow-forward' position. On the 3rd inward movement, one arm is moved forward and the other backward, breathing to the side. Arms are then moved underwater back to the wiper position, etc. Breathe alternately to the right and left. Uniform motion sequence. Legs remain passive.",
+          "distance": "16–25 m",
+          "focus": "Uniform motion sequence",
+          "videoAsset": "assets/swim_tech3.4.mp4"
+        },
+        {
+          "drill_name": "Technique Strokes",
+          "category": "Distance",
+          "description": "25 m dolphin wave in a 2-beat rhythm, 25 m backstroke rotation, 25 m breaststroke coordination with 1 arm pull and 2 leg kicks, and 25 m Superman Crawl. Rhythmic motion sequences. Transition between swimming styles without pauses and loss of quality. No time limit.",
+          "distance": "100 m",
+          "focus": "Transition between swimming styles without pauses and loss of quality",
+          "videoAsset": "assets/swim_tech3.5.mp4"
+        },
+        {
+          "drill_name": "Dolphin Kicks in Back Position",
+          "category": "Start",
+          "description": "Push off in back position with streamlined extended arms (arms behind the ears). Glide about 80 cm below the water surface with small, fast dolphin kicks underwater. Visible exhalation through the nose underwater.",
+          "distance": "8 m",
+          "focus": "Streamlined extended arm position",
+          "videoAsset": "assets/swim_tech3.6.mp4"
+        },
+        {
+          "drill_name": "Backstroke Flip Turn",
+          "category": "Turn",
+          "description": "Approach in backstroke. Just before the wall, turn to the prone position and initiate a quick rotation around the transverse axis using the head and shoulder. No inhalation in the prone position. Push off in the back position while exhaling through the nose. 3-4 shallow, fast dolphin kicks and, after transitioning to swimming, add 2-3 strokes.",
+          "focus": "Quick rotation around the transverse axis",
+          "videoAsset": "assets/swim_tech3.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Dolphin",
+      "icon": "assets/icons/s4.jpg",
+      "level_description": "In the 'Dolphin' level, swimmers continue to advance in various techniques. Drills include 'Dolphin Variation' with extended arms in the over-water phase, 'Backstroke Coordination' for precise coordination of both arms, 'Breaststroke Coordination' with an emphasized glide phase of the legs, 'Spiral Freestyle' for fluid transitions and 'elbow-forward' position in prone and supine positions, 'Strokes' with 100m according to swimming rules, 'Backstroke Start' focusing on the flight phase and the upper body above the waterline, and finally 'Freestyle Flip Turn', where inhalation is avoided directly before and after the turn.",
+      "drills": [
+        {
+          "drill_name": "Dolphin Variation",
+          "category": "Dolphin",
+          "description": "3 complete dolphin strokes with arm recovery above water. During the arm recovery phase above the water, swing the extended arms simultaneously close to the water surface forward. Symmetrical arm pulls up to the thighs. Then 6-8 dolphin kicks with arms extended forward, followed by another 3 complete cycles.",
+          "distance": "16–25 m",
+          "focus": "Extended arms in the above-water phase",
+          "videoAsset": "assets/swim_tech4.1.mp4"
+        },
+        {
+          "drill_name": "Backstroke Coordination",
+          "category": "Backstroke",
+          "description": "One-armed backstroke. Pull and push pattern of the arm is clearly recognizable. Visible rotation around the longitudinal axis. The passive arm lies on the body and is lifted up to the vertical when the other arm enters the water. Then, bring the arm back to the body. Precise coordination of both arms. Switch arms after 25 m.",
+          "distance": "50 m",
+          "focus": "Precise coordination of both arms",
+          "videoAsset": "assets/swim_tech4.2.mp4"
+        },
+        {
+          "drill_name": "Breaststroke Coordination",
+          "category": "Breaststroke",
+          "description": "Breaststroke with 2 arm pulls for one leg kick. The back of the hand always points in the swimming direction during the propulsion movement of the arms. Visible 'elbow-forward' position. Inhale on every arm pull. Legs passively extended during the 1st arm pull (glide phase of the legs).",
+          "distance": "50 m",
+          "focus": "Glide phase of the legs",
+          "videoAsset": "assets/swim_tech4.3.mp4"
+        },
+        {
+          "drill_name": "Spiral Freestyle",
+          "category": "Freestyle",
+          "description": "3 freestyle strokes in prone position – Turn over the pulling arm into the supine position – 3 backstrokes – etc. 'Elbow-forward' position during pull and push phase in prone and supine positions. Fluid and precise transitions from prone to supine and back. Rotation around the longitudinal axis in a tense, flat body position.",
+          "distance": "50 m",
+          "focus": "'Elbow-forward' position during pull and push phase in prone and supine positions",
+          "videoAsset": "assets/swim_tech4.4.mp4"
+        },
+        {
+          "drill_name": "Strokes",
+          "category": "Distance",
+          "description": "25 m Dolphin, 25 m Backstroke, 25 m Breaststroke, 25 m Freestyle. Swimming techniques must comply with the rules, including the start jump and underwater phase. The swimming techniques must be completed according to the rules.",
+          "distance": "100 m",
+          "focus": "Techniques complying with the rules",
+          "videoAsset": "assets/swim_tech4.5.mp4"
+        },
+        {
+          "drill_name": "Backstroke Start",
+          "category": "Start",
+          "description": "Backstroke start. Swing arms over water backwards. Head in the nape and hyperextend the body during the flight phase. Upper body above the waterline during the flight phase. Dive 'into a hole'. Then, perform a dolphin kick underwater in a streamlined glide position.",
+          "distance": "8 m",
+          "focus": "Upper body above the waterline during the flight phase",
+          "videoAsset": "assets/swim_tech4.6.mp4"
+        },
+        {
+          "drill_name": "Freestyle Flip Turn",
+          "category": "Turn",
+          "description": "Freestyle flip turn from the approach (5 m). No inhalation directly before the turn. After the flip turn, push off in a side position and turn into the prone position while gliding. Glide phase with 3-4 shallow fast dolphin kicks underwater. After transitioning from gliding to swimming, add 2-3 strokes, then inhale.",
+          "focus": "Avoid inhaling directly before and after the turn",
+          "videoAsset": "assets/swim_tech4.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Focus Backstroke",
+      "icon": "assets/icons/s5.jpg",
+      "level_description": "In the 'Backstroke Focus' level, swimmers deepen their techniques specifically in backstroke swimming. Drills include 'Paddling in a supine position', where the emphasis is on a calm upper arm and a steady back of the hand position. 'Distance diving' emphasizes slow, economic movements underwater. In the 'Backstroke' drill, the focus is on continuous movements with regular breathing. The 'Kick in a supine position' focuses on regular kicking from the hip. 'Stroke Coordination' aims for the correct execution of coordinated movements in different swimming styles. Lastly, in the 'Freestyle Start', the dynamic and fluid sequence of the starting process and sprint is emphasized.",
+      "drills": [
+        {
+          "drill_name": "Paddling in a Supine Position",
+          "category": "Water Sensation",
+          "description": "Paddle for 25 m in an extended supine position, 12 m head-first and 12 m feet-first. Clear inward and outward movement of the forearms. The upper arm remains calm. The back of the hand always points in the swimming direction. Elbows are slightly outward. Feet-first: fingertips lead the lying eight. Head-first: palms lead the lying eight. Change direction by tucking in the legs and making a half turn (bucket).",
+          "distance": "25 m",
+          "focus": "The upper arm remains calm. The back of the hand always points in the swimming direction.",
+          "videoAsset": "assets/swim_tech5.1.mp4"
+        },
+        {
+          "drill_name": "Distance Diving",
+          "category": "Underwater Phase",
+          "description": "Distance diving for 15 seconds with a water start. Move as far as possible with slow and controlled movements. Diving depth 80–100 cm. Propulsion movement is free.",
+          "focus": "Slow, as economical movements as possible",
+          "videoAsset": "assets/swim_tech5.2.mp4"
+        },
+        {
+          "drill_name": "Backstroke",
+          "category": "Endurance Breathing",
+          "description": "Backstroke, full stroke with regular breathing. Rule-compliant start and flip turns. Continuous movements.",
+          "distance": "200 m",
+          "focus": "Continuous movements with regular breathing",
+          "videoAsset": "assets/swim_tech5.3.mp4"
+        },
+        {
+          "drill_name": "Kick in a Supine Position",
+          "category": "Endurance Legs",
+          "description": "50 m. Regular kicking in an extended supine position. Arms behind the ears in a high position.",
+          "distance": "50 m",
+          "focus": "Regular kicking from the hip with relaxed feet",
+          "time": "2.00 minutes",
+          "videoAsset": "assets/swim_tech5.4.mp4"
+        },
+        {
+          "drill_name": "Stroke Coordination",
+          "category": "Strokes",
+          "description": "100 m 4-stroke coordination. 25 m Dolphin: 2x right arm – 2x left arm – 2x both arms. 25 m Backstroke: Freestyle legs, symmetrical arm movement. Glide phase with arms in a high position. 25 m Breaststroke kick: Arms placed along the body. Touch the outside of the foot with your hands each time. Clearly recognizable glide phase. 25 m Freestyle: two strokes with underwater recovery. On the third arm stroke, move the arm normally over water forward for side breathing.",
+          "distance": "100 m",
+          "focus": "Correct execution of coordination tasks (precise coupling capability)",
+          "videoAsset": "assets/swim_tech5.5.mp4"
+        },
+        {
+          "drill_name": "Freestyle Start",
+          "category": "Speed",
+          "description": "Freestyle start on command from the starting block with a sprint over 12 m. Glide phase with 4-5 shallow fast dolphin kicks underwater. After transitioning from gliding to swimming, add 2-3 strokes, then inhale.",
+          "distance": "12 m",
+          "focus": "Dynamic, fluid sequence of the starting process and sprint",
+          "time": "10 seconds",
+          "videoAsset": "assets/swim_tech5.6.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Focus Freestyle",
+      "icon": "assets/icons/s6.jpg",
+      "level_description": "In the 'Freestyle Focus' level, swimmers deepen their techniques specifically in freestyle swimming. The drills start with 'Log Paddling', where swimmers focus on keeping their upper arms calm. 'Dive strokes' emphasize the correct coupling of the dolphin kick with the dive pull of the arms. 'Freestyle 3-breathing' aims to learn continuous movements with regular 3-breathing. In 'Freestyle kick', the focus is on efficient and regular kicking. 'Strokes' require swimmers to master rule-compliant swimming techniques. Finally, 'Turn Freestyle - Backstroke' promotes a fast roll turn from freestyle to backstroke followed by a sprint.",
+      "drills": [
+        {
+          "drill_name": "Log Paddling",
+          "category": "Water Sensation",
+          "description": "Log Paddling. Legs passive. In a prone position, a lying eight is executed at hip/waist height, below the body, starting from the palms. Arms are bent, slightly elevated hand position. Elbows are slightly outward. Upper arms remain as calm as possible. Breathing forward or to the side.",
+          "distance": "25 m",
+          "focus": "Upper arms remain as calm as possible",
+          "videoAsset": "assets/swim_tech6.1.mp4"
+        },
+        {
+          "drill_name": "Dive Strokes",
+          "category": "Underwater Phase",
+          "description": "Dive start from the starting block followed by correct dive strokes. During or at the end of the arm stroke, a dolphin kick must be executed. After the arm stroke and dolphin kick, the arms are brought forward close to the body, and then the breastbone kick is performed.",
+          "distance": "16 m",
+          "focus": "Correct coupling of the dolphin kick with the dive pull of the arms",
+          "videoAsset": "assets/swim_tech6.2.mp4"
+        },
+        {
+          "drill_name": "Freestyle 3-breathing",
+          "category": "Endurance Breathing",
+          "description": "Freestyle, full stroke with regular 3-breathing. Rule-compliant start and turns. Continuous movements and correct flip turn.",
+          "distance": "100 m",
+          "focus": "Continuous movements with regular 3-breathing",
+          "time": "2.15 minutes",
+          "videoAsset": "assets/swim_tech6.3.mp4"
+        },
+        {
+          "drill_name": "Freestyle Kick",
+          "category": "Endurance Legs",
+          "description": "Freestyle kick in a prone position. Arms extended in front with a kickboard. Face in the water.",
+          "distance": "50 m",
+          "focus": "Efficient, regular kick",
+          "time": "1.45 minutes",
+          "videoAsset": "assets/swim_tech6.4.mp4"
+        },
+        {
+          "drill_name": "Strokes",
+          "category": "Strokes",
+          "description": "100 m complete strokes. Rule-compliant swimming techniques.",
+          "distance": "100 m",
+          "focus": "Rule-compliant swimming techniques",
+          "time": "2.00 minutes",
+          "videoAsset": "assets/swim_tech6.5.mp4"
+        },
+        {
+          "drill_name": "Turn Freestyle – Backstroke",
+          "category": "Speed",
+          "description": "Turn from freestyle to backstroke with a 10 m backstroke sprint. Starting in an extended prone position, the hands touch the wall. On the whistle, the swimmer does a kick and an explosive roll turn with a push-off from the wall in a supine position followed by a sprint.",
+          "distance": "10 m",
+          "focus": "Fast roll turn",
+          "time": "15 seconds",
+          "videoAsset": "assets/swim_tech6.6.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Focus Breaststroke",
+      "icon": "assets/icons/s7.jpg",
+      "level_description": "In the 'Breaststroke Focus' level, the focus is placed on the breaststroke technique. Swimmers start with 'Russian Paddling', a technique drill that emphasizes precise movement execution with inward and outward movements of the hands. With 'Dolphin kicks underwater', swimmers practice flat, fast movements underwater. 'Breast-Breathing' teaches swimmers controlled breathing while swimming at a specific rhythm. In 'Breaststroke kick', swimmers focus on an efficient kick with correct dynamics. 'Stroke Coordination' provides a combined exercise for different swimming styles with a special focus on precise coupling. Finally, in the 'Breast' drill, the speed and technique in breaststroke, including start and turn, are trained.",
+      "drills": [
+        {
+          "drill_name": "Russian Paddling",
+          "category": "Water Sensation",
+          "description": "Paddling in front of the head in prone position (headward). With nearly extended arms, a lying eight is performed in front of the head with the hands. The fingertips lead the movement. The hands are angled towards the forearm. The angle between the water surface and forearm is approximately 30°. A slight sinking of the legs can be tolerated.",
+          "distance": "15 m",
+          "focus": "Precise movement execution with inward and outward movements of the hands",
+          "videoAsset": "assets/swim_tech7.1.mp4"
+        },
+        {
+          "drill_name": "Dolphin Kicks Underwater",
+          "category": "Underwater Phase",
+          "description": "Dolphin kicks in prone position underwater. After pushing off from the edge, perform flat, fast dolphin kicks underwater. Dive depth 80–100 cm.",
+          "distance": "15 m",
+          "focus": "Propulsion-efficient, flat, fast movements underwater",
+          "videoAsset": "assets/swim_tech7.2.mp4"
+        },
+        {
+          "drill_name": "Breast-Breathing",
+          "category": "Endurance Breathing",
+          "description": "Breaststroke: 2 dive strokes without breathing, followed by 2 regular breast cycles with normal breathing rhythm.",
+          "distance": "100 m",
+          "focus": "Controlled Breathing",
+          "videoAsset": "assets/swim_tech7.3.mp4"
+        },
+        {
+          "drill_name": "Breaststroke Kick",
+          "category": "Endurance Legs",
+          "description": "50 m breaststroke kick with arms extended forward. Efficient kick with correct dynamics. The swinging, thrust movement must be completed until the soles of the feet touch. Breathing forward shortly before the kick. Without kickboard.",
+          "distance": "50 m",
+          "time": "1.45 minutes",
+          "focus": "Efficient kick with correct dynamics",
+          "videoAsset": "assets/swim_tech7.4.mp4"
+        },
+        {
+          "drill_name": "Stroke Coordination",
+          "category": "Strokes",
+          "description": "200 m coordinated strokes. 50 m Dolphin: The recovery phase of the arms takes place underwater, breathing at the end of the pressure phase. No pause of the arms in front position. 50 m Backstroke: one-armed backstroke with clear rotation around the longitudinal axis. Arm change after 25 m. Passive arm is placed against the body. 50 m Breaststroke: 1x right arm and left leg – 1x left arm and right leg – 1x full cycle. 50 m Freestyle: Change pull at the back. The hands meet at the back. Breathing is only allowed when the hand leaves the water. 3-breathing.",
+          "distance": "200 m",
+          "focus": "Precise coupling",
+          "videoAsset": "assets/swim_tech7.5.mp4"
+        },
+        {
+          "drill_name": "Breast",
+          "category": "Speed",
+          "description": "50 m breaststroke with correct start and turn, including dive stroke",
+          "distance": "50 m",
+          "time": "55 seconds",
+          "focus": "Precise coupling",
+          "videoAsset": "assets/swim_tech7.6.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Focus Dolphin",
+      "icon": "assets/icons/s8.jpg",
+      "level_description": "The 'Dolphin Focus' level revolves around the dolphin technique and movement. Swimmers start with 'Torpedo Paddling', where they paddle in a supine position footward, with their hands dorsally flexed. In 'Dolphin Kicks Underwater in Supine Position', swimmers practice dolphin kicks underwater after pushing off from the pool edge. 'Freestyle, Breathing Pyramid' is an exercise where swimmers vary their breathing over a 200 m distance, from a 1-breath to a 7-breath rhythm. In 'Kick Strokes', they swim 100 m only with leg kicks in different strokes without a kickboard. In 'Strokes', they swim 200 m in all strokes completely. Finally, in the 'Dolphin' drill, the speed and technique in dolphin swimming, including the start, are trained.",
+      "drills": [
+        {
+          "drill_name": "Torpedo Paddling",
+          "category": "Water Sensation",
+          "description": "Paddle footward in supine position with arms stretched out. The hands are dorsally flexed. Movement starting from the palms.",
+          "distance": "15 m",
+          "time": "45 seconds",
+          "focus": "Precise movement executions with inward and outward movements of the hands",
+          "videoAsset": "assets/swim_tech8.1.mp4"
+        },
+        {
+          "drill_name": "Dolphin Kicks Underwater in Supine Position",
+          "category": "Underwater Phase",
+          "description": "Dolphin kicks in supine position underwater after pushing off from the edge. Dive depth 80–100 cm.",
+          "distance": "12 m",
+          "time": "12 seconds",
+          "focus": "Exhaling through the nose",
+          "videoAsset": "assets/swim_tech8.2.mp4"
+        },
+        {
+          "drill_name": "Freestyle, Breathing Pyramid",
+          "category": "Endurance Breathing",
+          "description": "200 m Freestyle. Every 25 m full stroke with breathing pyramid 1/3/5/7/7/5/3/1-breath rhythm.",
+          "distance": "200 m",
+          "focus": "Calm swimming despite oxygen deficit",
+          "videoAsset": "assets/swim_tech8.3.mp4"
+        },
+        {
+          "drill_name": "Kick Strokes",
+          "category": "Endurance Legs",
+          "description": "100 m leg kicks in strokes, arms raised. 25 m Dolphin 25 m Backstroke 25 m Breaststroke 25 m Freestyle. Without kickboard.",
+          "distance": "100 m",
+          "time": "4.00 minutes",
+          "focus": "Efficiency of the leg propulsion",
+          "videoAsset": "assets/swim_tech8.4.mp4"
+        },
+        {
+          "drill_name": "Strokes",
+          "category": "Strokes",
+          "description": "200 m strokes completely.",
+          "distance": "200 m",
+          "time": "4.30 minutes",
+          "focus": "All swimming techniques are completed according to the rules",
+          "videoAsset": "assets/swim_tech8.5.mp4"
+        },
+        {
+          "drill_name": "Dolphin",
+          "category": "Speed",
+          "description": "25 m Dolphin full stroke including start.",
+          "distance": "25 m",
+          "time": "18 seconds",
+          "focus": "Efficient, low-resistance movements",
+          "videoAsset": "assets/swim_tech8.6.mp4"
+        }
+      ]
+    }
+  ]
+}

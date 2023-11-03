@@ -1,0 +1,780 @@
+{
+  "app_title": "Swim Sports Test",
+  "category": "Categoria",
+  "water_depth": "Profondità dell'acqua",
+  "distance": "Distanza",
+  "description": "Descrizione",
+  "focus": "Focalizzare",
+  "compulsory": "Obbligatorio",
+  "levels": [
+    {
+      "level": "Granchio",
+      "age_group": "4-5 anni",
+      "level_description": "Il livello 'Granchio' per bambini dai 4 ai 5 anni serve come introduzione giocosa all'acqua. Qui imparano esercizi come 'Palombaro', 'Mille bolle blu', 'Aeroplano', 'Freccia ventrale', e 'Tuffo'.",
+      "icon": "assets/icons/g1.jpg",
+      "drills": [
+        {
+          "drill_name": "Palombaro",
+          "category": "Elemento chiave: «respirare»",
+          "water_depth": "Si tocca",
+          "description": "In piedi, immergersi per almeno 3 secondi trattenendo il respiro, espirare fuori dall’acqua.",
+          "videoAsset": "assets/swim1.1.mp4"
+        },
+        {
+          "drill_name": "Mille bolle blu",
+          "category": "Elemento chiave: «Respirare»",
+          "water_depth": "Si tocca",
+          "description": "In piedi, immergersi per almeno 3 secondi espirando sott’acqua con il naso e/o la bocca in modo ben visibile.",
+          "videoAsset": "assets/swim1.2.mp4"
+        },
+        {
+          "drill_name": "Aeroplano",
+          "category": "Elemento chiave: «galleggiare»",
+          "water_depth": "Acqua all’altezza del petto",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "Galleggiare almeno 3 secondi in posizione ventrale piana, tenendo la testa in modo corretto, braccia distese lateralmente.",
+          "videoAsset": "assets/swim1.3.mp4"
+        },
+        {
+          "drill_name": "Freccia ventrale",
+          "category": "Elemento chiave: «scivolare»",
+          "water_depth": "Acqua all’altezza del petto",
+          "description": "Spingersi dal bordo o dalle scale in posizione ventrale per almeno 3 secondi, le braccia tese in avanti, senza battere le gambe. Il viso immerso in acqua.",
+          "videoAsset": "assets/swim1.4.mp4"
+        },
+        {
+          "drill_name": "Tuffo",
+          "category": "Elemento chiave: «respirare»",
+          "water_depth": "Si tocca",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "Tuffo libero dal bordo della vasca in piedi, immergendosi subito completamente.",
+          "videoAsset": "assets/swim1.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Cavalluccio",
+      "age_group": "4-5 anni",
+      "level_description": "Il livello 'Cavalluccio' per bambini dai 4 ai 5 anni serve come avanzamento dopo 'Granchio'. Qui imparano esercizi come 'Occhio di pesce', 'Pompa', 'Stella marina', 'Freccia ventrale con propulsione delle gambe', e 'Salto della rana'.",
+      "icon": "assets/icons/g2.jpg",
+      "drills": [
+        {
+          "drill_name": "Occhio di pesce",
+          "category": "Elemento chiave: «Respirare»",
+          "water_depth": "Si tocca",
+          "description": "Immergersi, tenere gli occhi aperti e riconoscere sott’acqua un oggetto, un numero o un colore.",
+          "videoAsset": "assets/swim2.1.mp4"
+        },
+        {
+          "drill_name": "Pompa",
+          "category": "Elemento chiave: «Respirare»",
+          "water_depth": "Si tocca",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "In piedi: inspirare, immergersi ed espirare completamente sott’acqua. L’esercizio deve essere eseguito quattro volte senza interruzioni e senza asciugarsi gli occhi. Scopo: ritmo della respirazione regolare.",
+          "videoAsset": "assets/swim2.2.mp4"
+        },
+        {
+          "drill_name": "Stella marina",
+          "category": "Elemento chiave: «galleggiare»",
+          "water_depth": "Si tocca",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "Galleggiare almeno 5 secondi sul dorso, le braccia sono tenute distese di lato o in alto dietro la testa.",
+          "videoAsset": "assets/swim2.3.mp4"
+        },
+        {
+          "drill_name": "Freccia ventrale con propulsione delle gambe",
+          "category": "Elementi chiave: «scivolare e propulsione delle gambe»",
+          "water_depth": "Si tocca",
+          "description": "Scivolare per almeno 2 m in posizione ventrale dandosi la spinta dal bordo o dal fondo, braccia distese in avanti. Poi scivolare ancora 2 m con la propulsione delle gambe.",
+          "videoAsset": "assets/swim2.4.mp4"
+        },
+        {
+          "drill_name": "Salto della rana",
+          "category": "Elemento chiave: «respirare»",
+          "water_depth": "Chi aiuta tocca; chi esegue l’esercizio acqua profonda",
+          "description": "Tuffo in piedi in acqua profonda per immergersi. (La persona che aiuta è in acqua).",
+          "videoAsset": "assets/swim2.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Rana",
+      "age_group": "5-6 anni",
+      "level_description": "Il livello 'Rana' per bambini dai 5 ai 6 anni serve come avanzamento dopo 'Cavalluccio'. Qui imparano esercizi come 'Motoscafo', 'Freccia sul dorso', 'Nuoto a foca sul dorso', 'Nuoto a foca sul ventre', e 'Capriola'.",
+      "icon": "assets/icons/g3.jpg",
+      "drills": [
+        {
+          "drill_name": "Motoscafo",
+          "category": "Elementi chiave: «Scivolare e respirare»",
+          "water_depth": "Acqua all’altezza del petto",
+          "description": "Spingendosi dal bordo, scivolare per almeno 5 secondi in posizione ventrale sotto la superficie dell’acqua tenendo la testa in posizione corretta, espirare in modo visibile.",
+          "videoAsset": "assets/swim3.1.mp4"
+        },
+        {
+          "drill_name": "Freccia sul dorso",
+          "category": "Elemento chiave: «Scivolare»",
+          "water_depth": "Acqua all’altezza del petto",
+          "description": "Scivolare per almeno 5 secondi in posizione dorsale, dandosi la spinta dal bordo o dal fondo, braccia distese in alto dietro la testa.",
+          "videoAsset": "assets/swim3.2.mp4"
+        },
+        {
+          "drill_name": "Nuoto a foca sul dorso",
+          "category": "Elemento chiave: «propulsione»",
+          "water_depth": "Acqua profonda",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "8 m di battuta alternata delle gambe in posizione dorsale. Le mani possono pagaiare ai lati del corpo oppure le braccia rimangono tese dietro la testa.",
+          "videoAsset": "assets/swim3.3.mp4"
+        },
+        {
+          "drill_name": "Nuoto a foca sul ventre",
+          "category": "Elementi chiave: «propulsione e respirazione»",
+          "water_depth": "Acqua profonda",
+          "description": "8 m di battuta alternata delle gambe in posizione ventrale. Le mani possono pagaiare ai lati del corpo o con le braccia tese davanti alla testa. È raccomandato un movimento di propulsione delle braccia per facilitare la respirazione (p.es. pedalò).",
+          "videoAsset": "assets/swim3.4.mp4"
+        },
+        {
+          "drill_name": "Capriola",
+          "category": "Elemento chiave: «scivolare»",
+          "water_depth": "Acqua profonda",
+          "description": "Capriola in avanti dal bordo della vasca in acqua profonda.",
+          "videoAsset": "assets/swim3.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Pinguino",
+      "age_group": "5-6 anni",
+      "level_description": "Il livello 'Pinguino' per bambini dai 5 agli 6 anni serve come avanzamento dopo 'Rana'. Qui imparano esercizi come 'Appoggio rovesciato', 'Tunnel sottomarino', 'Superman', 'Pedaló', e 'Nuoto dorsale'.",
+      "icon": "assets/icons/g4.jpg",
+      "drills": [
+        {
+          "drill_name": "Appoggio rovesciato",
+          "category": "Elemento chiave: «Respirare»",
+          "water_depth": "Altezza dell’acqua: dalle anche al petto",
+          "description": "Dalla posizione eretta: appoggio rovesciato, seguito da capriola in avanti con visibile espirazione dal naso.",
+          "videoAsset": "assets/swim4.1.mp4"
+        },
+        {
+          "drill_name": "Tunnel sottomarino",
+          "category": "Elemento chiave: «Scivolare»",
+          "water_depth": "Acqua all’altezza del petto",
+          "description": "Immergersi, spingendosi dal bordo della vasca, in un cerchio completamente sommerso tenuto verticalmente (senza movimenti di propulsione).",
+          "videoAsset": "assets/swim4.2.mp4"
+        },
+        {
+          "drill_name": "Superman",
+          "category": "Movimenti chiave: «movimento del corpo, propulsione con le gambe, respirazione»",
+          "water_depth": "Acqua all’altezza del petto",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "Spingendosi dal muro, facendo 10–15 m con battuta alternata delle gambe in posizione ventrale con un braccio teso in avanti. Girare sul lato per inspirare. Tornare in posizione ventrale per espirare. Completare almeno 3 cicli successivi senza interruzioni.",
+          "videoAsset": "assets/swim4.3.mp4"
+        },
+        {
+          "drill_name": "Pedaló",
+          "category": "Movimenti chiave: «propulsione con le gambe, braccia e respirazione»",
+          "water_depth": "Acqua profonda",
+          "description": "Effettuare 10–15 m avanzando in posizione ventrale, battuta alternata delle gambe e movimento di propulsione delle braccia davanti alla testa con espirazione in acqua. Le braccia scivolano sott‘acqua di fronte quindi si trazionano indietro appena sotto le spalle.",
+          "videoAsset": "assets/swim4.4.mp4"
+        },
+        {
+          "drill_name": "Nuoto dorsale",
+          "category": "Movimenti chiave: «propulsione con gambe e braccia»",
+          "water_depth": "Acqua profonda",
+          "description": "Effettuare 15–25 m in posizione dorsale con battute alternate delle gambe e una trazione libera delle braccia. Il recupero delle braccia si fa fuori dall’acqua.",
+          "videoAsset": "assets/swim4.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Polipo",
+      "age_group": "6-7 anni",
+      "level_description": "Il livello 'Polipo' per bambini dai 6 ai 7 anni serve come avanzamento dopo 'Pinguino'. Qui imparano esercizi come 'Pescecane', 'Slalom', 'Rotolare i tronchi', 'Crawl a vite', e 'Tuffo a testa'.",
+      "icon": "assets/icons/g5.jpg",
+      "drills": [
+        {
+          "drill_name": "Pescecane",
+          "category": "Movimenti chiave: «propulsione con le gambe e respirazione»",
+          "water_depth": "Acqua profonda",
+          "description": "Effettuare 15–20 m battuta alternata di gambe in posizione ventrale, un braccio disteso davanti alla testa e l’altro appoggiato lungo il corpo di fianco: espirare sott’acqua, inspirare ruotando sul braccio disteso e contemporaneamente sollevare in alto il gomito del braccio lungo il fianco, quindi riabbassare il braccio, rigirare la testa ed espirare.",
+          "videoAsset": "assets/swim5.1.mp4"
+        },
+        {
+          "drill_name": "Slalom",
+          "category": "Movimento chiave: «propulsione»",
+          "water_depth": "Acqua all’altezza del petto",
+          "description": "Spinta dalla parete, avanzare liberamente sott’acqua per 5 m, passando attraverso i cerchi, con propulsione delle gambe alternate e movimenti delle braccia a rana.",
+          "videoAsset": "assets/swim5.2.mp4"
+        },
+        {
+          "drill_name": "Rotolare i tronchi",
+          "category": "Movimento chiave: «propulsione con le gambe»",
+          "water_depth": "Acqua profonda",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "Spinta dal bordo con battuta alternata delle gambe: 15 m tronchi che rotolano con due rotazioni laterali dalla posizione ventrale alla dorsale e viceversa. Per tutto l’esercizio le braccia rimangono distese in alto dietro la testa. Espirare dal naso!",
+          "videoAsset": "assets/swim5.3.mp4"
+        },
+        {
+          "drill_name": "Crawl a vite",
+          "category": "Movimenti chiave: «propulsione con gambe e braccia»",
+          "water_depth": "Acqua profonda",
+          "description": "Nuotare 25 m : 5–8 m in posizione ventrale con battuta delle gambe e trazione delle braccia alternate (fase di trazione sott’acqua e recupero aereo) respirando sul fianco: poi direttamente 5–8 m in posizione dorsale con recupero aereo con le braccia tese; trazione delle braccia regolare.",
+          "videoAsset": "assets/swim5.4.mp4"
+        },
+        {
+          "drill_name": "Tuffo a testa",
+          "category": "Movimento chiave: «propulsione»",
+          "water_depth": "Profondità dell’acqua adatta all’altezza del bambino (1,5 m min.)",
+          "description": "Immersioni a testa in giù; dal bordo, accovacciati o in piedi scivolare verso il fondo della vasca.",
+          "videoAsset": "assets/swim5.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Croccodillo",
+      "age_group": "6-7 anni",
+      "level_description": "Il livello 'Croccodillo' per bambini dai 6 ai 7 anni serve come avanzamento dopo 'Polipo'. Qui imparano esercizi come 'Crawl completo', 'Tergicristallo', 'Crawl-Rana-Mix', 'Pedalare', e 'Piedi a papera'.",
+      "icon": "assets/icons/g6.jpg",
+      "drills": [
+        {
+          "drill_name": "Crawl completo",
+          "category": "Movimenti chiave: «propulsione con le gambe e le braccia; coordinare il respiro»",
+          "water_depth": "Acqua profonda",
+          "description": "Nuotare 15 m a crawl in posizione ventrale con battuta alternata delle gambe e trazione alternata sott’acqua delle braccia, respirando correttamente sul fianco. Recupero in aria delle braccia.",
+          "videoAsset": "assets/swim6.1.mp4"
+        },
+        {
+          "drill_name": "Tergicristallo",
+          "category": "Movimento chiave: «propulsione con le braccia»",
+          "water_depth": "Acqua all’altezza del petto",
+          "description": "Dopo la spinta dal bordo: 5–8 m con la sola propulsione delle mani. I gomiti sono rivolti all’esterno, spinta obliqua con movimenti verso dentro / fuori di avambracci e mani al di sotto del tronco, il viso è tenuto in acqua, con una posizione corretta della testa (non usare le braccia come nella rana o le gambe).",
+          "videoAsset": "assets/swim6.2.mp4"
+        },
+        {
+          "drill_name": "Crawl-Rana-Mix",
+          "category": "Movimenti chiave: «propulsione con le gambe e le braccia; respirare»",
+          "water_depth": "Acqua profonda",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "Effettuare 20–30 m in posizione ventrale con battuta di gambe altrenata e movimenti delle braccia a rana. La respirazione davanti e ad ogni trazione delle braccia.",
+          "videoAsset": "assets/swim6.3.mp4"
+        },
+        {
+          "drill_name": "Pedalare",
+          "category": "Movimento chiave: «propulsione delle gambe»",
+          "water_depth": "Acqua profonda",
+          "description": "Col corpo sommerso in verticale, in acqua profonda, mantenersi in superficie per 30 secondi: eseguire i movimenti delle gambe con i piedi in flessione dorsale e rivolti verso l‘esterno. Le braccia possono fare piccoli movimenti di supporto, ad esempio pagaiare.",
+          "videoAsset": "assets/swim6.4.mp4"
+        },
+        {
+          "drill_name": "Piedi a papera",
+          "category": "Movimento chiave: «propulsione con le gambe»",
+          "water_depth": "Acqua profonda",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "Effettuare 10–15 m con movimento simultaneo delle gambe (propulsione/spinta delle gambe, piedi girati all’esterno), sul ventre o sul dorso, la posizione delle braccia resta libera.",
+          "videoAsset": "assets/swim6.5.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Orso Polare",
+      "age_group": "6-8 anni",
+      "level_description": "Il livello 'Orso Polare' per bambini dai 6 agli 8 anni serve come avanzamento dopo 'Coccodrillo'. Qui imparano esercizi come 'Virata sott’acqua', 'Delfino', 'Rana', e 'Controllo della sicurezza acquatica CSA'.",
+      "icon": "assets/icons/g7.jpg",
+      "drills": [
+        {
+          "drill_name": "Virata sott’acqua",
+          "category": "Elementi chiave: «propulsione e scivolamento»",
+          "water_depth": "Acqua all’altezza delle spalle",
+          "description": "Prima, immergersi e nuotare in direzione del muro da una distanza di almeno 5 m, virare sott’acqua e raccogliere un oggetto dal fondo posto a 2 m dal muro.",
+          "videoAsset": "assets/swim7.1.mp4"
+        },
+        {
+          "drill_name": "Delfino",
+          "category": "Movimento chiave: «movimento completo del corpo»",
+          "water_depth": "Acqua all’altezza delle spalle",
+          "description": "Spingendosi dal muro, effettuare almeno 4–6 m di movimento a delfino con un imprinting visibile dalla testa/spalle (senza salti e battuta di gambe a delfino, le gambe restano rilassate).",
+          "videoAsset": "assets/swim7.2.mp4"
+        },
+        {
+          "drill_name": "Rana",
+          "category": "Movimenti chiave: «propulsione delle gambe e delle braccia; respirare»",
+          "water_depth": "Acqua profonda",
+          "description": "Nuotare a rana per 16–25 m. Movimento di propulsione/spinta con i piedi girati all’esterno e movimento delle braccia a rana, con i gomiti piegati nella fase di trazione. Coordinazione corretta fra braccia e respirazione. Espirazione visibile sott’ acqua.",
+          "videoAsset": "assets/swim7.3.mp4"
+        },
+        {
+          "drill_name": "Controllo della sicurezza acquatica CSA",
+          "category": "Competenze acquatiche e di sicurezza",
+          "water_depth": "Acqua profonda",
+          "compulsory": "Gli esercizi chiave con * devono essere imperativamente acquisiti ed eseguiti in maniera corretta per poter passare al prossimo livello.",
+          "description": "I tre esercizi devono essere effettuati di seguito, senza pause: Eseguire una capriola o salto mortale in acqua profonda (la testa deve immergersi completamente sott‘acqua); Mantenersi fermi sulla superficie per 1 minuto, sia rimandendo distesi sulla schiena oppure pedalando in verticale o facendo movimenti alternati delle gambe. Eseguire inoltre una vite in superficie attorno al proprio asse longitudinale quale esercizio di orientamento nello spazio; Nuotare 50 m. L’attestato CSA può essere rilasciato al di fuori del singolo test.",
+          "videoAsset": "assets/swim7.4.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Balena",
+      "icon": "assets/icons/s1.jpg",
+      "level_description": "Nel livello 'Balena', i nuotatori perfezionano le loro tecniche con esercizi specializzati. Questi includono 'Crawl con movimento delle anche' per la coordinazione tra braccia e anche, 'Superman sul dorso' e 'Superman - crawl' per la coordinazione tra braccia e gambe, 'Nuotare a rana in posizione dorsale' per movimenti efficienti, '50 m nuoto alternato', 'Partenza a crawl' con focus sulla fase di scivolamento e 'Virata aperta a crawl' per migliorare la virata.",
+      "drills": [
+        {
+          "drill_name": "Crawl con movimento delle anche",
+          "category": "Delfino",
+          "description": "Bracciata crawl. Nel momento dell‘immersione della mano le anche si sollevano. Coordinazione precisa delle braccia e del corpo. Movimento continuo. Le gambe restano passive.",
+          "distance": "16–25 m",
+          "focus": "Coordinazione delle braccia e sollevamento delle anche",
+          "videoAsset": "assets/swim_tech1.1.mp4"
+        },
+        {
+          "drill_name": "Superman sul dorso",
+          "category": "Dorso",
+          "description": "In posizione dorsale, battuta regolare delle gambe partendo dalle anche, con i piedi distesi intraruotati. Un braccio allungato dietro l’orecchio, l’altro lungo il corpo. Cambiamento simultaneo della posizione delle braccia dopo 6 – 8 battute di gambe. In posizione di riposo un braccio rimane sulla testa l’altro disteso sul fianco (mulino).",
+          "distance": "16–25 m",
+          "focus": "Dopo 6 – 8 battute regolari, un braccio è allungato dietro l‘orecchio, l‘altro resta disteso sul fianco",
+          "videoAsset": "assets/swim_tech1.2.mp4"
+        },
+        {
+          "drill_name": "Nuotare a rana in posizione dorsale",
+          "category": "Rana",
+          "description": "In posizione dorsale, movimento delle gambe a rana con scivolamento visibile. Portare lentamente i talloni ai glutei per raggiungere la posizione a W con le gambe. Movimento dinamico di spinta delle gambe fino alla completa distensione e chiusura dei piedi in fase di scivolamento. Le braccia distese lungo il corpo.",
+          "distance": "Max. 10 movimenti di gambe per 15 m",
+          "focus": "Movimento efficace delle gambe",
+          "videoAsset": "assets/swim_tech1.3.mp4"
+        },
+        {
+          "drill_name": "Superman – crawl",
+          "category": "Crawl",
+          "description": "In posizione prona, postura corretta della testa, battuta di gambe alternate e regolari, partendo dalle anche, piedi distesi intraruotati. Un braccio allungato dietro l’orecchio, l’altro lungo il corpo. Ogni 6 – 8 battute delle gambe, inspirare prima del completo recupero del braccio con una rotazione di circa 45° sull’asse del corpo. Espirazione continua durante le 6 – 8 battute di gambe.",
+          "distance": "16–25 m",
+          "focus": "Battuta regolare",
+          "videoAsset": "assets/swim_tech1.4.mp4"
+        },
+        {
+          "drill_name": "50 m nuoto alternato",
+          "category": "Distanza",
+          "description": "25 m crawl sul dorso seguito direttamente da 25 m crawl con respirazione a 3 tempi. Movimento continuo delle braccia, senza pausa.",
+          "distance": "50 m",
+          "focus": "Movimento continuo delle braccia, senza pausa.",
+          "videoAsset": "assets/swim_tech1.5.mp4"
+        },
+        {
+          "drill_name": "Partenza a crawl",
+          "category": "Partenza",
+          "description": "Immersione dinamica dal blocchetto di partenza o dal bordo della piscina. Una mano sull’altra. Le mani e la testa entrano in acqua per prime. Il corpo teso in fase di scivolamento. Dopo la fase di scivolamento eseguire 2 – 3 bracciate a crawl prima di inspirare.",
+          "focus": "Fase di scivolamento in posizione allungata",
+          "videoAsset": "assets/swim_tech1.6.mp4"
+        },
+        {
+          "drill_name": "Virata aperta a crawl",
+          "category": "Virata",
+          "description": "Nuotare 5 m a crawl. Una mano tocca il muro. Ruotare il corpo sul fianco, piegare le gambe sul tronco, appoggiare i piedi al muro. L’altra mano e lo sguardo sono diretti nella direzione di nuoto. La mano che ha toccato il muro viene guidata in avanti sulla superficie dell‘acqua. Spinta sott’acqua in posizione ventrale. Fase di scivolamento visibile, eseguire poi 2 – 3 bracciate prima della 1a inspirazione.",
+          "videoAsset": "assets/swim_tech1.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Luccio",
+      "icon": "assets/icons/s2.jpg",
+      "level_description": "Nel livello 'Luccio', i nuotatori lavorano sulla perfezione dei loro movimenti attraverso esercizi specifici, tra cui 'Nuoto a delfino con ondulazione di piccola ampiezza', 'Crawl con un solo braccio e rotazione attiva', 'Movimento efficace delle braccia a rana', 'Crawl con un braccio', '75 m nuoto', 'Partenza rana', e 'Virata a rana'.",
+      "drills": [
+        {
+          "drill_name": "Nuoto a delfino con ondulazione di piccola ampiezza",
+          "category": "Delfino",
+          "description": "Nuoto a delfino con ondulazione di piccola ampiezza, con immersione della testa e simultaneamente le anche fuori dall’acqua. Attivazione del movimento dal petto. Allo stesso tempo segue la battuta simmetrica delle gambe partendo dalle anche, piedi distesi intraruotati. Sollevare la testa e spingere il mento in avanti, simultaneamente abbassare le anche per allungare il corpo. In seguito effettuare una battuta di gambe al ritmo di 2. Le braccia restano passive lungo il corpo.",
+          "distance": "16–25 m",
+          "focus": "Ritmo a 2 tempi",
+          "videoAsset": "assets/swim_tech2.1.mp4"
+        },
+        {
+          "drill_name": "Crawl con un solo braccio e rotazione attiva",
+          "category": "Dorso",
+          "description": "Crawl con un braccio solo e rotazione attiva visibile. Posizione dorsale, battuta delle gambe regolari partendo dalle anche, piedi distesi intraruotati. La mano viene immersa nell’acqua all’altezza dell’orecchio, braccio allungato, la spalla opposta emerge dall’acqua. Movimento continuo del braccio attivo senza pausa. Il braccio passivo resta disteso lungo il corpo. A metà percorso cambio del braccio.",
+          "distance": "16–25 m",
+          "focus": "Rotazione attiva",
+          "videoAsset": "assets/swim_tech2.2.mp4"
+        },
+        {
+          "drill_name": "Movimento efficace delle braccia a rana",
+          "category": "Rana",
+          "description": "Movimento delle braccia con respirazione e leggera battuta alternata delle gambe. 1 Fase di trazione: movimento dell’avambraccio verso l’esterno fino al raddoppio della lunghezza delle spalle. 2 Fase di spinta delle braccia: movimento rapido degli avambracci verso l’interno, posizione dei gomiti in avanti. 3 L’Inspirazione deve essere terminata quando le braccia sono proiettate in avanti con la testa piegata verso il basso 4 Rientro delle braccia unite 5 Fase di scivolamento visibile delle braccia Dorso della mano nella direzione di nuoto.",
+          "distance": "16–25 m",
+          "focus": "Dorso della mano nella direzione di nuoto durante il movimento di spinta",
+          "videoAsset": "assets/swim_tech1.3.mp4"
+        },
+        {
+          "drill_name": "Crawl con un braccio",
+          "category": "Crawl",
+          "description": "Crawl con un braccio solo e rotazione attiva visibile. Braccio passivo teso in avanti. Cambio delle braccia dopo 3 movimenti. Inspirare laterale dopo il 3° movimento. Fase di rientro con il braccio, mano flessa accanto al corpo. Immersione della mano all’altezza della spalla con estensione del braccio.",
+          "distance": "32–50 m",
+          "focus": "Fase di immersione, trazione e spinta ben visibili.",
+          "videoAsset": "assets/swim_tech2.4.mp4"
+        },
+        {
+          "drill_name": "75 m nuoto",
+          "category": "Distanza",
+          "description": "25 m crawl dorso 25 m braccia 25 m crawl Movimento continuo senza pausa con respirazione appropriata. Nessun limite di tempo.",
+          "distance": "75 m",
+          "focus": "Movimento continuo senza pausa con respirazione appropriata",
+          "videoAsset": "assets/swim_tech2.5.mp4"
+        },
+        {
+          "drill_name": "Partenza rana",
+          "category": "Partenza",
+          "description": "Partenza dinamica dal blocco di partenza o da bordo vasca. Le mani e la testa entrano per primi in acqua. In fase di scivolamento la posizione del corpo è ben tesa, dopo lo scivolamento segue un’immersione. Le braccia vengono spostate all’indietro fino alle cosce. La testa deve emergere dopo il secondo ciclo di bracciate prima che le braccia vengano portate in avanti. Una battuta di gambe a delfino è consentita durante o alla fine della trazione delle braccia sott’acqua. Dopo la fase subacquea eseguire 2 – 3 cicli completi.",
+          "focus": "Immersione dinamica",
+          "videoAsset": "assets/swim_tech2.6.mp4"
+        },
+        {
+          "drill_name": "Virata a rana",
+          "category": "Virata",
+          "description": "Virata delle braccia (vedi test 1, es. 7). Le mani devono toccare il muro simultaneamente senza sovrapposizione. Portare le ginocchia al petto, ruotare il corpo dinamicamente e spingersi dal muro in fase di scivolamento visibile seguita da trazione. La testa deve emergere durante il secondo ciclo delle braccia prima del ritorno delle braccia. Eseguire 2 – 3 cicli completi dopo la fase subacquea.",
+          "focus": "Portare le ginocchia al petto, ruotare il corpo dinamicamente e spingersi dal muro in fase di scivolamento visibile",
+          "videoAsset": "assets/swim_tech2.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Squalo",
+      "icon": "assets/icons/s3.jpg",
+      "level_description": "Nel livello 'Squalo', i nuotatori affinano ulteriormente le loro tecniche attraverso esercizi specifici, come 'Ondulazioni a delfino con movimenti delle braccia', 'Dorso con un braccio solo', 'Coordinazione rana braccia – gambe – gambe', 'Tergicristallo/crawl', '100 m nei 4 stili, esercizi tecnici', 'Gambe in posizione delfino, posizione dorsale', e 'Capriola all’indietro'.",
+      "drills": [
+        {
+          "drill_name": "Ondulazioni a delfino con movimenti delle braccia",
+          "category": "Delfino",
+          "description": "4 ondulazioni a delfino di piccola ampiezza (vedi test 2, es. 1) con un movimento delle braccia. Le braccia sono in avanti. Dopo la 4a ondulazione a delfino le braccia seguono simmetricamente il movimento del corpo fino alle cosce. Ritorno delle braccia flesse e allungamento sopra la superficie dell’acqua. Coordinazione ritmata dei movimenti.",
+          "distance": "16–25 m",
+          "focus": "Braccia tese sull‘acqua",
+          "videoAsset": "assets/swim_tech3.1.mp4"
+        },
+        {
+          "drill_name": "Dorso con un braccio solo",
+          "category": "Dorso",
+          "description": "Dorso con un braccio solo con fase di trazione e spinta visibile, gomiti in avanti. Rotazione visibile attorno all’asse longitudiale. Movimenti continui. 3 volte ogni braccio, poi cambio del braccio senza pausa. Braccio inattivo lungo il corpo.",
+          "distance": "32–50 m",
+          "focus": "Trazione e spinta, gomiti in avanti",
+          "videoAsset": "assets/swim_tech3.2.mp4"
+        },
+        {
+          "drill_name": "Coordinazione rana braccia – gambe – gambe",
+          "category": "Rana",
+          "description": "Rana con un movimento di braccia seguito da 2 battute di gambe. Movimento delle braccia con fase di trazione e spinta accentuata. Le braccia restano allungate (fase di spinta) durante il 2° movimento delle gambe. Movimento delle gambe efficace e dinamico. Il movimento delle gambe è terminato quando i due piedi si toccano.",
+          "distance": "16–25 m",
+          "focus": "Fase di scivolamento delle braccia",
+          "videoAsset": "assets/swim_tech3.3.mp4"
+        },
+        {
+          "drill_name": "Tergicristallo/crawl",
+          "category": "Crawl",
+          "description": "Posizione ventrale, corpo piatto, viso nell’acqua. Per il tergicristallo (vedi test di base 6, es.2), effettuare un movimento dentro-fuori degli avambracci e delle mani sotto il corpo. Posizione dei gomiti in avanti visibile. Dopo 2 – 3 movimenti di tergicristallo, un braccio si estende in avanti mentre l’altro si estende lungo il corpo. Respirare sul fianco. Ripetere i movimenti di tergicristallo. Respirazione 1 volta a sinistra, 1 a destra, 1 a sinistra. Movimenti continui. Gambe passive.",
+          "distance": "16–25 m",
+          "focus": "Movimenti regolari con supporto delle braccia",
+          "videoAsset": "assets/swim_tech3.4.mp4"
+        },
+        {
+          "drill_name": "100 m nei 4 stili, esercizi tecnici",
+          "category": "Distanza",
+          "description": "25 m ondulazioni a delfino insiprando dal avanti ogni 2 battute. Le braccia restano passive lungo il corpo (vedi test 2, es. 1). 25 m dorso con un braccio solo e con rotazione visibile (vedi test 2, es. 2). 25 m coordinamento rana: 1 movimento di braccia seguito da 2 battute di gambe (test 2, es.3). 25 m crawl-tergicristallo (test 1, es. 4). Continuità dei movimenti ritmati. Cambio dello stile natatorio senza pausa e senza perdita di qualità tecnica. Nessun limite di tempo.",
+          "distance": "100 m",
+          "focus": "Cambio dello stile natatorio senza pausa e senza perdita di qualità tecnica",
+          "videoAsset": "assets/swim_tech3.5.mp4"
+        },
+        {
+          "drill_name": "Gambe in posizione delfino, posizione dorsale",
+          "category": "Partenza",
+          "description": "Spinta dal muro in posizione freccia dorsale. Scivolare in acqua e raggiungere una profondità di circa 80 cm con dei piccoli movimenti rapidi delle gambe in delfino. Espirazione nasale visibile sott’acqua.",
+          "focus": "Scivolamento in posizione freccia dorsale",
+          "videoAsset": "assets/swim_tech3.6.mp4"
+        },
+        {
+          "drill_name": "Capriola all’indietro",
+          "category": "Virata",
+          "description": "Nuotare sul dorso. Prima del muro, girarsi in posizione ventrale ed effettuare una capriola rapida (rotazione intorno all’asse trasversale). La rotazione inizia dalla testa e dalle spalle. Espirazione nasale visibile sott’acqua. Nessuna inspirazione in posizione ventrale prima della capriola. Spingersi dal muro in posizione freccia dorsale con espirazione nasale. 3 – 4 piccoli movimenti rapidi delle gambe in delfino sott’acqua prima della ripresa del nuoto.",
+          "focus": "Capriola rapida",
+          "videoAsset": "assets/swim_tech3.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Delfino",
+      "icon": "assets/icons/s4.jpg",
+      "level_description": "Nel livello 'Delfino', i nuotatori si concentrano sul perfezionamento delle tecniche di nuoto e delle capriole attraverso esercizi specifici come 'Variazione delfino', 'Dorso: coordinazione', 'Coordinazione braccia – braccia – gambe', 'Crawl a vite', '100 m nei 4 stili', 'Partenza a dorso' e 'Capriola a crawl'.",
+      "drills": [
+        {
+          "drill_name": "Variazione delfino",
+          "category": "Delfino",
+          "description": "3 cicli completi in fase delfino con ritorno delle braccia in aria. Movimento simmetrico delle braccia, spinta fino alle cosce senza pausa. Ritorno delle braccia in avanti. Eseguire 6 – 8 ondulazioni in delfino di piccola grandezza con le braccia a freccia.",
+          "distance": "16–25 m",
+          "focus": "Braccia allungate durante la fase aerea",
+          "videoAsset": "assets/swim_tech4.1.mp4"
+        },
+        {
+          "drill_name": "Dorso: coordinazione",
+          "category": "Dorso",
+          "description": "Dorso a un braccio. Trazione e spinta del braccio e rotazione del corpo visibile. Il braccio inattivo lungo il corpo, viene spinto fuori dall’acqua fino alla verticale quando il braccio di trazione è in fase di presa d’acqua e poi riportarlo nuovamente lungo il corpo. Coordinazione precisa delle braccia. Cambio delle braccia dopo 25 m.",
+          "distance": "50 m",
+          "focus": "Coordinazione precisa delle braccia",
+          "videoAsset": "assets/swim_tech4.2.mp4"
+        },
+        {
+          "drill_name": "Coordinazione braccia – braccia – gambe",
+          "category": "Rana",
+          "description": "Rana: 2 movimenti delle braccia per 1 movimento delle gambe. Dorso della mano verso la direzione di nuoto durante tutta la fase di propulsione. Posizione visibile dei gomiti in avanti. Inspirazione ogni ciclo di braccia. Gambe passive durante il 1° movimento delle braccia (fase di scivolamento delle gambe).",
+          "distance": "50 m",
+          "focus": "Fase di scivolamento delle gambe",
+          "videoAsset": "assets/swim_tech4.3.mp4"
+        },
+        {
+          "drill_name": "Crawl a vite",
+          "category": "Crawl",
+          "description": "3 movimenti delle braccia a crawl, girarsi sul dorso sul braccio allungato. 3 movimenti sul dorso, ecc. Posizione del gomito in avanti in fase di trazione e spinta, in posizione ventrale e dorsale. Cambiamento regolare e preciso dalla posizione ventrale alla posizione dorsale e ritorno. Rotazione intorno all’asse longitudinale, corpo teso.",
+          "distance": "50 m",
+          "focus": "Posizione del gomito in avanti durante le fasi di trazione e di spinta ventrale e dorsale",
+          "videoAsset": "assets/swim_tech4.4.mp4"
+        },
+        {
+          "drill_name": "100 m nei 4 stili",
+          "category": "Distanza",
+          "description": "25 m delfino 25 m dorso 25 m rana 25 m crawl. Ordine e stile di nuoto compresa la partenza e le virate, secondo regolamento FINA In vigore. Nessun tempo limite.",
+          "distance": "100 m",
+          "focus": "Ordine e stile di nuoto compresa la partenza e le virate, secondo regolamento FINA in vigore",
+          "videoAsset": "assets/swim_tech4.5.mp4"
+        },
+        {
+          "drill_name": "Partenza a dorso",
+          "category": "Partenza",
+          "description": "Partenza a dorso. Durante la fase di partenza, le braccia sono proiettate all’indietro, la testa si sposta all’indietro, il corpo in estensione. Il busto è sopra l’acqua. Immersione in un buco praticato dalle mani. Seguito da ondulazioni subacquee rapide a delfino in posizione ottimale di freccia idrodinamica.",
+          "distance": "8 m",
+          "focus": "Durante la fase di partenza il tronco è fuori dall’acqua",
+          "videoAsset": "assets/swim_tech4.6.mp4"
+        },
+        {
+          "drill_name": "Capriola a crawl",
+          "category": "Capriola",
+          "description": "Avvicinamento di 5 m alla parete a crawl. Nessuna inspirazione poco prima della capriola. Dopo la capriola respingere il muro in posizione laterale e tornare subito in posizione dorsale per terminale la fase di scivolamento. In seguito 3 – 4 battute di gambe in delfino, veloci e di piccola ampiezza sott’acqua. Dal passaggio subacqueo al nuoto, effettuare 2 – 3 movimenti delle braccia prima della prima inspirazione.",
+          "distance": "N/A",
+          "focus": "Nessuna inspirazione poco prima e dopo la virata",
+          "videoAsset": "assets/swim_tech4.7.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Obiettivo dorso",
+      "icon": "assets/icons/s5.jpg",
+      "level_description": "Nel livello 'Obiettivo dorso', i nuotatori si concentrano su esercizi come 'Pagaiare in posizione dorsale', 'Nuoto in apnea', 'Dorso', 'Battuta a dorso', '100 m nei 4 stili' e 'Partenza stile libero'.",
+      "drills": [
+        {
+          "drill_name": "Pagaiare in posizione dorsale",
+          "category": "Sensazioni acquatiche",
+          "description": "Pagaiare 25 m in posizione dorsale: 12 m per la testa e 12 m per i piedi. Movimenti precisi delle mani e degli avambracci fuori-dentro. I gomiti rimangono passivi, il dorso della mano sempre nella direzione di nuoto. Cambio di direzione a metà del percorso piegando e portando le gambe verso il tronco effettuando una mezza rotazione.",
+          "distance": "25 m",
+          "focus": "Dorso delle mani sempre verso la direzione di nuoto",
+          "videoAsset": "assets/swim_tech5.1.mp4"
+        },
+        {
+          "drill_name": "Nuoto in apnea",
+          "category": "Fase subacquea",
+          "description": "Nuoto in apnea per 15 secondi. Movimenti lenti e controllati sulla lunga distanza. Profondità d’immersione 80 – 100 cm. Movimenti liberi sott’acqua.",
+          "distance": "N/A",
+          "focus": "Movimenti lenti con poco dispendio di energia",
+          "videoAsset": "assets/swim_tech5.2.mp4"
+        },
+        {
+          "drill_name": "Dorso",
+          "category": "Resistenza – Respirazione",
+          "description": "Nuotare tutto a dorso con respirazione normale. Movimenti continui e virate con capriole correte.",
+          "distance": "200 m",
+          "focus": "Movimenti continui con respirazione regolare",
+          "videoAsset": "assets/swim_tech5.3.mp4"
+        },
+        {
+          "drill_name": "Battuta a dorso",
+          "category": "Resistenza – Gambe",
+          "description": "Battuta di gambe con freccia dorsale.",
+          "distance": "50 m",
+          "focus": "Battuta di gambe regolare in freccia dorsale",
+          "videoAsset": "assets/swim_tech5.4.mp4"
+        },
+        {
+          "drill_name": "100 m nei 4 stili",
+          "category": "Coordinazione",
+          "description": "100 m 4 stili: 25 m delfino, 25 dorso, 25 m a rana, 25 m crawl.",
+          "distance": "100 m",
+          "focus": "Esecuzione precise dei movimenti (capacità di coordinazione)",
+          "videoAsset": "assets/swim_tech5.5.mp4"
+        },
+        {
+          "drill_name": "Partenza stile libero",
+          "category": "Velocità",
+          "description": "Al segnale di partenza tuffarsi dal blocco con uno sprint per 12 m. Fase di scivolamento 4 – 5 battute rapide di gambe in delfino subacqueo. Tra il passaggio in apnea e il nuoto, effettuare 2 – 3 bracciate prima della prima inspirazione.",
+          "distance": "12 m",
+          "focus": "Partenza e sprint dinamici",
+          "videoAsset": "assets/swim_tech5.6.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Obiettivo crawl",
+      "icon": "assets/icons/s6.jpg",
+      "level_description": "Nel livello 'Obiettivo crawl', i nuotatori si concentrano su esercizi come 'Pagaiare in posizione ventrale', 'Trazione a rana', 'Crawl, respirazione a 3 tempi', 'Battuta di gambe a crawl', '100 m nei 4 stili' e 'Capriola, crawl sul dorso'.",
+      "drills": [
+        {
+          "drill_name": "Pagaiare in posizione ventrale",
+          "category": "Sensazioni acquatiche",
+          "description": "25 m pagaiare sul dorso. In posizione ventrale, le gambe passive, i polsi e le mani disegnano un otto sotto il corpo vicino ai fianchi. Posizione dei gomiti in avanti, le mani in estensione degli avambracci. Le braccia sono piegate e un poco discoste dal corpo. Solo gli avambracci si muovono. Respirazione laterale o davanti.",
+          "distance": "25 m",
+          "focus": "Posizione dei gomiti in avanti",
+          "videoAsset": "assets/swim_tech6.1.mp4"
+        },
+        {
+          "drill_name": "Trazione a rana",
+          "category": "Fase subacquea",
+          "description": "Tuffarsi dal blocco di partenza seguito da varie trazioni delle braccia sott’acqua. Dopo la prima bracciata con ondulazioni a delfino, portare le braccia in avanti sotto al corpo, seguito da una battuta di gambe a rana.",
+          "distance": "16 m",
+          "focus": "Coordinazione corretta tra la trazione delle braccia e le battute a delfino",
+          "videoAsset": "assets/swim_tech6.2.mp4"
+        },
+        {
+          "drill_name": "Crawl, respirazione a 3 tempi",
+          "category": "Resistenza – Respirazione",
+          "description": "Nuoto a crawl completo con respirazione a 3 tempi. Movimenti continui e capriole correte.",
+          "distance": "100 m",
+          "focus": "Movimenti continui con respirazione a 3 tempi",
+          "videoAsset": "assets/swim_tech6.3.mp4"
+        },
+        {
+          "drill_name": "Battuta di gambe a crawl",
+          "category": "Resistenza – Gambe",
+          "description": "Battuta di gambe a crawl in posizione ventrale. Braccia allungate in avanti con una tavoletta. Volto immerso.",
+          "distance": "50 m",
+          "focus": "Battute di gambe efficaci e regolari",
+          "videoAsset": "assets/swim_tech6.4.mp4"
+        },
+        {
+          "drill_name": "100 m nei 4 stili",
+          "category": "4 stili",
+          "description": "100 m, 4 stili completi. Metodo e stile di nuoto, compresa la partenza e la virata, secondo le regole FINA in vigore.",
+          "distance": "100 m",
+          "focus": "Metodo e stile di nuoto, compresa la partenza e la virata, secondo le regole FINA in vigore",
+          "videoAsset": "assets/swim_tech6.5.mp4"
+        },
+        {
+          "drill_name": "Capriola, crawl sul dorso",
+          "category": "Velocità",
+          "description": "In posizione freccia ventrale le mani toccano il muro con battute di piedi a crawl. Al segnale di partenza, fare una rapida capriola con una forte spinta dalla parete, riprendere a nuotare in posizione dorsale con battute a delfino poi scatto dorsale per 10 m.",
+          "distance": "N/A",
+          "focus": "Capriola rapida",
+          "videoAsset": "assets/swim_tech6.6.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Obiettivo rana",
+      "icon": "assets/icons/s7.jpg",
+      "level_description": "Nel livello 'Obiettivo rana', i nuotatori si concentrano su esercizi come 'Remare in posizione ventrale', 'Battuta di gambe a delfino', 'Rana, respirazione', 'Gambe a rana', '200 m nei 4 stili' e 'Rana'.",
+      "drills": [
+        {
+          "drill_name": "Remare in posizione ventrale",
+          "category": "Percezioni acquatiche",
+          "description": "Remare davanti alla testa in posizione ventrale. Con le braccia davanti, quasi tese, disegnare orizzontalmente un otto con le mani. Il dorso della mano verso la direzione di nuoto, le dita verso il fondo della piscina. L’angolo tra la superficie dell’acqua e dell’avambraccio è di circa 30°. Un leggero abbassamento delle gambe può essere tollerato. Respirazione dal davanti.",
+          "distance": "15 m",
+          "focus": "Movimenti precisi delle mani e degli avambracci interni-esterni",
+          "videoAsset": "assets/swim_tech7.1.mp4"
+        },
+        {
+          "drill_name": "Battuta di gambe a delfino",
+          "category": "Fase subacquea",
+          "description": "Battuta di gambe a delfino sott’acqua in posizione ventrale. Dopo la spinta dal muro, battute rapide e di piccola ampiezza sott’acqua. Esercizio da eseguire in 80 – 100 cm sotto la superficie dell’acqua.",
+          "distance": "15 m",
+          "focus": "Spinta efficace con battute rapide e di piccola ampiezza sott’acqua",
+          "videoAsset": "assets/swim_tech7.2.mp4"
+        },
+        {
+          "drill_name": "Rana, respirazione",
+          "category": "Resistenza – Respirazione",
+          "description": "Rana: 2 cicli completi (braccia e gambe) senza respirare, 2 cicli con respirazione normale.",
+          "distance": "100 m",
+          "focus": "Controllo della respirazione",
+          "videoAsset": "assets/swim_tech7.3.mp4"
+        },
+        {
+          "drill_name": "Gambe a rana",
+          "category": "Resistenza – Gambe",
+          "description": "50 m battute di gambe a rana efficaci e dinamiche, braccia tese in avanti. Terminare il movimento fino a quando le gambe saranno tese e i piedi si toccano. Respirazione dal davanti poco prima del movimento delle gambe. Senza tavoletta.",
+          "distance": "50 m",
+          "focus": "Movimenti efficaci e dinamici",
+          "videoAsset": "assets/swim_tech7.4.mp4"
+        },
+        {
+          "drill_name": "200 m nei 4 stili",
+          "category": "4 stili",
+          "description": "200 m, 4 stili coordinazione: 50 m delfino: il ritorno delle braccia avviene sott’acqua. La respirazione è effettuata alla fine della spinta. Nessuna pausa delle braccia quando sono davanti. 50 m dorso a 1 braccio con rotazione ben visibile. Cambio delle braccia dopo 25 m. Braccio passivo lungo il corpo. 50 m rana: 1 volta braccio destro e gamba sinistra – 1 volta braccio sinistro e gamba destra – 1 volta ciclo completo. 50 m crawl con gancio lungo il corpo. L’inspirazione avviene quando la mano esce dall’acqua. Respirazione a 3 tempi.",
+          "distance": "200 m",
+          "focus": "Coordinazione precisa",
+          "videoAsset": "assets/swim_tech7.5.mp4"
+        },
+        {
+          "drill_name": "Rana",
+          "category": "Velocità",
+          "description": "50 m rana completi, compresa la partenza, la virata e la trazione conformi al regolamento.",
+          "distance": "50 m",
+          "focus": "Sincronizzazione precisa",
+          "videoAsset": "assets/swim_tech7.6.mp4"
+        }
+      ]
+    },
+    {
+      "level": "Obiettivo delfino",
+      "icon": "assets/icons/s8.jpg",
+      "level_description": "Nel livello 'Obiettivo delfino', i nuotatori si concentrano su esercizi come 'Remare ruotando', 'Gambe a delfino in apnea', 'Crawl, Respirazione piramidale', 'Gambe in 4 stili', '200 m nei 4 stili' e 'Delfino'.",
+      "drills": [
+        {
+          "drill_name": "Remare ruotando, con i piedi sul dorso",
+          "category": "Percezione subacquea",
+          "description": "In posizione dorsale, il corpo è teso, le orecchie nell’acqua. Remare con i piedi, le braccia tese dietro la testa (le braccia più in profondità della testa); i polsi piegati verso l’alto, il dorso delle mani verso la direzione della testa.",
+          "distance": "15 m",
+          "focus": "Movimenti precisi delle mani e degli avambracci interni – esterni",
+          "videoAsset": "assets/swim_tech8.1.mp4"
+        },
+        {
+          "drill_name": "Gambe a delfino in apnea, posizione dorsale",
+          "category": "Fase subacquea",
+          "description": "Battuta di gambe a delfino in apnea in posizione dorsale dopo la spinta dal muro. Esercizio da eseguire in 80 – 100 cm sotto la superficie dell’acqua.",
+          "distance": "12 m",
+          "focus": "Espirazione nasale",
+          "videoAsset": "assets/swim_tech8.2.mp4"
+        },
+        {
+          "drill_name": "Crawl, Respirazione piramidale",
+          "category": "Resistenza – Respirazione",
+          "description": "200 m crawl. Respirazione piramidale, ad ogni passaggio di 25 m. Respirazione ogni 1/3/5/7/7/5/3/1 tempo.",
+          "distance": "200 m",
+          "focus": "Nuotare con flessibilità",
+          "videoAsset": "assets/swim_tech8.3.mp4"
+        },
+        {
+          "drill_name": "Gambe in 4 stili",
+          "category": "Resistenza – Gambe",
+          "description": "100 m, 4 stili movimenti delle gambe, braccia allungate in avanti: 25 m delfino 25 m dorso 25 m rana 25 m crawl. Senza tavoletta.",
+          "distance": "100 m",
+          "focus": "Spinta efficace delle gambe",
+          "videoAsset": "assets/swim_tech8.4.mp4"
+        },
+        {
+          "drill_name": "200 m nei 4 stili",
+          "category": "4 stili",
+          "description": "200 m 4 stili. Metodo e stile di nuoto, compresa la partenza e la virata, secondo regolamento FINA in vigore.",
+          "distance": "200 m",
+          "focus": "Ordine e stili di nuoto, compresa la partenza e la virata, secondo regolamento FINA in vigore",
+          "videoAsset": "assets/swim_tech8.5.mp4"
+        },
+        {
+          "drill_name": "Delfino",
+          "category": "Velocità",
+          "description": "25 m delfino completo, compresa la partenza.",
+          "distance": "25 m",
+          "focus": "Movimenti efficaci in posizione idrodinamica",
+          "videoAsset": "assets/swim_tech8.6.mp4"
+        }
+      ]
+    }
+  ]
+}
