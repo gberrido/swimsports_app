@@ -1,6 +1,6 @@
-# Swim Sports CH
+# Swimsports.ch App
 
-Swim Sports CH is a mobile application designed for both Android and iOS devices. It provides comprehensive training modules across various swimming levels, complete with video tutorials and descriptive guides.
+Swimsports.ch App is a mobile application designed for both Android and iOS devices. It provides comprehensive training modules across various swimming levels, complete with video tutorials and descriptive guides.
 ## Features
 
 - **Swimming Levels**: Detailed breakdown of different swimming levels with objectives and progress tracking.
