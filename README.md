@@ -78,6 +78,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ---
 
-Swim Sports CH aims to be the go-to app for swimming coachh of all levels. Dive into the experience and make a splash in your swimming journey!
+Swim Sports CH aims to be the go-to app for swimming coach of all levels. Dive into the experience and make a splash in your swimming journey!
 
 For more information or support, please contact [admin@swimsports.ch](mailto:admin@swimsports.ch).
