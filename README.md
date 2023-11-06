@@ -47,11 +47,11 @@ Before you begin, ensure you have the following installed:
      - Select a target device or simulator.
      - Run the build (`Cmd + R`).
 
-### Testing
+### Test run
 
 - Run automated tests by executing:
   ```sh
-  flutter test
+  flutter run
   ```
 
 - To fix possible typos in the `.json` files, manually review the files or use JSON validators such as [JSONLint](https://jsonlint.com/).
